@@ -1,11 +1,11 @@
 
-# CodeScout-Bench
+# CodeFix-Bench
 
-**CodeScout-Bench: A Large-Scale Benchmark for Mapping Issue Reports to Code Files**
+**CodeFix-Bench: A Large-Scale Benchmark for Mapping Issue Reports to Code Files**
 
 ## Overview
 
-CodeScout-Bench is a comprehensive dataset and benchmark designed to support research in code localization. This benchmark aids models in identifying files relevant to a code fix based on plain-text inputs, such as bug reports and feature requests.
+CodeFix-Bench is a comprehensive dataset and benchmark designed to support research in code localization. This benchmark aids models in identifying files relevant to a code fix based on plain-text inputs, such as bug reports and feature requests.
 
 ## Contents
 
@@ -30,8 +30,8 @@ CodeScout-Bench is a comprehensive dataset and benchmark designed to support res
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/CodeScout-Bench.git
-   cd CodeScout-Bench
+   git clone https://github.com/your-username/CodeFix-Bench.git
+   cd CodeFix-Bench
    ```
 2. Install dependencies:
    ```bash
