@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/13757",
+    "base": "3f140dde51c0fe6c350acb7727bbe489a99f0632",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/db/models/fields/json.py,0.95\\ndjango/db/backends/sqlite3/base.py,0.90\\ndjango/db/backends/oracle/base.py,0.90\\ndjango/db/backends/mysql/base.py,0.85\\ndjango/db/backends/postgresql/base.py,0.85\\ndjango/db/backends/dummy/base.py,0.80\\ndjango/db/migrations/operations/fields.py,0.75\\ndjango/db/models/fields/reverse_related.py,0.70\\ndjango/db/models/fields/related_lookups.py,0.70\\ndjango/db/models/fields/related.py,0.65\\ndjango/db/models/fields/mixins.py,0.65\\ndjango/db/migrations/state.py,0.60\\ndjango/db/models/query.py,0.60\\ndjango/db/models/aggregates.py,0.55\\ndjango/db/models/functions/lookup.py,0.55\\ndjango/db/models/functions/window.py,0.50\\ndjango/db/models/functions/text.py,0.50\\ndjango/contrib/gis/forms/fields.py,0.45\\ndjango/contrib/gis/db/models/fields.py,0.45\\ndjango/contrib/gis/db/models/lookups.py,0.45', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 12.629,
+    "prompt_type": "task"
+}

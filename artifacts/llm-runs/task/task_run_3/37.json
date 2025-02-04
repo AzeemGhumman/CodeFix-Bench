@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/16532",
+    "base": "ce8189eea007882bbe6db22f86b0965e718bd341",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='models.py,0.95  \\nmigrations/operations/models.py,0.94  \\nmigrations/executor.py,0.93  \\nmigrations/serializer.py,0.92  \\nmigrations/loader.py,0.91  \\nmigrations/questioner.py,0.90  \\nmigrations/migration.py,0.89  \\nmigrations/autodetector.py,0.88  \\nmigrations/graph.py,0.87  \\nmigrations/optimizer.py,0.86  \\napps.py,0.85  \\nutils.py,0.84  \\nsignals.py,0.83  \\nmanagement/commands/makemigrations.py,0.82  \\nmanagement/commands/migrate.py,0.81  \\nmanagement/commands/showmigrations.py,0.80  \\ncontenttypes/models.py,0.79  \\ncontenttypes/fields.py,0.78  \\nforms/models.py,0.77  \\nadmin/options.py,0.76', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 11.953,
+    "prompt_type": "task"
+}

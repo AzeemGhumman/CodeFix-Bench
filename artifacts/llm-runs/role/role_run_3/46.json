@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/8326",
+    "base": "af1fa5e7da21c57a4037e67f93493af4e78d454a",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/core/management/commands/diffsettings.py,0.95\\ndjango/core/management/base.py,0.88\\ndjango/core/management/color.py,0.82\\ndjango/core/management/__init__.py,0.81\\ndjango/core/management/utils.py,0.79\\ndjango/core/checks/security/sessions.py,0.74\\ndjango/core/checks/security/csrf.py,0.72\\ndjango/core/checks/security/base.py,0.68\\ndjango/core/checks/urls.py,0.66\\ndjango/core/checks/model_checks.py,0.65\\ndjango/core/checks/messages.py,0.63\\ndjango/core/checks/registry.py,0.62\\ndjango/core/checks/templates.py,0.60\\ndjango/core/checks/database.py,0.59\\ndjango/core/cache/utils.py,0.57\\ndjango/core/cache/backends/base.py,0.56\\ndjango/core/cache/backends/filebased.py,0.55\\ndjango/core/cache/backends/locmem.py,0.54\\ndjango/core/cache/backends/memcached.py,0.53\\ndjango/core/cache/backends/dummy.py,0.52', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 10.69,
+    "prompt_type": "role"
+}

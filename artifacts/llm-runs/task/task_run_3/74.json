@@ -1,0 +1,8 @@
+{
+    "pr": "scikit-learn/scikit-learn/10870",
+    "base": "b0e91e4110942e5b3c4333b1c6b6dfefbd1a6124",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sklearn/mixture/gaussian_mixture.py,1.0\\nsklearn/mixture/base.py,0.95\\nsklearn/setup.py,0.9\\nsklearn/mixture/tests/test_gaussian_mixture.py,0.85\\nsklearn/metrics/scorer.py,0.8\\nsklearn/metric_eval/gaussian_mixture.py,0.75\\nsklearn/mixture/__init__.py,0.7\\nsklearn/cluster/birch.py,0.65\\nsklearn/model_selection/_search.py,0.6\\nsklearn/linear_model/randome_state.py,0.55\\nsklearn/linear_model/randomized_logistic_regression.py,0.5\\nsklearn/preprocessing/imputation.py,0.45\\nsklearn/ensemble/setup.py,0.4\\nsklearn/model_selection/_validation.py,0.35\\nsklearn/model_selection/_split.py,0.3\\nsklearn/externals/joblib/__init__.py,0.25\\nsklearn/linear_model/_base.py,0.2\\nsklearn/linear_model/logistic.py,0.15\\nsklearn/utils/metaestimators.py,0.1\\nsklearn/utils/deprecation.py,0.05', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 6.836,
+    "prompt_type": "task"
+}

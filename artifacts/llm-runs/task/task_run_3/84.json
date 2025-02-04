@@ -1,0 +1,8 @@
+{
+    "pr": "sphinx-doc/sphinx/11316",
+    "base": "db739afaeb6129676504e964ce287fe6becb3471",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sphinx/ext/napoleon/docstring.py,1.0\\nsphinx/domains/python.py,0.9\\nsphinx/ext/autodoc/directive.py,0.85\\nsphinx/ext/autodoc/__init__.py,0.8\\nsphinx/ext/autodoc/importer.py,0.75\\nsphinx/ext/autosummary/generate.py,0.7\\nsphinx/ext/autodoc/typehints.py,0.65\\nsphinx/ext/autodoc/type_comment.py,0.6\\nsphinx/pycode/parser.py,0.55\\nsphinx/pycode/ast.py,0.5\\nsphinx/domains/__init__.py,0.45\\nsphinx/writers/html5.py,0.4\\nsphinx/builders/latex/transforms.py,0.35\\nsphinx/ext/napoleon/__init__.py,0.3\\nsphinx/util/docstrings.py,0.25\\nsphinx/enviroment/collectors/metadata.py,0.2\\nsphinx/environment/collectors/toctree.py,0.15\\nsphinx/util/matching.py,0.1\\nsphinx/util/requests.py,0.05\\nsphinx/util/parallel.py,0.01', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 8.11,
+    "prompt_type": "task"
+}

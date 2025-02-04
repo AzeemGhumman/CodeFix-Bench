@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/19713",
+    "base": "b1078cd096aa891ebadf5d941ab83268f8b03a80",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sympy/physics/mechanics/kane.py,0.99  \\nsympy/physics/mechanics/system.py,0.98  \\nsympy/physics/mechanics/lagrange.py,0.97  \\nsympy/physics/mechanics/rigidbody.py,0.96  \\nsympy/physics/mechanics/body.py,0.95  \\nsympy/physics/mechanics/particle.py,0.94  \\nsympy/physics/mechanics/linearize.py,0.93  \\nsympy/physics/mechanics/models.py,0.92  \\nsympy/parsing/sym_expr.py,0.91  \\nsympy/parsing/sympy_parser.py,0.90  \\nsympy/core/numbers.py,0.89  \\nsympy/polys/polytools.py,0.88  \\nsympy/polys/subresultants_qq_zz.py,0.87  \\nsympy/polys/agca/homomorphisms.py,0.86  \\nsympy/polys/agca/ideals.py,0.85  \\nsympy/polys/agca/extensions.py,0.84  \\nsympy/polys/agca/modules.py,0.83  \\nsympy/core/expr.py,0.82  \\nsympy/core/benchmarks/bench_arit.py,0.81  \\nsympy/core/assumptions.py,0.80', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 58.213,
+    "prompt_type": "role"
+}

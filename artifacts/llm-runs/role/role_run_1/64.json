@@ -1,0 +1,8 @@
+{
+    "pr": "pydata/xarray/6889",
+    "base": "790a444b11c244fd2d33e2d2484a590f8fc000ff",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='xarray/core/alignment.py,1.00\\nxarray/core/dataset.py,0.95\\nxarray/core/accessor_dt.py,0.90\\nxarray/core/coords.py,0.85\\nxarray/core/variable.py,0.80\\nxarray/core/computation.py,0.75\\nxarray/core/concat.py,0.70\\nxarray/core/dtypes.py,0.65\\nxarray/core/indexing.py,0.60\\nxarray/core/ops.py,0.55\\nxarray/core/resample.py,0.50\\nxarray/core/rolling.py,0.45\\nxarray/core/duck_array_ops.py,0.40\\nxarray/core/accessor_str.py,0.35\\nxarray/core/parallel.py,0.30\\nxarray/core/missing.py,0.25\\nxarray/core/formating_html.py,0.20\\nxarray/util/print_versions.py,0.15\\nxarray/backends/netCDF4_.py,0.10\\nxarray/backends/cfgrib_.py,0.05', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 6.041,
+    "prompt_type": "role"
+}

@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/20212",
+    "base": "a106f4782a9dbe7f8fd16030f15401d977e03ae9",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sympy/core/power.py,1.00  \\nsympy/stats/rv.py,0.98  \\nsympy/stats/crv.py,0.96  \\nsympy/stats/matrix_distributions.py,0.95  \\nsympy/stats/crv_types.py,0.94  \\nsympy/stats/random_matrix.py,0.93  \\nsympy/stats/drv.py,0.92  \\nsympy/stats/drv_types.py,0.91  \\nsympy/stats/joint_rv.py,0.90  \\nsympy/stats/joint_rv_types.py,0.89  \\nsympy/stats/frv.py,0.88  \\nsympy/stats/random_matrix_models.py,0.87  \\nsympy/stats/frv_types.py,0.86  \\nsympy/stats/symbolic_probability.py,0.85  \\nsympy/stats/symbolic_multivariate_probability.py,0.84  \\nsympy/stats/stochastic_process.py,0.83  \\nsympy/stats/stochastic_process_types.py,0.82  \\nsympy/core/evalf.py,0.79  \\nsympy/core/power.py,0.78  \\nsympy/core/expr.py,0.77', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 58.51,
+    "prompt_type": "role"
+}

@@ -1,0 +1,8 @@
+{
+    "pr": "scikit-learn/scikit-learn/13877",
+    "base": "88846b3be23e96553fb90d0c5575d74ffd8dbff2",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sklearn/metrics/pairwise.py,1.0\\nsklearn/metrics/__init__.py,0.9\\nsklearn/preprocessing/data.py,0.85\\nsklearn/utils/testing.py,0.8\\nsklearn/utils/validation.py,0.75\\nsklearn/tree/setup.py,0.7\\nsklearn/metrics/_pairwise.py,0.68\\nsklearn/setup.py,0.65\\nsklearn/utils/multiclass.py,0.6\\nsklearn/neural_network/_base.py,0.55\\nsklearn/inspection/partial_dependence.py,0.52\\nsklearn/utils/_pprint.py,0.5\\nsklearn/ensemble/_gb_losses.py,0.48\\nsklearn/_build_utils/setup.py,0.45\\nsklearn/linear_model/__init__.py,0.42\\nsklearn/metrics/cluster/supervised.py,0.4\\nsklearn/neighbors/kde.py,0.38\\nsklearn/neighbors/classification.py,0.35\\nsklearn/neighbors/classification.py,0.32\\nsklearn/neighbors/__init__.py,0.3', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 6.819,
+    "prompt_type": "role"
+}

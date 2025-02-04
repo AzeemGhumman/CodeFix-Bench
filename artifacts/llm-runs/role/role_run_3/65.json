@@ -1,0 +1,8 @@
+{
+    "pr": "pylint-dev/pylint/4812",
+    "base": "47b483ae037e35c25e84b5b697303f2dd79a0e4e",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='pylint/config/option_manager_mixin.py,0.95\\npylint/config/option_parser.py,0.85\\npylint/config/option.py,0.80\\npylint/config/configuration_mixin.py,0.75\\npylint/config/__init__.py,0.70\\npylint/lint/run.py,0.65\\npylint/lint/utils.py,0.60\\npylint/lint/pylinter.py,0.55\\npylint/lint/expand_modules.py,0.50\\npylint/utils/file_state.py,0.45\\npylint/utils/utils.py,0.40\\npylint/reporters/multi_reporter.py,0.35\\npylint/reporters/base_reporter.py,0.30\\npylint/reporters/text.py,0.25\\npylint/reporters/json_reporter.py,0.20\\npylint/checkers/impor', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 4.339,
+    "prompt_type": "role"
+}

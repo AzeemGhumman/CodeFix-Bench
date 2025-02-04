@@ -1,0 +1,8 @@
+{
+    "pr": "scikit-learn/scikit-learn/12585",
+    "base": "bfc4a566423e036fbdc9fb02765fd893e4860c85",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sklearn/base.py,1.0  \\nsklearn/pipeline.py,0.95  \\nsklearn/multioutput.py,0.92  \\nsklearn/_config.py,0.90  \\nsklearn/__init__.py,0.85  \\nsklearn/neighbors/base.py,0.83  \\nsklearn/neighbors/classification.py,0.80  \\nsklearn/cluster/k_means_.py,0.78  \\nsklearn/tree/tree.py,0.75  \\nsklearn/mixture/base.py,0.73  \\nsklearn/mixture/gaussian_mixture.py,0.70  \\nsklearn/svm/classes.py,0.68  \\nsklearn/svm/base.py,0.65  \\nsklearn/linear_model/base.py,0.63  \\nsklearn/linear_model/logistic.py,0.60  \\nsklearn/linear_model/coordinate_descent.py,0.58  \\nsklearn/linear_model/ridge.py,0.56  \\nsklearn/neighbors/setup.py,0.54  \\nsklearn/__check_build/__init__.py,0.52  \\nsklearn/setup.py,0.50', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 7.2,
+    "prompt_type": "task"
+}

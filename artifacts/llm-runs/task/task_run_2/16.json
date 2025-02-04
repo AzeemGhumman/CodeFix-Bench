@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/12700",
+    "base": "d51c50d836c5cf8db5566da17963f871be554615",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/core/serializers/base.py,0.95\\ndjango/core/serializers/json.py,0.94\\ndjango/core/serializers/python.py,0.93\\ndjango/core/serializers/xml_serializer.py,0.92\\ndjango/core/serializers/pyyaml.py,0.91\\ndjango/core/serializers/__init__.py,0.90\\ndjango/core/mail/message.py,0.89\\ndjango/core/mail/backends/base.py,0.88\\ndjango/core/mail/backends/dummy.py,0.87\\ndjango/core/mail/backends/smtp.py,0.86\\ndjango/core/mail/backends/locmem.py,0.85\\ndjango/core/mail/backends/console.py,0.84\\ndjango/core/mail/backends/filebased.py,0.83\\ndjango/core/validators.py,0.82\\ndjango/core/management/commands/testserver.py,0.81\\ndjango/core/management/commands/runserver.py,0.80\\ndjango/middleware/csrf.py,0.79\\ndjango/urls/base.py,0.78\\ndjango/urls/resolvers.py,0.77\\ndjango/urls/converters.py,0.76', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 11.716,
+    "prompt_type": "task"
+}

@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/15789",
+    "base": "d4d5427571b4bf3a21c902276c2a00215c2a37cc",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/utils/html.py,1.0\\ndjango/core/serializers/json.py,0.9\\ndjango/core/serializers/base.py,0.85\\ndjango/core/serializers/jsonl.py,0.82\\ndjango/db/models/fields/__init__.py,0.8\\ndjango/db/models/fields/json.py,0.78\\ndjango/contrib/gis/serializers/geojson.py,0.75\\ndjango/utils/asyncio.py,0.73\\ndjango/utils/encoding.py,0.72\\ndjango/core/serializers/pyyaml.py,0.7\\ndjango/core/serializers/xml_serializer.py,0.68\\ndjango/core/serializers/python.py,0.67\\ndjango/db/backends/postgresql/operations.py,0.65\\ndjango/db/backends/mysql/operations.py,0.64\\ndjango/contrib/gis/gdal/serializer.py,0.63\\ndjango/contrib/gis/gdal/prototypes/geom.py,0.62\\ndjango/db/models/indexes.py,0.61\\ndjango/db/models/functions/mixins.py,0.6\\ndjango/db/backends/base/schema.py,0.59\\ndjango/db/backends/base/operations.py,0.58', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 12.538,
+    "prompt_type": "role"
+}

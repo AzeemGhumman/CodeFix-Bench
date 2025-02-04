@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/19110",
+    "base": "542a1758e517c3b5e95e480dcd49b9b24a01f191",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sympy/matrices/expressions/matexpr.py,0.98  \\nsympy/matrices/modifiers.py,0.95  \\nsympy/matrices/matrices.py,0.93  \\nsympy/matrices/expressions/adjoint.py,0.90  \\nsympy/matrices/expressions/inverse.py,0.88  \\nsympy/matrices/expressions/determinant.py,0.85  \\nsympy/matrices/expressions/trace.py,0.83  \\nsympy/matrices/matrices/matrix_chars.py,0.80  \\nsympy/matrices/computed_matrix.py,0.78  \\nsympy/matrices/expressions/matmul.py,0.75  \\nsympy/matrices/expressions/matadd.py,0.73  \\nsympy/matrices/expressions/matpow.py,0.70  \\nsympy/printing/pretty/stringpict.py,0.67  \\nsympy/printing/pretty/pretty.py,0.65  \\nsympy/utilities/exceptions.py,0.63  \\nsympy/printing/latex.py,0.60  \\nsympy/utilities/memoization.py,0.58  \\nsympy/utilities/lambdify.py,0.55  \\nsympy/utilities/decorator.py,0.53  \\nsympy/utilities/stats.py,0.50', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 58.267,
+    "prompt_type": "task"
+}

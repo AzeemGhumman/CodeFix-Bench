@@ -1,0 +1,8 @@
+{
+    "pr": "pytest-dev/pytest/10371",
+    "base": "bc2c3b66aa084fa4ff64f836aee73eae4cb72818",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='src/_pytest/pytester.py,0.9  \\nsrc/_pytest/logging.py,0.9  \\nsrc/_pytest/cli/main.py,0.8  \\nsrc/_pytest/config/argparsing.py,0.8  \\nsrc/_pytest/config/__init__.py,0.8  \\nsrc/_pytest/nodes.py,0.7  \\nsrc/_pytest/cli/parser.py,0.7  \\nsrc/_pytest/logging/__init__.py,0.7  \\nsrc/_pytest/hookspec.py,0.7  \\nsrc/_pytest/pluginmanager.py,0.7  \\nsrc/_pytest/terminal.py,0.6  \\nsrc/_pytest/caching/__init__.py,0.6  \\nsrc/_pytest/caching/plugin.py,0.6  \\nsrc/_pytest/_code/code.py,0.6  \\nsrc/_pytest/_code/pyobject.py,0.6  \\nsrc/_pytest/_py/compat.py,0.5  \\nsrc/_pytest/_py/path.py,0.5  \\nsrc/_pytest/_py/__init__.py,0.5  \\nsrc/_pytest/subprocess/util.py,0.5  \\nsrc/_pytest/logging/logcapture.py,0.5', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 5.305,
+    "prompt_type": "task"
+}

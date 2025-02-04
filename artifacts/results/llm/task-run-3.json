@@ -1,0 +1,3495 @@
+{
+    "astropy/astropy/13453": {
+        "results": [
+            {
+                "file": "astropy/io/ascii/html.py"
+            }
+        ]
+    },
+    "django/django/11666": {
+        "results": [
+            {
+                "file": "django/utils/cache.py"
+            },
+            {
+                "file": "django/views/decorators/cache.py"
+            },
+            {
+                "file": "django/core/handlers/base.py"
+            },
+            {
+                "file": "django/middleware/cache.py"
+            },
+            {
+                "file": "django/db/migrations/operations/fields.py"
+            },
+            {
+                "file": "django/contrib/sessions/backends/base.py"
+            },
+            {
+                "file": "django/contrib/postgres/aggregates/general.py"
+            },
+            {
+                "file": "django/contrib/postgres/aggregates/mixins.py"
+            },
+            {
+                "file": "django/contrib/postgres/fields/array.py"
+            },
+            {
+                "file": "django/contrib/postgres/fields/ranges.py"
+            },
+            {
+                "file": "django/contrib/postgres/fields/mixins.py"
+            },
+            {
+                "file": "django/contrib/postgres/fields/jsonb.py"
+            },
+            {
+                "file": "django/contrib/postgres/fields/citext.py"
+            },
+            {
+                "file": "django/contrib/postgres/fields/hstore.py"
+            },
+            {
+                "file": "django/contrib/postgres/serializers.py"
+            },
+            {
+                "file": "django/contrib/postgres/aggregates/statistics.py"
+            },
+            {
+                "file": "django/contrib/postgres/validators.py"
+            },
+            {
+                "file": "django/contrib/postgres/operations.py"
+            },
+            {
+                "file": "django/contrib/postgres/forms/jsonb.py"
+            },
+            {
+                "file": "django/contrib/postgres/forms/ranges.py"
+            }
+        ]
+    },
+    "sympy/sympy/24152": {
+        "results": [
+            {
+                "file": "sympy/physics/quantum/qapply.py"
+            }
+        ]
+    },
+    "django/django/11997": {
+        "results": [
+            {
+                "file": "django/template/defaultfilters.py"
+            },
+            {
+                "file": "django/utils/numberformat.py"
+            },
+            {
+                "file": "django/db/backends/sqlite3/operations.py"
+            },
+            {
+                "file": "django/urls/base.py"
+            },
+            {
+                "file": "django/template/context_processors.py"
+            },
+            {
+                "file": "django/contrib/redirects/middleware.py"
+            },
+            {
+                "file": "django/core/servers/basehttp.py"
+            },
+            {
+                "file": "django/contrib/staticfiles/views.py"
+            },
+            {
+                "file": "django/core/checks/security/sessions.py"
+            },
+            {
+                "file": "django/db/migrations/operations/fields.py"
+            },
+            {
+                "file": "django/contrib/admin/views/main.py"
+            },
+            {
+                "file": "django/contrib/staticfiles/management/commands/collectstatic.py"
+            },
+            {
+                "file": "django/db/models/manager.py"
+            },
+            {
+                "file": "django/db/migrations/operations/utils.py"
+            },
+            {
+                "file": "django/contrib/contenttypes/models.py"
+            },
+            {
+                "file": "django/forms/forms.py"
+            },
+            {
+                "file": "django/contrib/admin/templatetags/admin_list.py"
+            },
+            {
+                "file": "django/views/generic/edit.py"
+            },
+            {
+                "file": "django/contrib/auth/backends.py"
+            },
+            {
+                "file": "django/contrib/postgres/fields/array.py"
+            }
+        ]
+    },
+    "django/django/12132": {
+        "results": [
+            {
+                "file": "django/http/request.py"
+            }
+        ]
+    },
+    "django/django/12185": {
+        "results": [
+            {
+                "file": "django/db/models/expressions.py"
+            }
+        ]
+    },
+    "django/django/12430": {
+        "results": [
+            {
+                "file": "django/core/cache/utils.py"
+            },
+            {
+                "file": "django/core/cache/__init__.py"
+            },
+            {
+                "file": "django/core/cache/backends/base.py"
+            },
+            {
+                "file": "django/core/cache/backends/locmem.py"
+            },
+            {
+                "file": "django/core/cache/backends/db.py"
+            },
+            {
+                "file": "django/core/cache/backends/filebased.py"
+            },
+            {
+                "file": "django/core/cache/backends/memcached.py"
+            },
+            {
+                "file": "django/core/cache/backends/dummy.py"
+            },
+            {
+                "file": "django/core/management/commands/check.py"
+            },
+            {
+                "file": "django/core/checks/caches.py"
+            },
+            {
+                "file": "django/core/checks/database.py"
+            },
+            {
+                "file": "django/core/management/utils.py"
+            },
+            {
+                "file": "django/core/checks/security/sessions.py"
+            },
+            {
+                "file": "django/core/management/commands/makemigrations.py"
+            },
+            {
+                "file": "django/core/management/commands/squashmigrations.py"
+            },
+            {
+                "file": "django/core/checks/templates.py"
+            },
+            {
+                "file": "django/core/checks/urls.py"
+            },
+            {
+                "file": "django/core/checks/security/base.py"
+            },
+            {
+                "file": "django/core/handlers/asgi.py"
+            },
+            {
+                "file": "django/core/handlers/base.py"
+            }
+        ]
+    },
+    "django/django/12458": {
+        "results": [
+            {
+                "file": "django/core/management/commands/dumpdata.py"
+            }
+        ]
+    },
+    "django/django/12700": {
+        "results": [
+            {
+                "file": "django/views/debug.py"
+            }
+        ]
+    },
+    "django/django/12855": {
+        "results": [
+            {
+                "file": "django/urls/resolvers.py"
+            }
+        ]
+    },
+    "django/django/12912": {
+        "results": [
+            {
+                "file": "django/db/models/query.py"
+            }
+        ]
+    },
+    "django/django/12936": {
+        "results": [
+            {
+                "file": "django/db/models/expressions.py"
+            }
+        ]
+    },
+    "django/django/10426": {
+        "results": [
+            {
+                "file": "django/core/management/commands/showmigrations.py"
+            }
+        ]
+    },
+    "django/django/13032": {
+        "results": [
+            {
+                "file": "django/core/management/commands/makemigrations.py"
+            }
+        ]
+    },
+    "django/django/13165": {
+        "results": [
+            {
+                "file": "django/db/models/expressions.py"
+            }
+        ]
+    },
+    "django/django/13207": {
+        "results": [
+            {
+                "file": "django/contrib/gis/forms/fields.py"
+            }
+        ]
+    },
+    "django/django/13212": {
+        "results": [
+            {
+                "file": "django/core/validators.py"
+            }
+        ]
+    },
+    "django/django/13413": {
+        "results": [
+            {
+                "file": "django/contrib/admin/filters.py"
+            }
+        ]
+    },
+    "django/django/13757": {
+        "results": [
+            {
+                "file": "django/db/models/fields/json.py"
+            }
+        ]
+    },
+    "django/django/14169": {
+        "results": [
+            {
+                "file": "django/db/backends/sqlite3/creation.py"
+            }
+        ]
+    },
+    "django/django/14238": {
+        "results": [
+            {
+                "file": "django/db/models/fields/__init__.py"
+            }
+        ]
+    },
+    "django/django/14341": {
+        "results": [
+            {
+                "file": "django/core/cache/backends/dummy.py"
+            },
+            {
+                "file": "django/core/cache/backends/memcached.py"
+            },
+            {
+                "file": "django/core/cache/backends/locmem.py"
+            },
+            {
+                "file": "django/core/cache/backends/db.py"
+            },
+            {
+                "file": "django/core/cache/backends/filebased.py"
+            },
+            {
+                "file": "django/core/cache/utils.py"
+            },
+            {
+                "file": "django/core/cache/__init__.py"
+            },
+            {
+                "file": "django/db/backends/utils.py"
+            },
+            {
+                "file": "django/db/backends/base/creation.py"
+            },
+            {
+                "file": "django/db/backends/base/client.py"
+            },
+            {
+                "file": "django/db/backends/base/introspection.py"
+            },
+            {
+                "file": "django/db/backends/postgresql/base.py"
+            },
+            {
+                "file": "django/db/backends/mysql/base.py"
+            },
+            {
+                "file": "django/db/backends/oracle/base.py"
+            },
+            {
+                "file": "django/db/models/manager.py"
+            },
+            {
+                "file": "django/db/models/fields/__init__.py"
+            },
+            {
+                "file": "django/db/models/fields/related.py"
+            },
+            {
+                "file": "django/db/models/query.py"
+            },
+            {
+                "file": "django/db/models/options.py"
+            },
+            {
+                "file": "django/db/models/base.py"
+            },
+            {
+                "file": "django/db/migrations/operations/fields.py"
+            }
+        ]
+    },
+    "django/django/14717": {
+        "results": [
+            {
+                "file": "django/db/models/fields/__init__.py"
+            },
+            {
+                "file": "django/db/models/fields/related.py"
+            },
+            {
+                "file": "django/db/models/fields/json.py"
+            },
+            {
+                "file": "django/db/models/fields/proxy.py"
+            },
+            {
+                "file": "django/db/models/fields/mixins.py"
+            },
+            {
+                "file": "django/db/models/fields/files.py"
+            },
+            {
+                "file": "django/db/models/fields/reverse_related.py"
+            },
+            {
+                "file": "django/db/models/fields/related_descriptors.py"
+            },
+            {
+                "file": "django/db/models/fields/related_lookups.py"
+            },
+            {
+                "file": "django/db/migrations/serializer.py"
+            },
+            {
+                "file": "django/db/migrations/loader.py"
+            },
+            {
+                "file": "django/db/migrations/recorder.py"
+            },
+            {
+                "file": "django/db/migrations/state.py"
+            },
+            {
+                "file": "django/db/migrations/questioner.py"
+            },
+            {
+                "file": "django/db/migrations/optimizer.py"
+            },
+            {
+                "file": "django/db/migrations/graph.py"
+            },
+            {
+                "file": "django/db/migrations/autodetector.py"
+            },
+            {
+                "file": "django/db/models/query.py"
+            },
+            {
+                "file": "django/db/models/expressions.py"
+            },
+            {
+                "file": "django/db/models/aggregates.py"
+            }
+        ]
+    },
+    "django/django/10730": {
+        "results": [
+            {
+                "file": "django/views/debug.py"
+            },
+            {
+                "file": "django/views/debug.py"
+            },
+            {
+                "file": "django/views/debug.py"
+            },
+            {
+                "file": "django/views/debug.py"
+            },
+            {
+                "file": "django/views/debug.py"
+            },
+            {
+                "file": "django/views/debug.py"
+            },
+            {
+                "file": "django/views/decorators/csrf.py"
+            },
+            {
+                "file": "django/views/decorators/csrf.py"
+            },
+            {
+                "file": "django/views/__init__.py"
+            },
+            {
+                "file": "django/core/handlers/exception.py"
+            },
+            {
+                "file": "django/core/handlers/exception.py"
+            },
+            {
+                "file": "django/core/handlers/exception.py"
+            },
+            {
+                "file": "django/core/handlers/exception.py"
+            },
+            {
+                "file": "django/core/handlers/wsgi.py"
+            },
+            {
+                "file": "django/core/handlers/wsgi.py"
+            },
+            {
+                "file": "django/core/handlers/base.py"
+            },
+            {
+                "file": "django/core/handlers/base.py"
+            },
+            {
+                "file": "django/db/models/query.py"
+            },
+            {
+                "file": "django/db/models/query.py"
+            },
+            {
+                "file": "django/db/models/query.py"
+            }
+        ]
+    },
+    "django/django/14812": {
+        "results": [
+            {
+                "file": "django/contrib/admin/forms.py"
+            },
+            {
+                "file": "django/contrib/admin/helpers.py"
+            },
+            {
+                "file": "django/contrib/admin/models.py"
+            },
+            {
+                "file": "django/contrib/admin/templatetags/admin_list.py"
+            },
+            {
+                "file": "django/contrib/admin/templatetags/admin_modify.py"
+            },
+            {
+                "file": "django/contrib/admin/checks.py"
+            },
+            {
+                "file": "django/contrib/admin/decorators.py"
+            },
+            {
+                "file": "django/contrib/admin/options.py"
+            },
+            {
+                "file": "django/contrib/admin/sites.py"
+            },
+            {
+                "file": "django/contrib/admin/filters.py"
+            },
+            {
+                "file": "django/forms/models.py"
+            },
+            {
+                "file": "django/forms/boundfield.py"
+            },
+            {
+                "file": "django/forms/forms.py"
+            },
+            {
+                "file": "django/forms/widgets.py"
+            },
+            {
+                "file": "django/forms/formsets.py"
+            },
+            {
+                "file": "django/forms/utils.py"
+            },
+            {
+                "file": "django/core/handlers/base.py"
+            },
+            {
+                "file": "django/core/serializers/json.py"
+            },
+            {
+                "file": "django/core/urls/utils.py"
+            },
+            {
+                "file": "django/core/cache/utils.py"
+            }
+        ]
+    },
+    "django/django/14954": {
+        "results": [
+            {
+                "file": "django/core/management/commands/createsuperuser.py"
+            }
+        ]
+    },
+    "django/django/14983": {
+        "results": [
+            {
+                "file": "django/core/management/commands/makemigrations.py"
+            }
+        ]
+    },
+    "django/django/15204": {
+        "results": [
+            {
+                "file": "django/forms/fields.py"
+            }
+        ]
+    },
+    "django/django/15789": {
+        "results": [
+            {
+                "file": "django/utils/html.py"
+            },
+            {
+                "file": "django/views/debug.py"
+            },
+            {
+                "file": "django/template/response.py"
+            },
+            {
+                "file": "django/contrib/admin/views/main.py"
+            },
+            {
+                "file": "django/contrib/admin/views/decorators.py"
+            },
+            {
+                "file": "django/contrib/admin/views/autocomplete.py"
+            },
+            {
+                "file": "django/contrib/admin/helpers.py"
+            },
+            {
+                "file": "django/contrib/admin/templatetags/admin_list.py"
+            },
+            {
+                "file": "django/contrib/admin/templatetags/admin_modify.py"
+            },
+            {
+                "file": "django/contrib/admin/templatetags/admin_urls.py"
+            },
+            {
+                "file": "django/contrib/admin/templatetags/log.py"
+            },
+            {
+                "file": "django/contrib/admin/views/main.py"
+            },
+            {
+                "file": "django/contrib/admin/options.py"
+            },
+            {
+                "file": "django/contrib/admin/decorators.py"
+            },
+            {
+                "file": "django/contrib/admin/filters.py"
+            },
+            {
+                "file": "django/contrib/admin/forms.py"
+            },
+            {
+                "file": "django/contrib/admin/widgets.py"
+            },
+            {
+                "file": "django/contrib/admin/views/decorators.py"
+            },
+            {
+                "file": "django/contrib/admin/apps.py"
+            },
+            {
+                "file": "django/contrib/admin/actions.py"
+            }
+        ]
+    },
+    "django/django/16067": {
+        "results": [
+            {
+                "file": "django/forms/fields.py"
+            }
+        ]
+    },
+    "django/django/16501": {
+        "results": [
+            {
+                "file": "django/db/models/constraints.py"
+            }
+        ]
+    },
+    "django/django/16532": {
+        "results": [
+            {
+                "file": "models.py"
+            },
+            {
+                "file": "migrations/operations/models.py"
+            },
+            {
+                "file": "migrations/executor.py"
+            },
+            {
+                "file": "migrations/serializer.py"
+            },
+            {
+                "file": "migrations/loader.py"
+            },
+            {
+                "file": "migrations/questioner.py"
+            },
+            {
+                "file": "migrations/migration.py"
+            },
+            {
+                "file": "migrations/autodetector.py"
+            },
+            {
+                "file": "migrations/graph.py"
+            },
+            {
+                "file": "migrations/optimizer.py"
+            },
+            {
+                "file": "apps.py"
+            },
+            {
+                "file": "utils.py"
+            },
+            {
+                "file": "signals.py"
+            },
+            {
+                "file": "management/commands/makemigrations.py"
+            },
+            {
+                "file": "management/commands/migrate.py"
+            },
+            {
+                "file": "management/commands/showmigrations.py"
+            },
+            {
+                "file": "contenttypes/models.py"
+            },
+            {
+                "file": "contenttypes/fields.py"
+            },
+            {
+                "file": "forms/models.py"
+            },
+            {
+                "file": "admin/options.py"
+            }
+        ]
+    },
+    "django/django/16597": {
+        "results": [
+            {
+                "file": "django/db/models/expressions.py"
+            }
+        ]
+    },
+    "django/django/16657": {
+        "results": [
+            {
+                "file": "django/db/models/query.py"
+            },
+            {
+                "file": "django/db/models/base.py"
+            },
+            {
+                "file": "django/db/models/functions/comparison.py"
+            },
+            {
+                "file": "django/db/models/aggregates.py"
+            },
+            {
+                "file": "django/db/models/expressions.py"
+            },
+            {
+                "file": "django/db/models/fields/__init__.py"
+            },
+            {
+                "file": "django/db/models/fields/related.py"
+            },
+            {
+                "file": "django/db/models/fields/related_lookups.py"
+            },
+            {
+                "file": "django/db/models/fields/reverse_related.py"
+            },
+            {
+                "file": "django/db/models/fields/mixins.py"
+            },
+            {
+                "file": "django/db/models/manager.py"
+            },
+            {
+                "file": "django/db/models/sql/compiler.py"
+            },
+            {
+                "file": "django/db/models/sql/query.py"
+            },
+            {
+                "file": "django/db/models/sql/subqueries.py"
+            },
+            {
+                "file": "django/db/models/functions/datetime.py"
+            },
+            {
+                "file": "django/db/models/fields/reverse_related_lookups.py"
+            },
+            {
+                "file": "django/db/models/constraints.py"
+            },
+            {
+                "file": "django/db/models/options.py"
+            },
+            {
+                "file": "django/db/models/fields/json.py"
+            },
+            {
+                "file": "django/db/models/fields/files.py"
+            }
+        ]
+    },
+    "django/django/11001": {
+        "results": [
+            {
+                "file": "django/db/models/sql/compiler.py"
+            },
+            {
+                "file": "django/db/models/query.py"
+            },
+            {
+                "file": "django/db/models/indexes.py"
+            },
+            {
+                "file": "django/db/models/constraints.py"
+            },
+            {
+                "file": "django/db/models/base.py"
+            },
+            {
+                "file": "django/db/models/aggregates.py"
+            },
+            {
+                "file": "django/db/models/expressions.py"
+            },
+            {
+                "file": "django/db/models/fields/related.py"
+            },
+            {
+                "file": "django/db/models/fields/proxy.py"
+            },
+            {
+                "file": "django/db/models/fields/__init__.py"
+            },
+            {
+                "file": "django/db/models/fields/files.py"
+            },
+            {
+                "file": "django/db/migrations/loader.py"
+            },
+            {
+                "file": "django/db/migrations/operations/fields.py"
+            },
+            {
+                "file": "django/db/migrations/operations/models.py"
+            },
+            {
+                "file": "django/db/backends/postgresql/base.py"
+            },
+            {
+                "file": "django/db/backends/base/schema.py"
+            },
+            {
+                "file": "django/db/backends/base/operations.py"
+            },
+            {
+                "file": "django/db/backends/postgresql/utils.py"
+            },
+            {
+                "file": "django/db/backends/postgresql/operations.py"
+            },
+            {
+                "file": "django/db/backends/sqlite3/operations.py"
+            }
+        ]
+    },
+    "django/django/16759": {
+        "results": [
+            {
+                "file": "django/contrib/admin/options.py"
+            }
+        ]
+    },
+    "django/django/16802": {
+        "results": [
+            {
+                "file": "django/template/defaultfilters.py"
+            }
+        ]
+    },
+    "django/django/16810": {
+        "results": [
+            {
+                "file": "django/conf/urls/i18n.py"
+            }
+        ]
+    },
+    "django/django/16820": {
+        "results": [
+            {
+                "file": "django/db/migrations/operations/fields.py"
+            }
+        ]
+    },
+    "django/django/16902": {
+        "results": [
+            {
+                "file": "django/db/models/functions/text.py"
+            }
+        ]
+    },
+    "django/django/5470": {
+        "results": [
+            {
+                "file": "django/core/management/__init__.py"
+            },
+            {
+                "file": "django/core/management/commands/diffsettings.py"
+            },
+            {
+                "file": "django/core/management/commands/createsuperuser.py"
+            },
+            {
+                "file": "django/core/management/commands/dbshell.py"
+            },
+            {
+                "file": "django/core/management/commands/makemigrations.py"
+            },
+            {
+                "file": "django/core/management/commands/migrate.py"
+            },
+            {
+                "file": "django/core/management/commands/runserver.py"
+            },
+            {
+                "file": "django/core/management/commands/sendtestemail.py"
+            },
+            {
+                "file": "django/core/management/commands/sqlmigrate.py"
+            },
+            {
+                "file": "django/core/management/commands/startapp.py"
+            },
+            {
+                "file": "django/core/management/commands/startproject.py"
+            },
+            {
+                "file": "django/core/management/commands/testserver.py"
+            },
+            {
+                "file": "django/core/management/commands/test.py"
+            },
+            {
+                "file": "django/core/urlresolvers.py"
+            },
+            {
+                "file": "django/core/management/commands/dumpdata.py"
+            },
+            {
+                "file": "django/core/management/commands/loaddata.py"
+            },
+            {
+                "file": "django/core/management/commands/compilemessages.py"
+            },
+            {
+                "file": "django/core/management/commands/sqlsequencereset.py"
+            },
+            {
+                "file": "django/core/management/commands/showmigrations.py"
+            },
+            {
+                "file": "django/core/management/commands/squashmigrations.py"
+            }
+        ]
+    },
+    "django/django/8326": {
+        "results": [
+            {
+                "file": "django/core/management/commands/diffsettings.py"
+            }
+        ]
+    },
+    "matplotlib/matplotlib/13989": {
+        "results": [
+            {
+                "file": "lib/matplotlib/_pylab_helpers.py"
+            }
+        ]
+    },
+    "matplotlib/matplotlib/14043": {
+        "results": [
+            {
+                "file": "lib/matplotlib/lines.py"
+            },
+            {
+                "file": "lib/matplotlib/artist.py"
+            },
+            {
+                "file": "lib/matplotlib/patches.py"
+            },
+            {
+                "file": "lib/matplotlib/collections.py"
+            },
+            {
+                "file": "lib/matplotlib/containers.py"
+            },
+            {
+                "file": "lib/matplotlib/axis.py"
+            },
+            {
+                "file": "lib/matplotlib/transforms.py"
+            },
+            {
+                "file": "lib/matplotlib/units.py"
+            },
+            {
+                "file": "lib/matplotlib/figure.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_agg.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_pdf.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_ps.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_svg.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_template.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_webagg.py"
+            },
+            {
+                "file": "lib/matplotlib/quiver.py"
+            },
+            {
+                "file": "lib/matplotlib/legend.py"
+            },
+            {
+                "file": "lib/matplotlib/axisartist/axis_artist.py"
+            },
+            {
+                "file": "lib/matplotlib/axisartist/angle_helper.py"
+            },
+            {
+                "file": "lib/matplotlib/axisartist/axislines.py"
+            }
+        ]
+    },
+    "matplotlib/matplotlib/23047": {
+        "results": [
+            {
+                "file": "lib/matplotlib/axes/_axes.py"
+            },
+            {
+                "file": "lib/matplotlib/_path.py"
+            },
+            {
+                "file": "lib/matplotlib/_layoutgrid.py"
+            },
+            {
+                "file": "lib/matplotlib/units.py"
+            },
+            {
+                "file": "lib/matplotlib/image.py"
+            },
+            {
+                "file": "lib/matplotlib/artist.py"
+            },
+            {
+                "file": "lib/matplotlib/transforms.py"
+            },
+            {
+                "file": "lib/matplotlib/contour.py"
+            },
+            {
+                "file": "lib/matplotlib/patheffects.py"
+            },
+            {
+                "file": "lib/matplotlib/axis.py"
+            },
+            {
+                "file": "lib/matplotlib/_cm.py"
+            },
+            {
+                "file": "lib/matplotlib/_layoutgrid.py"
+            },
+            {
+                "file": "lib/matplotlib/_afm.py"
+            },
+            {
+                "file": "lib/matplotlib/dviread.py"
+            },
+            {
+                "file": "lib/matplotlib/_text_helpers.py"
+            },
+            {
+                "file": "lib/matplotlib/markers.py"
+            },
+            {
+                "file": "lib/matplotlib/streams.py"
+            },
+            {
+                "file": "lib/matplotlib/colorbar.py"
+            },
+            {
+                "file": "lib/matplotlib/backend_base.py"
+            },
+            {
+                "file": "lib/matplotlib/backend_pdf.py"
+            }
+        ]
+    },
+    "django/django/11049": {
+        "results": [
+            {
+                "file": "django/contrib/gis/db/models/fields.py"
+            }
+        ]
+    },
+    "matplotlib/matplotlib/23049": {
+        "results": [
+            {
+                "file": "lib/matplotlib/axes/_axes.py"
+            },
+            {
+                "file": "lib/matplotlib/artist.py"
+            },
+            {
+                "file": "lib/matplotlib/axis.py"
+            },
+            {
+                "file": "lib/matplotlib/ticker.py"
+            },
+            {
+                "file": "lib/matplotlib/lines.py"
+            },
+            {
+                "file": "lib/matplotlib/pyplot.py"
+            },
+            {
+                "file": "lib/matplotlib/colors.py"
+            },
+            {
+                "file": "lib/matplotlib/image.py"
+            },
+            {
+                "file": "lib/matplotlib/gridlines.py"
+            },
+            {
+                "file": "lib/matplotlib/spines.py"
+            },
+            {
+                "file": "lib/matplotlib/offsetbox.py"
+            },
+            {
+                "file": "lib/matplotlib/markers.py"
+            },
+            {
+                "file": "lib/matplotlib/projections/polar.py"
+            },
+            {
+                "file": "lib/matplotlib/projections/__init__.py"
+            },
+            {
+                "file": "lib/matplotlib/projections/geo.py"
+            },
+            {
+                "file": "lib/matplotlib/_layoutgrid.py"
+            },
+            {
+                "file": "lib/matplotlib/transforms.py"
+            },
+            {
+                "file": "lib/matplotlib/collections.py"
+            },
+            {
+                "file": "lib/matplotlib/blocking_input.py"
+            },
+            {
+                "file": "lib/matplotlib/_docstring.py"
+            }
+        ]
+    },
+    "matplotlib/matplotlib/23198": {
+        "results": [
+            {
+                "file": "```"
+            },
+            {
+                "file": "lib/matplotlib/axes/_axes.py"
+            }
+        ]
+    },
+    "matplotlib/matplotlib/25405": {
+        "results": [
+            {
+                "file": "lib/matplotlib/ticker.py"
+            },
+            {
+                "file": "lib/matplotlib/_cm.py"
+            },
+            {
+                "file": "lib/matplotlib/_layoutgrid.py"
+            },
+            {
+                "file": "lib/matplotlib/layout_engine.py"
+            },
+            {
+                "file": "lib/matplotlib/axes/_axes.py"
+            },
+            {
+                "file": "lib/matplotlib/contour.py"
+            },
+            {
+                "file": "lib/matplotlib/_constrained_layout.py"
+            },
+            {
+                "file": "lib/matplotlib/_tight_layout.py"
+            },
+            {
+                "file": "lib/matplotlib/_tight_bbox.py"
+            },
+            {
+                "file": "lib/matplotlib/units.py"
+            },
+            {
+                "file": "lib/matplotlib/axes/_secondary_axes.py"
+            },
+            {
+                "file": "lib/matplotlib/_api/__init__.py"
+            },
+            {
+                "file": "lib/matplotlib/colors.py"
+            },
+            {
+                "file": "lib/matplotlib/rcsetup.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/_backend_ps.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_pdf.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_svg.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_agg.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_webagg_core.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_webagg.py"
+            }
+        ]
+    },
+    "matplotlib/matplotlib/25499": {
+        "results": [
+            {
+                "file": "lib/matplotlib/axes/_axes.py"
+            },
+            {
+                "file": "lib/matplotlib/axes/_base.py"
+            },
+            {
+                "file": "lib/matplotlib/axes/__init__.py"
+            },
+            {
+                "file": "lib/matplotlib/axes/_secondary_axes.py"
+            },
+            {
+                "file": "lib/matplotlib/figure.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_pdf.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_agg.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_svg.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_pgf.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_template.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_wx.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_tkagg.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_qtagg.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_gtk3agg.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_nbagg.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_mixed.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_qt.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_macosx.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_webagg.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/_backend_pdf_ps.py"
+            }
+        ]
+    },
+    "matplotlib/matplotlib/25515": {
+        "results": [
+            {
+                "file": "sphinxext/plot_directive.py"
+            },
+            {
+                "file": "sphinxext/mathmpl.py"
+            },
+            {
+                "file": "lib/matplotlib/projections/polar.py"
+            },
+            {
+                "file": "lib/matplotlib/projections/__init__.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_webagg.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/_backend_webagg_core.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_svg.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_agg.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_pdf.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_nbagg.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_pgf.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_tkagg.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_qt5.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_gtk3.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_wx.py"
+            },
+            {
+                "file": "lib/matplotlib/_tri/_tripcolor.py"
+            },
+            {
+                "file": "lib/matplotlib/_tri/_trirefine.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_qtagg.py"
+            },
+            {
+                "file": "lib/matplotlib/projections/geo.py"
+            },
+            {
+                "file": "lib/matplotlib/projections/polar.py"
+            }
+        ]
+    },
+    "matplotlib/matplotlib/25712": {
+        "results": [
+            {
+                "file": "lib/matplotlib/axes/_axes.py"
+            },
+            {
+                "file": "lib/matplotlib/axes/_secondary_axes.py"
+            },
+            {
+                "file": "lib/matplotlib/_layoutgrid.py"
+            },
+            {
+                "file": "lib/matplotlib/transforms.py"
+            },
+            {
+                "file": "lib/matplotlib/axis.py"
+            },
+            {
+                "file": "lib/matplotlib/_tight_bbox.py"
+            },
+            {
+                "file": "lib/matplotlib/_tight_layout.py"
+            },
+            {
+                "file": "lib/matplotlib/artist.py"
+            },
+            {
+                "file": "lib/matplotlib/units.py"
+            },
+            {
+                "file": "lib/matplotlib/_api/__init__.py"
+            },
+            {
+                "file": "lib/matplotlib/offsetbox.py"
+            },
+            {
+                "file": "lib/matplotlib/patheffects.py"
+            },
+            {
+                "file": "lib/matplotlib/streamplot.py"
+            },
+            {
+                "file": "lib/matplotlib/contour.py"
+            },
+            {
+                "file": "lib/matplotlib/lines.py"
+            },
+            {
+                "file": "lib/matplotlib/hatch.py"
+            },
+            {
+                "file": "lib/matplotlib/_text_helpers.py"
+            },
+            {
+                "file": "lib/matplotlib/marks"
+            }
+        ]
+    },
+    "matplotlib/matplotlib/25775": {
+        "results": [
+            {
+                "file": "lib/matplotlib/text.py"
+            },
+            {
+                "file": "lib/matplotlib/backend_bases.py"
+            },
+            {
+                "file": "lib/matplotlib/artist.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_agg.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_gtk3agg.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_tkagg.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_wxagg.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_pgf.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/_backend_pdf_ps.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_pdf.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_pdf.py"
+            },
+            {
+                "file": "lib/matplotlib/collections.py"
+            },
+            {
+                "file": "lib/matplotlib/legend.py"
+            },
+            {
+                "file": "lib/matplotlib/_layoutgrid.py"
+            },
+            {
+                "file": "lib/matplotlib/transforms.py"
+            },
+            {
+                "file": "lib/matplotlib/projections/polar.py"
+            },
+            {
+                "file": "lib/matplotlib/projections/geo.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_gtk4agg.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_qtagg.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_qt5.py"
+            }
+        ]
+    },
+    "matplotlib/matplotlib/26078": {
+        "results": [
+            {
+                "file": "lib/mpl_toolkits/axes_grid1/parasite_axes.py"
+            },
+            {
+                "file": "lib/mpl_toolkits/axisartist/axis_artist.py"
+            },
+            {
+                "file": "lib/mpl_toolkits/axes_grid1/axes_divider.py"
+            },
+            {
+                "file": "lib/mpl_toolkits/axes_grid1/inset_locator.py"
+            },
+            {
+                "file": "lib/mpl_toolkits/axisartist/axislines.py"
+            },
+            {
+                "file": "lib/mpl_toolkits/axes_grid1/axes_rgb.py"
+            },
+            {
+                "file": "lib/mpl_toolkits/axes_grid1/anchored_artists.py"
+            },
+            {
+                "file": "lib/mpl_toolkits/axisartist/grid_helper_curvelinear.py"
+            },
+            {
+                "file": "lib/matplotlib/axis.py"
+            },
+            {
+                "file": "lib/matplotlib/spines.py"
+            },
+            {
+                "file": "lib/matplotlib/units.py"
+            },
+            {
+                "file": "lib/matplotlib/tick.py"
+            },
+            {
+                "file": "lib/matplotlib/transforms.py"
+            },
+            {
+                "file": "lib/matplotlib/artist.py"
+            },
+            {
+                "file": "lib/matplotlib/lines.py"
+            },
+            {
+                "file": "lib/matplotlib/patches.py"
+            },
+            {
+                "file": "lib/matplotlib/figure.py"
+            },
+            {
+                "file": "lib/matplotlib/_tight_layout.py"
+            },
+            {
+                "file": "lib/matplotlib/_constrained_layout.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_nbagg.py"
+            }
+        ]
+    },
+    "matplotlib/matplotlib/26472": {
+        "results": [
+            {
+                "file": "lib/matplotlib/pyplot.py"
+            },
+            {
+                "file": "lib/matplotlib/backend_bases.py"
+            },
+            {
+                "file": "lib/matplotlib/_api/deprecation.py"
+            },
+            {
+                "file": "lib/matplotlib/backend_managers.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_qt.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_nbagg.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_webagg.py"
+            },
+            {
+                "file": "lib/matplotlib/backend_tools.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_template.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_tkagg.py"
+            },
+            {
+                "file": "lib/matplotlib/axes/_base.py"
+            },
+            {
+                "file": "lib/matplotlib/axes/_axes.py"
+            },
+            {
+                "file": "lib/matplotlib/figure.py"
+            },
+            {
+                "file": "lib/matplotlib/_pylab_helpers.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_webagg_core.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_qt5.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_macosx.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_svg.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_webagg_core.py"
+            },
+            {
+                "file": "lib/matplotlib/backends/backend_qt_editor.py"
+            }
+        ]
+    },
+    "mwaskom/seaborn/2979": {
+        "results": [
+            {
+                "file": "seaborn/_core/subplots.py"
+            },
+            {
+                "file": "seaborn/axisgrid.py"
+            },
+            {
+                "file": "seaborn/_core/plot.py"
+            },
+            {
+                "file": "seaborn/_core/groupby.py"
+            },
+            {
+                "file": "seaborn/_core/rules.py"
+            },
+            {
+                "file": "seaborn/_core/moves.py"
+            },
+            {
+                "file": "seaborn/_core/scales.py"
+            },
+            {
+                "file": "seaborn/_core/properties.py"
+            },
+            {
+                "file": "seaborn/regression.py"
+            },
+            {
+                "file": "seaborn/distributions.py"
+            },
+            {
+                "file": "seaborn/categorical.py"
+            },
+            {
+                "file": "seaborn/_statistics.py"
+            },
+            {
+                "file": "seaborn/algorithms.py"
+            },
+            {
+                "file": "seaborn/_compat.py"
+            },
+            {
+                "file": "seaborn/_core/data.py"
+            },
+            {
+                "file": "seaborn/palettes.py"
+            },
+            {
+                "file": "seaborn/relational.py"
+            },
+            {
+                "file": "seaborn/matrix.py"
+            },
+            {
+                "file": "seaborn/utils.py"
+            },
+            {
+                "file": "seaborn/_core/properties.py"
+            }
+        ]
+    },
+    "django/django/11053": {
+        "results": [
+            {
+                "file": "django/conf/__init__.py"
+            }
+        ]
+    },
+    "mwaskom/seaborn/2996": {
+        "results": [
+            {
+                "file": "seaborn/_compat.py"
+            },
+            {
+                "file": "seaborn/_docstrings.py"
+            },
+            {
+                "file": "seaborn/categorical.py"
+            },
+            {
+                "file": "seaborn/relational.py"
+            },
+            {
+                "file": "seaborn/distributions.py"
+            },
+            {
+                "file": "seaborn/_marks/base.py"
+            },
+            {
+                "file": "seaborn/widgets.py"
+            },
+            {
+                "file": "seaborn/matplotlib_extensions.py"
+            },
+            {
+                "file": "seaborn/_core/plot.py"
+            },
+            {
+                "file": "seaborn/_core/layout.py"
+            },
+            {
+                "file": "seaborn/_core/moves.py"
+            },
+            {
+                "file": "seaborn/_core/subplots.py"
+            },
+            {
+                "file": "seaborn/_oldcore.py"
+            },
+            {
+                "file": "seaborn/_statistics.py"
+            },
+            {
+                "file": "seaborn/regression.py"
+            },
+            {
+                "file": "seaborn/utils.py"
+            },
+            {
+                "file": "seaborn/palettes.py"
+            },
+            {
+                "file": "seaborn/_core/properties.py"
+            },
+            {
+                "file": "seaborn/axisgrid.py"
+            },
+            {
+                "file": "seaborn/_core/scales.py"
+            }
+        ]
+    },
+    "psf/requests/2393": {
+        "results": [
+            {
+                "file": "requests/utils.py"
+            }
+        ]
+    },
+    "psf/requests/4718": {
+        "results": [
+            {
+                "file": "requests/sessions.py"
+            },
+            {
+                "file": "requests/models.py"
+            },
+            {
+                "file": "requests/auth.py"
+            },
+            {
+                "file": "requests/adapters.py"
+            },
+            {
+                "file": "requests/structures.py"
+            },
+            {
+                "file": "requests/hooks.py"
+            },
+            {
+                "file": "requests/api.py"
+            },
+            {
+                "file": "requests/cookies.py"
+            },
+            {
+                "file": "requests/utils.py"
+            },
+            {
+                "file": "requests/__init__.py"
+            },
+            {
+                "file": "requests/help.py"
+            },
+            {
+                "file": "requests/status_codes.py"
+            },
+            {
+                "file": "requests/_internal_utils.py"
+            },
+            {
+                "file": "setup.py"
+            },
+            {
+                "file": "requests/sessions.py:SessionRedirectMixin.rebuild_auth"
+            },
+            {
+                "file": "requests/models.py:PreparedRequest.prepare_auth"
+            },
+            {
+                "file": "requests/auth.py:_basic_auth_str"
+            },
+            {
+                "file": "requests/adapters.py:HTTPAdapter.build_response"
+            },
+            {
+                "file": "requests/structures.py:CaseInsensitiveDict.__setitem__"
+            },
+            {
+                "file": "requests/structures.py:CaseInsensitiveDict.__getitem__"
+            }
+        ]
+    },
+    "pydata/xarray/6804": {
+        "results": [
+            {
+                "file": "xarray/core/utils.py"
+            }
+        ]
+    },
+    "pydata/xarray/6889": {
+        "results": [
+            {
+                "file": "xarray/core/alignment.py"
+            }
+        ]
+    },
+    "pylint-dev/pylint/4812": {
+        "results": [
+            {
+                "file": "pylint/config/option_manager_mixin.py"
+            },
+            {
+                "file": "pylint/config/find_default_config_files.py"
+            },
+            {
+                "file": "pylint/config/man_help_formatter.py"
+            },
+            {
+                "file": "pylint/config/option.py"
+            },
+            {
+                "file": "pylint/config/options_provider_mixin.py"
+            },
+            {
+                "file": "pylint/config/configuration_mixin.py"
+            },
+            {
+                "file": "pylint/utils/file_state.py"
+            },
+            {
+                "file": "pylint/utils/utils.py"
+            },
+            {
+                "file": "pylint/reporters/text.py"
+            },
+            {
+                "file": "pylint/reporters/base_reporter.py"
+            },
+            {
+                "file": "pylint/reporters/multi_reporter.py"
+            },
+            {
+                "file": "pylint/reporters/collecting_reporter.py"
+            },
+            {
+                "file": "pylint/reporters/reports_handler_mix_in.py"
+            },
+            {
+                "file": "pylint/reporters/json_reporter.py"
+            },
+            {
+                "file": "pylint/reporters/ureports/text_writer.py"
+            },
+            {
+                "file": "pylint/reporters/ureports/nodes.py"
+            },
+            {
+                "file": "pylint/checkers/utils.py"
+            },
+            {
+                "file": "pylint/checkers/base.py"
+            },
+            {
+                "file": "pylint/checkers/stdlib.py"
+            },
+            {
+                "file": "pylint/checkers/logging.py"
+            }
+        ]
+    },
+    "pytest-dev/pytest/10371": {
+        "results": [
+            {
+                "file": "src/_pytest/logging.py"
+            },
+            {
+                "file": "src/_pytest/terminal.py"
+            },
+            {
+                "file": "src/_pytest/logging.py:catching_logs.__init__"
+            },
+            {
+                "file": "src/_pytest/logging.py:LogCaptureHandler.__init__"
+            },
+            {
+                "file": "src/_pytest/logging.py:LogCaptureFixture.__init__"
+            },
+            {
+                "file": "src/_pytest/logging.py:pytest_configure"
+            },
+            {
+                "file": "src/_pytest/logging.py:pytest_unconfigure"
+            },
+            {
+                "file": "src/_pytest/logging.py:LogCaptureFixture.get_records"
+            },
+            {
+                "file": "src/_pytest/logging.py:LogCaptureFixture.text"
+            },
+            {
+                "file": "src/_pytest/logging.py:LogCaptureFixture.record_tuples"
+            },
+            {
+                "file": "src/_pytest/logging.py:LogCaptureFixture.messages"
+            },
+            {
+                "file": "src/_pytest/logging.py:LoggingPlugin.__init__"
+            },
+            {
+                "file": "src/_pytest/logging.py:pytest_runtest_logreport"
+            },
+            {
+                "file": "src/_pytest/logging.py:pytest_runtest_logstart"
+            },
+            {
+                "file": "src/_pytest/logging.py:pytest_report_teststatus"
+            },
+            {
+                "file": "src/_pytest/config/__init__.py:pytest_addoption"
+            },
+            {
+                "file": "src/_pytest/main.py:pytest_configure"
+            },
+            {
+                "file": "src/_pytest/logging.py:pytest_sessionstart"
+            },
+            {
+                "file": "src/_pytest/logging.py:pytest_sessionfinish"
+            },
+            {
+                "file": "src/_pytest/logging.py:pytest_runtest_logfinish"
+            }
+        ]
+    },
+    "pytest-dev/pytest/11178": {
+        "results": [
+            {
+                "file": "src/_pytest/python_api.py"
+            }
+        ]
+    },
+    "pytest-dev/pytest/5555": {
+        "results": [
+            {
+                "file": "src/_pytest/stepwise.py"
+            },
+            {
+                "file": "src/_pytest/skipping.py"
+            },
+            {
+                "file": "src/_pytest/outcomes.py"
+            },
+            {
+                "file": "src/_pytest/nodes.py"
+            },
+            {
+                "file": "src/_pytest/runner.py"
+            },
+            {
+                "file": "src/_pytest/fixtures.py"
+            },
+            {
+                "file": "src/_pytest/config/__init__.py"
+            },
+            {
+                "file": "src/_pytest/mark/__init__.py"
+            },
+            {
+                "file": "src/_pytest/main.py"
+            },
+            {
+                "file": "src/_pytest/helpconfig.py"
+            },
+            {
+                "file": "src/_pytest/logging.py"
+            },
+            {
+                "file": "src/_pytest/nose.py"
+            },
+            {
+                "file": "src/_pytest/mark/evaluate.py"
+            },
+            {
+                "file": "src/_pytest/terminal.py"
+            },
+            {
+                "file": "src/_pytest/junitxml.py"
+            },
+            {
+                "file": "src/_pytest/fixtures.py"
+            },
+            {
+                "file": "src/_pytest/assertion/truncate.py"
+            },
+            {
+                "file": "src/_pytest/assertion/rewrite.py"
+            },
+            {
+                "file": "src/_pytest/assertion/util.py"
+            },
+            {
+                "file": "src/_pytest/assertion/__init__.py"
+            }
+        ]
+    },
+    "pytest-dev/pytest/7749": {
+        "results": [
+            {
+                "file": "src/_pytest/nodes.py"
+            },
+            {
+                "file": "src/_pytest/capture.py"
+            },
+            {
+                "file": "src/_pytest/runner.py"
+            },
+            {
+                "file": "src/_pytest/setupplan.py"
+            },
+            {
+                "file": "src/_pytest/fixtures.py"
+            },
+            {
+                "file": "src/_pytest/skipping.py"
+            },
+            {
+                "file": "src/_pytest/terminal.py"
+            },
+            {
+                "file": "src/_pytest/pathlib.py"
+            },
+            {
+                "file": "src/_pytest/nose.py"
+            },
+            {
+                "file": "src/_pytest/mark/__init__.py"
+            },
+            {
+                "file": "src/_pytest/mark/expression.py"
+            },
+            {
+                "file": "src/_pytest/mark/structures.py"
+            },
+            {
+                "file": "src/_pytest/config/argparsing.py"
+            },
+            {
+                "file": "src/_pytest/pastebin.py"
+            },
+            {
+                "file": "src/_pytest/warnings.py"
+            },
+            {
+                "file": "src/_pytest/__init__.py"
+            },
+            {
+                "file": "src/_pytest/fixtures.py"
+            },
+            {
+                "file": "src/_pytest/monkeypatch.py"
+            },
+            {
+                "file": "src/_pytest/config/findpaths.py"
+            },
+            {
+                "file": "src/_pytest/assertion/rewrite.py"
+            }
+        ]
+    },
+    "django/django/11298": {
+        "results": [
+            {
+                "file": "django/db/models/fields/related.py"
+            },
+            {
+                "file": "django/db/migrations/operations/fields.py"
+            },
+            {
+                "file": "django/db/models/query.py"
+            },
+            {
+                "file": "django/db/models/fields/proxy.py"
+            },
+            {
+                "file": "django/db/models/forms.py"
+            },
+            {
+                "file": "django/db/models/fields/__init__.py"
+            },
+            {
+                "file": "django/db/models/options.py"
+            },
+            {
+                "file": "django/db/models/base.py"
+            },
+            {
+                "file": "django/db/migrations/utils.py"
+            },
+            {
+                "file": "django/db/migrations/loader.py"
+            },
+            {
+                "file": "django/db/models/fields/mixins.py"
+            },
+            {
+                "file": "django/db/backends/postgresql/schema.py"
+            },
+            {
+                "file": "django/db/models/fields/files.py"
+            },
+            {
+                "file": "django/db/migrations/operations/special.py"
+            },
+            {
+                "file": "django/db/migrations/optimizer.py"
+            },
+            {
+                "file": "django/db/checks/security.py"
+            },
+            {
+                "file": "django/db/migrations/graph.py"
+            },
+            {
+                "file": "django/db/migrations/questioner.py"
+            },
+            {
+                "file": "django/db/migrations/serializer.py"
+            },
+            {
+                "file": "django/db/models/indexes.py"
+            }
+        ]
+    },
+    "pytest-dev/pytest/8516": {
+        "results": [
+            {
+                "file": "src/_pytest/tmpdir.py"
+            },
+            {
+                "file": "src/_pytest/python.py"
+            },
+            {
+                "file": "src/_pytest/terminal.py"
+            },
+            {
+                "file": "src/_pytest/pathlib.py"
+            },
+            {
+                "file": "src/_pytest/pytester.py"
+            },
+            {
+                "file": "src/_pytest/fixtures.py"
+            },
+            {
+                "file": "src/_pytest/report.py"
+            },
+            {
+                "file": "src/_pytest/capture.py"
+            },
+            {
+                "file": "src/_pytest/config/argparsing.py"
+            },
+            {
+                "file": "src/_pytest/config/__init__.py"
+            },
+            {
+                "file": "src/_pytest/mark/__init__.py"
+            },
+            {
+                "file": "src/_pytest/assertion/rewrite.py"
+            },
+            {
+                "file": "src/_pytest/assertion/util.py"
+            },
+            {
+                "file": "src/_pytest/assertion/__init__.py"
+            },
+            {
+                "file": "src/_pytest/assertion/truncate.py"
+            },
+            {
+                "file": "src/_pytest/_code/code.py"
+            },
+            {
+                "file": "src/_pytest/nodes.py"
+            },
+            {
+                "file": "src/_pytest/logging.py"
+            },
+            {
+                "file": "src/_pytest/deprecated.py"
+            },
+            {
+                "file": "src/_pytest/helpconfig.py"
+            }
+        ]
+    },
+    "pytest-dev/pytest/9279": {
+        "results": [
+            {
+                "file": "src/_pytest/nodes.py"
+            },
+            {
+                "file": "src/_pytest/pytester.py"
+            },
+            {
+                "file": "src/_pytest/pathlib.py"
+            },
+            {
+                "file": "src/_pytest/junitxml.py"
+            },
+            {
+                "file": "src/_pytest/python.py"
+            },
+            {
+                "file": "src/_pytest/deprecated.py"
+            },
+            {
+                "file": "src/_pytest/plugin.py"
+            },
+            {
+                "file": "src/_pytest/config/__init__.py"
+            },
+            {
+                "file": "src/_pytest/logging.py"
+            },
+            {
+                "file": "src/_pytest/tmpdir.py"
+            },
+            {
+                "file": "src/_pytest/warnings.py"
+            },
+            {
+                "file": "src/_pytest/recwarn.py"
+            },
+            {
+                "file": "src/_pytest/unraisableexception.py"
+            },
+            {
+                "file": "src/_pytest/frame.py"
+            },
+            {
+                "file": "src/_pytest/unittest.py"
+            },
+            {
+                "file": "src/_pytest/skipping.py"
+            },
+            {
+                "file": "src/_pytest/cacheprovider.py"
+            },
+            {
+                "file": "src/_pytest/pathlib.py"
+            },
+            {
+                "file": "src/_pytest/conf_only.py"
+            },
+            {
+                "file": "src/_pytest/monkeypatch.py"
+            }
+        ]
+    },
+    "pytest-dev/pytest/9359": {
+        "results": [
+            {
+                "file": "src/_pytest/assertion/rewrite.py"
+            },
+            {
+                "file": "src/_pytest/assertion/util.py"
+            },
+            {
+                "file": "src/_pytest/reports.py"
+            },
+            {
+                "file": "src/_pytest/terminal.py"
+            },
+            {
+                "file": "src/_pytest/config/__init__.py"
+            },
+            {
+                "file": "src/_pytest/assertion/truncate.py"
+            },
+            {
+                "file": "src/_pytest/capture.py"
+            },
+            {
+                "file": "src/_pytest/python.py"
+            },
+            {
+                "file": "src/_pytest/monkeypatch.py"
+            },
+            {
+                "file": "src/_pytest/fixtures.py"
+            },
+            {
+                "file": "src/_pytest/nodes.py"
+            },
+            {
+                "file": "src/_pytest/pathlib.py"
+            },
+            {
+                "file": "src/_pytest/cacheprovider.py"
+            },
+            {
+                "file": "src/_pytest/freeze_support.py"
+            },
+            {
+                "file": "src/_pytest/stash.py"
+            },
+            {
+                "file": "src/_pytest/logging.py"
+            },
+            {
+                "file": "src/_pytest/collect.py"
+            },
+            {
+                "file": "src/_pytest/compat.py"
+            },
+            {
+                "file": "src/_pytest/_code/code.py"
+            },
+            {
+                "file": "src/_pytest/_code/source.py"
+            }
+        ]
+    },
+    "scikit-learn/scikit-learn/10306": {
+        "results": [
+            {
+                "file": "sklearn/neighbors/kde.py"
+            }
+        ]
+    },
+    "scikit-learn/scikit-learn/10870": {
+        "results": [
+            {
+                "file": "sklearn/mixture/gaussian_mixture.py"
+            }
+        ]
+    },
+    "scikit-learn/scikit-learn/12471": {
+        "results": [
+            {
+                "file": "sklearn/preprocessing/_encoders.py"
+            }
+        ]
+    },
+    "scikit-learn/scikit-learn/12585": {
+        "results": [
+            {
+                "file": "sklearn/base.py"
+            },
+            {
+                "file": "sklearn/preprocessing/data.py"
+            },
+            {
+                "file": "sklearn/preprocessing/_function_transformer.py"
+            },
+            {
+                "file": "sklearn/preprocessing/_encoders.py"
+            },
+            {
+                "file": "sklearn/preprocessing/_discretization.py"
+            },
+            {
+                "file": "sklearn/preprocessing/imputation.py"
+            },
+            {
+                "file": "sklearn/mixture/gaussian_mixture.py"
+            },
+            {
+                "file": "sklearn/mixture/bayesian_mixture.py"
+            },
+            {
+                "file": "sklearn/dummy.py"
+            },
+            {
+                "file": "sklearn/calibration.py"
+            },
+            {
+                "file": "sklearn/multiclass.py"
+            },
+            {
+                "file": "sklearn/neighbors/graph.py"
+            },
+            {
+                "file": "sklearn/neighbors/base.py"
+            },
+            {
+                "file": "sklearn/neighbors/classification.py"
+            },
+            {
+                "file": "sklearn/neighbors/regression.py"
+            },
+            {
+                "file": "sklearn/neighbors/unsupervised.py"
+            },
+            {
+                "file": "sklearn/tree/tree.py"
+            },
+            {
+                "file": "sklearn/tree/_reingold_tilford.py"
+            },
+            {
+                "file": "sklearn/tree/setup.py"
+            },
+            {
+                "file": "sklearn/tree/export.py"
+            }
+        ]
+    },
+    "scikit-learn/scikit-learn/12626": {
+        "results": [
+            {
+                "file": "sklearn/compose/_column_transformer.py"
+            }
+        ]
+    },
+    "scikit-learn/scikit-learn/13877": {
+        "results": [
+            {
+                "file": "sklearn/metrics/pairwise.py"
+            },
+            {
+                "file": "sklearn/metrics/_pairwise.py"
+            },
+            {
+                "file": "sklearn/preprocessing/data.py"
+            },
+            {
+                "file": "sklearn/utils/extmath.py"
+            },
+            {
+                "file": "sklearn/utils/deprecation.py"
+            },
+            {
+                "file": "sklearn/utils/validation.py"
+            },
+            {
+                "file": "sklearn/utils/multiclass.py"
+            },
+            {
+                "file": "sklearn/neural_network/_base.py"
+            },
+            {
+                "file": "sklearn/ensemble/_hgb.py"
+            },
+            {
+                "file": "sklearn/inspection/partial_dependence.py"
+            },
+            {
+                "file": "sklearn/exceptions.py"
+            },
+            {
+                "file": "sklearn/__init__.py"
+            },
+            {
+                "file": "sklearn/metrics/_dist_metrics.py"
+            },
+            {
+                "file": "sklearn/feature_selection/rfe.py"
+            },
+            {
+                "file": "sklearn/metrics/_classification.py"
+            },
+            {
+                "file": "sklearn/metrics/_regression.py"
+            },
+            {
+                "file": "sklearn/metrics/_ranking.py"
+            },
+            {
+                "file": "sklearn/utils/fixes.py"
+            },
+            {
+                "file": "sklearn/utils/graph.py"
+            },
+            {
+                "file": "sklearn/_build_utils/__init__.py"
+            }
+        ]
+    },
+    "scikit-learn/scikit-learn/14141": {
+        "results": [
+            {
+                "file": "sklearn/utils/_show_versions.py"
+            },
+            {
+                "file": "setup.py"
+            },
+            {
+                "file": "sklearn/__init__.py"
+            },
+            {
+                "file": "doc/conf.py"
+            },
+            {
+                "file": "doc/sphinxext/sphinx_issues.py"
+            },
+            {
+                "file": "doc/sphinxext/github_link.py"
+            },
+            {
+                "file": "sklearn/mixture/gaussian_mixture.py"
+            },
+            {
+                "file": "sklearn/neighbors/kde.py"
+            },
+            {
+                "file": "sklearn/neighbors/nca.py"
+            },
+            {
+                "file": "sklearn/ensemble/voting.py"
+            },
+            {
+                "file": "sklearn/ensemble/bagging.py"
+            },
+            {
+                "file": "sklearn/ensemble/forest.py"
+            },
+            {
+                "file": "sklearn/linear_model/logistic.py"
+            },
+            {
+                "file": "sklearn/linear_model/ridge.py"
+            },
+            {
+                "file": "sklearn/metrics/scorer.py"
+            },
+            {
+                "file": "sklearn/metrics/ranking.py"
+            },
+            {
+                "file": "sklearn/metrics/pairwise.py"
+            },
+            {
+                "file": "sklearn/metrics/classification.py"
+            },
+            {
+                "file": "sklearn/metrics/regression.py"
+            },
+            {
+                "file": "sklearn/metrics/base.py"
+            }
+        ]
+    },
+    "django/django/11383": {
+        "results": [
+            {
+                "file": "django/db/models/query.py"
+            }
+        ]
+    },
+    "scikit-learn/scikit-learn/14520": {
+        "results": [
+            {
+                "file": "sklearn/feature_extraction/text.py"
+            }
+        ]
+    },
+    "scikit-learn/scikit-learn/9304": {
+        "results": [
+            {
+                "file": "sklearn/pipeline.py"
+            },
+            {
+                "file": "sklearn/multioutput.py"
+            },
+            {
+                "file": "sklearn/_config.py"
+            },
+            {
+                "file": "sklearn/base.py"
+            },
+            {
+                "file": "sklearn/grid_search.py"
+            },
+            {
+                "file": "sklearn/metrics/classification.py"
+            },
+            {
+                "file": "sklearn/metrics/scorer.py"
+            },
+            {
+                "file": "sklearn/metrics/util.py"
+            },
+            {
+                "file": "sklearn/metrics/ranking.py"
+            },
+            {
+                "file": "sklearn/utils/validation.py"
+            },
+            {
+                "file": "sklearn/utils/metaestimators.py"
+            },
+            {
+                "file": "sklearn/utils/deprecation.py"
+            },
+            {
+                "file": "sklearn/dummy.py"
+            },
+            {
+                "file": "sklearn/linear_model/logistic.py"
+            },
+            {
+                "file": "sklearn/metrics/setup.py"
+            },
+            {
+                "file": "sklearn/metrics/pairwise.py"
+            },
+            {
+                "file": "sklearn/metrics/regression.py"
+            },
+            {
+                "file": "sklearn/metrics/base.py"
+            },
+            {
+                "file": "sklearn/metrics/_scorer.py"
+            },
+            {
+                "file": "sklearn/metrics/_classification.py"
+            }
+        ]
+    },
+    "sphinx-doc/sphinx/10320": {
+        "results": [
+            {
+                "file": "sphinx/ext/napoleon/iterators.py"
+            },
+            {
+                "file": "sphinx/ext/napoleon/docstring.py"
+            },
+            {
+                "file": "sphinx/ext/napoleon/__init__.py"
+            },
+            {
+                "file": "sphinx/ext/autodoc/__init__.py"
+            },
+            {
+                "file": "sphinx/ext/autodoc/directive.py"
+            },
+            {
+                "file": "sphinx/ext/autodoc/typehints.py"
+            },
+            {
+                "file": "sphinx/ext/autodoc/type_comment.py"
+            },
+            {
+                "file": "sphinx/ext/autodoc/importer.py"
+            },
+            {
+                "file": "sphinx/ext/autodoc/mock.py"
+            },
+            {
+                "file": "sphinx/ext/autodoc/preserve_defaults.py"
+            },
+            {
+                "file": "sphinx/domains/cpp.py"
+            },
+            {
+                "file": "sphinx/domains/javascript.py"
+            },
+            {
+                "file": "sphinx/domains/python.py"
+            },
+            {
+                "file": "sphinx/domains/c.py"
+            },
+            {
+                "file": "sphinx/domains/std.py"
+            },
+            {
+                "file": "sphinx/domains/rst.py"
+            },
+            {
+                "file": "sphinx/domains/citation.py"
+            },
+            {
+                "file": "sphinx/domains/index.py"
+            },
+            {
+                "file": "sphinx/domains/math.py"
+            },
+            {
+                "file": "sphinx/util/nodes.py"
+            }
+        ]
+    },
+    "sphinx-doc/sphinx/10325": {
+        "results": [
+            {
+                "file": "sphinx/ext/autodoc/__init__.py"
+            }
+        ]
+    },
+    "sphinx-doc/sphinx/11316": {
+        "results": [
+            {
+                "file": "sphinx/ext/napoleon/docstring.py"
+            }
+        ]
+    },
+    "sphinx-doc/sphinx/8620": {
+        "results": [
+            {
+                "file": "sphinx/roles.py"
+            },
+            {
+                "file": "sphinx/writers/html.py"
+            },
+            {
+                "file": "sphinx/writers/html5.py"
+            },
+            {
+                "file": "sphinx/writers/latex.py"
+            },
+            {
+                "file": "sphinx/domains/python.py"
+            },
+            {
+                "file": "sphinx/domains/cpp.py"
+            },
+            {
+                "file": "sphinx/builders/html/transforms.py"
+            },
+            {
+                "file": "sphinx/transforms/post_transforms/__init__.py"
+            },
+            {
+                "file": "sphinx/domains/c.py"
+            },
+            {
+                "file": "sphinx/domains/javascript.py"
+            },
+            {
+                "file": "sphinx/domains/std.py"
+            },
+            {
+                "file": "sphinx/domains/__init__.py"
+            },
+            {
+                "file": "sphinx/domains/rst.py"
+            },
+            {
+                "file": "sphinx/domains/index.py"
+            },
+            {
+                "file": "sphinx/domains/math.py"
+            },
+            {
+                "file": "sphinx/domains/citation.py"
+            },
+            {
+                "file": "sphinx/ext/todo.py"
+            },
+            {
+                "file": "sphinx/ext/napoleon/docstring.py"
+            },
+            {
+                "file": "sphinx/ext/autodoc/documenter.py"
+            },
+            {
+                "file": "sphinx/ext/autodoc/typehints.py"
+            }
+        ]
+    },
+    "sphinx-doc/sphinx/8863": {
+        "results": [
+            {
+                "file": "examples_cli.rst"
+            },
+            {
+                "file": "doc/builders/dummy.py"
+            },
+            {
+                "file": "doc/builders/linkcheck.py"
+            },
+            {
+                "file": "doc/builders/changes.py"
+            },
+            {
+                "file": "doc/builders/html/transforms.py"
+            },
+            {
+                "file": "doc/builders/latex/transforms.py"
+            },
+            {
+                "file": "doc/builders/latex/util.py"
+            },
+            {
+                "file": "doc/builders/texinfo.py"
+            },
+            {
+                "file": "doc/builders/directoryhtml.py"
+            },
+            {
+                "file": "doc/builders/singlehtml.py"
+            },
+            {
+                "file": "doc/builders/text.py"
+            },
+            {
+                "file": "doc/builders/xml.py"
+            },
+            {
+                "file": "doc/builders/epub3.py"
+            },
+            {
+                "file": "sphinx/cmd/build.py"
+            },
+            {
+                "file": "sphinx/ext/intersphinx.py"
+            },
+            {
+                "file": "sphinx/ext/apidoc.py"
+            },
+            {
+                "file": "sphinx/ext/todo.py"
+            },
+            {
+                "file": "sphinx/ext/graphviz.py"
+            },
+            {
+                "file": "sphinx/ext/doctest.py"
+            },
+            {
+                "file": "sphinx/util/texescape.py"
+            }
+        ]
+    },
+    "sphinx-doc/sphinx/9309": {
+        "results": [
+            {
+                "file": "sphinx/builders/linkcheck.py"
+            }
+        ]
+    },
+    "sphinx-doc/sphinx/9350": {
+        "results": [
+            {
+                "file": "sphinx/builders/manpage.py"
+            },
+            {
+                "file": "sphinx/writers/manpage.py"
+            },
+            {
+                "file": "sphinx/writers/latex.py"
+            },
+            {
+                "file": "sphinx/domains/index.py"
+            },
+            {
+                "file": "sphinx/ext/autodoc/__init__.py"
+            },
+            {
+                "file": "sphinx/domains/citation.py"
+            },
+            {
+                "file": "sphinx/domains/cpp.py"
+            },
+            {
+                "file": "sphinx/domains/rst.py"
+            },
+            {
+                "file": "sphinx/writers/html.py"
+            },
+            {
+                "file": "sphinx/writers/html5.py"
+            },
+            {
+                "file": "sphinx/ext/doctest.py"
+            },
+            {
+                "file": "sphinx/builders/html/__init__.py"
+            },
+            {
+                "file": "sphinx/builders/latex/__init__.py"
+            },
+            {
+                "file": "sphinx/builders/texinfo.py"
+            },
+            {
+                "file": "sphinx/ext/graphviz.py"
+            },
+            {
+                "file": "sphinx/ext/todo.py"
+            },
+            {
+                "file": "sphinx/writers/text.py"
+            },
+            {
+                "file": "sphinx/domains/indexentries.py"
+            },
+            {
+                "file": "sphinx/domains/python.py"
+            },
+            {
+                "file": "sphinx/domains/std.py"
+            }
+        ]
+    },
+    "sphinx-doc/sphinx/9665": {
+        "results": [
+            {
+                "file": "sphinx/ext/autodoc/__init__.py"
+            }
+        ]
+    },
+    "django/django/11405": {
+        "results": [
+            {
+                "file": "django/db/models/query.py"
+            },
+            {
+                "file": "django/db/models/manager.py"
+            },
+            {
+                "file": "django/db/models/utils.py"
+            },
+            {
+                "file": "django/db/models/expression.py"
+            },
+            {
+                "file": "django/db/models/base.py"
+            },
+            {
+                "file": "django/db/models/aggregates.py"
+            },
+            {
+                "file": "django/db/models/aggregates.py"
+            },
+            {
+                "file": "django/db/models/fields/related_lookups.py"
+            },
+            {
+                "file": "django/db/models/fields/related_descriptors.py"
+            },
+            {
+                "file": "django/db/models/fields/__init__.py"
+            },
+            {
+                "file": "django/db/models/fields/mixins.py"
+            },
+            {
+                "file": "django/db/models/fields/related.py"
+            },
+            {
+                "file": "django/db/models/fields/proxy.py"
+            },
+            {
+                "file": "django/db/models/fields/files.py"
+            },
+            {
+                "file": "django/db/migrations/operations/fields.py"
+            },
+            {
+                "file": "django/db/migrations/operations/models.py"
+            },
+            {
+                "file": "django/db/migrations/operations/special.py"
+            },
+            {
+                "file": "django/db/backends/postgresql/base.py"
+            },
+            {
+                "file": "django/db/backends/base/base.py"
+            },
+            {
+                "file": "django/db/backends/base/operations.py"
+            }
+        ]
+    },
+    "sympy/sympy/14296": {
+        "results": [
+            {
+                "file": "algebraicfield.py"
+            },
+            {
+                "file": "numbers.py"
+            },
+            {
+                "file": "core.py"
+            },
+            {
+                "file": "functions.py"
+            },
+            {
+                "file": "relational.py"
+            },
+            {
+                "file": "sympy_parser.py"
+            },
+            {
+                "file": "factortools.py"
+            },
+            {
+                "file": "factor_.py"
+            },
+            {
+                "file": "recresult.py"
+            },
+            {
+                "file": "minpoly.py"
+            },
+            {
+                "file": "pseries.py"
+            },
+            {
+                "file": "simplify.py"
+            },
+            {
+                "file": "hyperexpand.py"
+            },
+            {
+                "file": "manip.py"
+            },
+            {
+                "file": "limit.py"
+            },
+            {
+                "file": "polys.py"
+            },
+            {
+                "file": "liealgebras.py"
+            },
+            {
+                "file": "inequalities.py"
+            },
+            {
+                "file": "ode.py"
+            },
+            {
+                "file": "solveset.py"
+            }
+        ]
+    },
+    "sympy/sympy/15232": {
+        "results": [
+            {
+                "file": "sympy/core/exprtools.py"
+            },
+            {
+                "file": "sympy/core/expr.py"
+            },
+            {
+                "file": "sympy/core/operations.py"
+            },
+            {
+                "file": "sympy/core/mul.py"
+            },
+            {
+                "file": "sympy/core/add.py"
+            },
+            {
+                "file": "sympy/core/pow.py"
+            },
+            {
+                "file": "sympy/core/numbers.py"
+            },
+            {
+                "file": "sympy/core/symbols.py"
+            },
+            {
+                "file": "sympy/polys/polytools.py"
+            },
+            {
+                "file": "sympy/polys/domains/realfield.py"
+            },
+            {
+                "file": "sympy/polys/domains/domain.py"
+            },
+            {
+                "file": "sympy/simplify/ratsimp.py"
+            },
+            {
+                "file": "sympy/simplify/powsimp.py"
+            },
+            {
+                "file": "sympy/simplify/trigsimp.py"
+            },
+            {
+                "file": "sympy/interactive/session.py"
+            },
+            {
+                "file": "sympy/solvers/ode.py"
+            },
+            {
+                "file": "sympy/vector/operators.py"
+            },
+            {
+                "file": "sympy/vector/frame.py"
+            },
+            {
+                "file": "sympy/physics/vector/vector.py"
+            },
+            {
+                "file": "sympy/functions/special/bessel.py"
+            }
+        ]
+    },
+    "sympy/sympy/15933": {
+        "results": [
+            {
+                "file": "sympy/physics/quantum/qubit.py"
+            },
+            {
+                "file": "sympy/physics/quantum/qapply.py"
+            },
+            {
+                "file": "sympy/physics/quantum/spin.py"
+            },
+            {
+                "file": "sympy/physics/quantum/state.py"
+            },
+            {
+                "file": "sympy/physics/quantum/density.py"
+            },
+            {
+                "file": "sympy/physics/quantum/gate.py"
+            },
+            {
+                "file": "sympy/physics/quantum/circuitutils.py"
+            },
+            {
+                "file": "sympy/physics/quantum/matrixcache.py"
+            },
+            {
+                "file": "sympy/physics/quantum/tensorproduct.py"
+            },
+            {
+                "file": "sympy/physics/quantum/operatorordering.py"
+            },
+            {
+                "file": "sympy/physics/quantum/cg.py"
+            },
+            {
+                "file": "sympy/physics/quantum/innerproduct.py"
+            },
+            {
+                "file": "sympy/physics/quantum/anticommutator.py"
+            },
+            {
+                "file": "sympy/physics/quantum/dagger.py"
+            },
+            {
+                "file": "sympy/physics/quantum/qasm.py"
+            },
+            {
+                "file": "sympy/physics/quantum/hilbert.py"
+            },
+            {
+                "file": "sympy/physics/quantum/pauli.py"
+            },
+            {
+                "file": "sympy/physics/quantum/fermion.py"
+            },
+            {
+                "file": "sympy/physics/quantum/operator.py"
+            },
+            {
+                "file": "sympy/physics/quantum/identitysearch.py"
+            }
+        ]
+    },
+    "sympy/sympy/16450": {
+        "results": [
+            {
+                "file": "sympy/core/assumptions.py"
+            },
+            {
+                "file": "sympy/core/expr.py"
+            },
+            {
+                "file": "sympy/core/function.py"
+            },
+            {
+                "file": "sympy/core/numbers.py"
+            },
+            {
+                "file": "sympy/core/relational.py"
+            },
+            {
+                "file": "sympy/core/symbol.py"
+            },
+            {
+                "file": "sympy/core/sympify.py"
+            },
+            {
+                "file": "sympy/assumptions/handlers/calculus.py"
+            },
+            {
+                "file": "sympy/assumptions/handlers/ntheory.py"
+            },
+            {
+                "file": "sympy/assumptions/handlers/sets.py"
+            },
+            {
+                "file": "sympy/assumptions/handlers/common.py"
+            },
+            {
+                "file": "sympy/core/cache.py"
+            },
+            {
+                "file": "sympy/core/evaluate.py"
+            },
+            {
+                "file": "sympy/core/containers.py"
+            },
+            {
+                "file": "sympy/core/comparison.py"
+            },
+            {
+                "file": "sympy/core/evalf.py"
+            },
+            {
+                "file": "sympy/core/mod.py"
+            },
+            {
+                "file": "sympy/core/mul.py"
+            },
+            {
+                "file": "sympy/core/add.py"
+            },
+            {
+                "file": "sympy/core/multipledispatch.py"
+            }
+        ]
+    },
+    "sympy/sympy/19110": {
+        "results": [
+            {
+                "file": "sympy/matrices/expressions/matexpr.py"
+            }
+        ]
+    },
+    "sympy/sympy/19713": {
+        "results": [
+            {
+                "file": "sympy/physics/mechanics/bodies.py"
+            },
+            {
+                "file": "sympy/physics/mechanics/models.py"
+            },
+            {
+                "file": "sympy/physics/mechanics/functions.py"
+            },
+            {
+                "file": "sympy/physics/mechanics/system.py"
+            },
+            {
+                "file": "sympy/physics/mechanics/kane.py"
+            },
+            {
+                "file": "sympy/physics/mechanics/body.py"
+            },
+            {
+                "file": "sympy/physics/mechanics/particle.py"
+            },
+            {
+                "file": "sympy/physics/mechanics/rigidbody.py"
+            },
+            {
+                "file": "sympy/physics/mechanics/linearize.py"
+            },
+            {
+                "file": "sympy/physics/mechanics/lagrange.py"
+            },
+            {
+                "file": "sympy/physics/mechanics/function.py"
+            },
+            {
+                "file": "sympy/physics/mechanics/util.py"
+            },
+            {
+                "file": "sympy/physics/mechanics/coordinates.py"
+            },
+            {
+                "file": "sympy/physics/mechanics/kinematics.py"
+            },
+            {
+                "file": "sympy/physics/mechanics/kinetics.py"
+            },
+            {
+                "file": "sympy/physics/mechanics/constraint.py"
+            },
+            {
+                "file": "sympy/physics/mechanics/constraint_generator.py"
+            },
+            {
+                "file": "sympy/physics/mechanics/dynamicsymbols.py"
+            },
+            {
+                "file": "sympy/physics/mechanics/transforms.py"
+            },
+            {
+                "file": "sympy/physics/mechanics/field.py"
+            }
+        ]
+    },
+    "sympy/sympy/20212": {
+        "results": [
+            {
+                "file": "sympy/core/power.py"
+            },
+            {
+                "file": "sympy/core/assumptions.py"
+            },
+            {
+                "file": "sympy/series/formal.py"
+            },
+            {
+                "file": "sympy/functions/special/delta_functions.py"
+            },
+            {
+                "file": "sympy/sets/finite_set.py"
+            },
+            {
+                "file": "sympy/core/relational.py"
+            },
+            {
+                "file": "sympy/series/limits.py"
+            },
+            {
+                "file": "sympy/factorization/polyfactor.py"
+            },
+            {
+                "file": "sympy/simplify/gammasimp.py"
+            },
+            {
+                "file": "sympy/simplify/trigsimp.py"
+            },
+            {
+                "file": "sympy/series/residues.py"
+            },
+            {
+                "file": "sympy/series/order.py"
+            },
+            {
+                "file": "sympy/functions/special/bessel.py"
+            },
+            {
+                "file": "sympy/series/kauers.py"
+            },
+            {
+                "file": "sympy/series/series.py"
+            },
+            {
+                "file": "sympy/functions/special/tensor_functions.py"
+            },
+            {
+                "file": "sympy/functions/special/singularities_functions.py"
+            },
+            {
+                "file": "sympy/functions/special/zeta_functions.py"
+            },
+            {
+                "file": "sympy/algebras/quaternion.py"
+            },
+            {
+                "file": "sympy/sets/real_set.py"
+            }
+        ]
+    },
+    "sympy/sympy/21432": {
+        "results": [
+            {
+                "file": "sympy/simplify/powsimp.py"
+            },
+            {
+                "file": "sympy/core/power.py"
+            },
+            {
+                "file": "sympy/functions/elementary/complexes.py"
+            },
+            {
+                "file": "sympy/assumptions/handlers/calculus.py"
+            },
+            {
+                "file": "sympy/assumptions/handlers/order.py"
+            },
+            {
+                "file": "sympy/functions/elementary/trigonometric.py"
+            },
+            {
+                "file": "sympy/functions/elementary/mapping.py"
+            },
+            {
+                "file": "sympy/functions/elementary/exponential.py"
+            },
+            {
+                "file": "sympy/assumptions/handlers/sets.py"
+            },
+            {
+                "file": "sympy/core/facts.py"
+            },
+            {
+                "file": "sympy/core/evalf.py"
+            },
+            {
+                "file": "sympy/core/relational.py"
+            },
+            {
+                "file": "sympy/core/numbers.py"
+            },
+            {
+                "file": "sympy/core/expressions.py"
+            },
+            {
+                "file": "sympy/simplify/simplify.py"
+            },
+            {
+                "file": "sympy/series/limits.py"
+            },
+            {
+                "file": "sympy/codegen/cfunctions.py"
+            },
+            {
+                "file": "sympy/integrals/transforms.py"
+            },
+            {
+                "file": "sympy/algebras/quaternion.py"
+            },
+            {
+                "file": "sympy/solvers/solveset.py"
+            }
+        ]
+    },
+    "sympy/sympy/21436": {
+        "results": [
+            {
+                "file": "sympy/physics/mechanics/body.py"
+            }
+        ]
+    },
+    "sympy/sympy/22773": {
+        "results": [
+            {
+                "file": "sympy/physics/vector/printing.py"
+            }
+        ]
+    }
+}

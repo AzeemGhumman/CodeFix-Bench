@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/14238",
+    "base": "30e123ed351317b7527f632b3b7dc4e81e850449",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/db/models/fields/__init__.py,0.95\\ndjango/db/models/base.py,0.90\\ndjango/db/models/options.py,0.85\\ndjango/db/models/fields/related.py,0.80\\ndjango/apps/config.py,0.75\\ndjango/db/models/aggregates.py,0.70\\ndjango/db/models/functions/mixins.py,0.65\\ndjango/db/models/fields/related_lookups.py,0.60\\ndjango/db/models/fields/files.py,0.55\\ndjango/db/models/fields/json.py,0.50\\ndjango/db/models/query.py,0.45\\ndjango/db/models/sql/compiler.py,0.40\\ndjango/db/models/sql/query.py,0.35\\ndjango/db/models/sql/subqueries.py,0.30\\ndjango/db/models/sql/where.py,0.25\\ndjango/apps/registry.py,0.20\\ndjango/contrib/auth/models.py,0.15\\ndjango/contrib/sites/models.py,0.10\\ndjango/contrib/contenttypes/models.py,0.05\\ndjango/core/management/__init__.py,0.00', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 11.867,
+    "prompt_type": "role"
+}

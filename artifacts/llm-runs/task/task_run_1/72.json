@@ -1,0 +1,8 @@
+{
+    "pr": "pytest-dev/pytest/9359",
+    "base": "e2ee3144ed6e241dea8d96215fcdca18b3892551",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='src/_pytest/assertion/rewrite.py,0.95  \\nsrc/_pytest/assertion/util.py,0.92  \\nsrc/_pytest/terminal.py,0.89  \\nsrc/_pytest/reports.py,0.87  \\nsrc/_pytest/config/__init__.py,0.85  \\nsrc/_pytest/python.py,0.83  \\nsrc/_pytest/runner.py,0.81  \\nsrc/_pytest/nodes.py,0.80  \\nsrc/_pytest/pathlib.py,0.79  \\nsrc/_pytest/fixtures.py,0.78  \\nsrc/_pytest/main.py,0.77  \\nsrc/_pytest/cacheprovider.py,0.76  \\nsrc/_pytest/capture.py,0.75  \\nsrc/_pytest/mark/__init__.py,0.74  \\nsrc/_pytest/mark/expression.py,0.73  \\nsrc/_pytest/mark/structures.py,0.72  \\nsrc/_pytest/stash.py,0.71  \\nsrc/_pytest/logging.py,0.70  \\nsrc/_pytest/_code/code.py,0.69  \\nsrc/_pytest/_code/source.py,0.68', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 5.221,
+    "prompt_type": "task"
+}

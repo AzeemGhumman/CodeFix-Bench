@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/12430",
+    "base": "20ba3ce4ac8e8438070568ffba76f7d8d4986a53",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/core/cache/utils.py,0.97  \\ndjango/core/cache/__init__.py,0.95  \\ndjango/core/cache/backends/base.py,0.93  \\ndjango/core/cache/backends/locmem.py,0.90  \\ndjango/core/cache/backends/db.py,0.88  \\ndjango/core/cache/backends/filebased.py,0.85  \\ndjango/core/cache/backends/memcached.py,0.82  \\ndjango/core/cache/backends/dummy.py,0.80  \\ndjango/core/management/commands/check.py,0.78  \\ndjango/core/checks/caches.py,0.77  \\ndjango/core/checks/database.py,0.75  \\ndjango/core/management/utils.py,0.74  \\ndjango/core/checks/security/sessions.py,0.73  \\ndjango/core/management/commands/makemigrations.py,0.72  \\ndjango/core/management/commands/squashmigrations.py,0.71  \\ndjango/core/checks/templates.py,0.70  \\ndjango/core/checks/urls.py,0.69  \\ndjango/core/checks/security/base.py,0.68  \\ndjango/core/handlers/asgi.py,0.67  \\ndjango/core/handlers/base.py,0.66', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 11.82,
+    "prompt_type": "task"
+}

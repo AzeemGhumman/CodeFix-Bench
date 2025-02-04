@@ -1,0 +1,8 @@
+{
+    "pr": "matplotlib/matplotlib/14043",
+    "base": "6e49e89c4a1a3b2e238833bc8935d34b8056304e",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='lib/matplotlib/axes/_axes.py,0.9  \\nlib/matplotlib/axes/_secondary_axes.py,0.85  \\nlib/matplotlib/axes/_subplots.py,0.8  \\nlib/matplotlib/figure.py,0.8  \\nlib/matplotlib/artist.py,0.75  \\nlib/matplotlib/collections.py,0.7  \\nlib/matplotlib/markers.py,0.65  \\nlib/matplotlib/legend.py,0.6  \\nlib/matplotlib/backends/_backend_tk.py,0.55  \\nlib/matplotlib/backends/backend_agg.py,0.5  \\nlib/matplotlib/backends/backend_nbagg.py,0.45  \\nlib/matplotlib/backends/backend_template.py,0.4  \\nlib/matplotlib/backends/backend_svg.py,0.35  \\nlib/matplotlib/backends/backend_pdf.py,0.3  \\nlib/matplotlib/backends/backend_ps.py,0.25  \\nlib/matplotlib/backends/backend_webagg.py,0.2  \\nlib/matplotlib/backends/backend_webagg_core.py,0.15  \\nlib/matplotlib/backends/backend_tkagg.py,0.1  \\nlib/matplotlib/backends/backend_pgf.py,0.05  \\nlib/matplotlib/backends/backend_wx.py,0.0', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 10.74,
+    "prompt_type": "task"
+}

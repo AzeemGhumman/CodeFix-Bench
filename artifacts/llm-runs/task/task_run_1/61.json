@@ -1,0 +1,8 @@
+{
+    "pr": "psf/requests/2393",
+    "base": "d2d576b6b1101e2871c82f63adf2c2b534c2dabc",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='requests/utils.py, 0.95  \\nrequests/models.py, 0.93  \\nrequests/sessions.py, 0.88  \\ntest_requests.py, 0.82  \\nrequests/adapters.py, 0.75  \\nrequests/exceptions.py, 0.70  \\nrequests/packages/urllib3/response.py, 0.68  \\nrequests/packages/urllib3/__init__.py, 0.65  \\nrequests/packages/urllib3/fields.py, 0.62  \\nrequests/packages/urllib3/util/url.py, 0.60  \\nrequests/hooks.py, 0.58  \\nrequests/cookeis.py, 0.56  \\nrequests/api.py, 0.54  \\nrequests/packages/urllib3/packages/six.py, 0.52  \\nrequests/packages/urllib3/connection.py, 0.50  \\nrequests/packages/urllib3/connectionpool.py, 0.48  \\nrequests/__init__.py, 0.46  \\nrequests/models.py:RequestEncodingMixin.prepare_url, 0.44  \\nrequests/auth.py, 0.42  \\nrequests/packages/urllib3/util/timeout.py, 0.40', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 4.796,
+    "prompt_type": "task"
+}

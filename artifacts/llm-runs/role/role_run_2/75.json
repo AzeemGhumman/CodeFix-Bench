@@ -1,0 +1,8 @@
+{
+    "pr": "scikit-learn/scikit-learn/12471",
+    "base": "02dc9ed680e7f53f1b0d410dcdd37341c7958eb1",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sklearn/preprocessing/_encoders.py,0.95  \\nsklearn/preprocessing/_encoders.py:_transform_new,0.94  \\nsklearn/preprocessing/label.py:_encode_check_unknown,0.93  \\nsklearn/preprocessing/label.py:LabelEncoder.fit,0.92  \\nsklearn/preprocessing/label.py:LabelEncoder.transform,0.91  \\nsklearn/preprocessing/setup.py,0.90  \\nsklearn/preprocessing/_encoders.py:OneHotEncoder.__init__,0.89  \\nsklearn/preprocessing/_encoders.py:OneHotEncoder._transform_new,0.88  \\nsklearn/preprocessing/_encoders.py:OneHotEncoder.transform,0.87  \\nsklearn/preprocessing/_encoders.py:OneHotEncoder._legacy_transform,0.86  \\nsklearn/preprocessing/label.py:_encode,0.85  \\nsklearn/preprocessing/_encoders.py:OneHotEncoder._legacy_fit_transform,0.84  \\nsklearn/preprocessing/label.py:LabelBinarizer.fit,0.83  \\nsklearn/preprocessing/label.py:LabelBinarizer.transform,0.82  \\nsklearn/preprocessing/_encoders.py:OneHotEncoder._handle_deprecations,0.81  \\nsklearn/preprocessing/label.py:LabelBinarizer.__init__,0.80  \\nsklearn/preprocessing/_encoders.py:OneHotEncoder.get_feature_names,0.79  \\nsklearn/preprocessing/_encoders.py:OrdinalEncoder.__init__,0.78  \\nsklearn/preprocessing/label.py:_encode_check_unknown,0.77  \\nsklearn/preprocessing/label.py:MultiLabelBinarizer.__init__,0.76', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 9.07,
+    "prompt_type": "role"
+}

@@ -1,0 +1,8 @@
+{
+    "pr": "scikit-learn/scikit-learn/12471",
+    "base": "02dc9ed680e7f53f1b0d410dcdd37341c7958eb1",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sklearn/preprocessing/_encoders.py,1.0\\nsklearn/preprocessing/base.py,0.95\\nsklearn/preprocessing/_discretization.py,0.9\\nsklearn/preprocessing/imputation.py,0.85\\nsklearn/dummy.py,0.8\\nsklearn/__init__.py,0.75\\nsklearn/utils/validation.py,0.7\\nsklearn/utils/metaestimators.py,0.65\\nsklearn/base.py,0.6\\nsklearn/externals/joblib/numpy_pickle.py,0.55\\nsklearn/externals/joblib/_memory_helpers.py,0.5\\nsklearn/externals/joblib/_numpy_pickle_utils.py,0.45\\nsklearn/externals/joblib/externals/cloudpickle/cloudpickle.py,0.4\\nsklearn/neighbors/base.py,0.35\\nsklearn/metrics/scorer.py,0.3\\nsklearn/ensemble/iforest.py,0.25\\nsklearn/neighbors/classification.py,0.2\\nsklearn/tree/tree.py,0.15\\nsklearn/utils/random.py,0.1\\nsklearn/utils/_scipy_sparse_lsqr_backport.py,0.05', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 7.211,
+    "prompt_type": "role"
+}

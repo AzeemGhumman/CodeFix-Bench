@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/12936",
+    "base": "5af17babb0f895cf129fdeee92548d2ac12e78e2",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/contrib/gis/db/models/fields.py,0.95\\ndjango/contrib/gis/db/models/lookups.py,0.93\\ndjango/contrib/gis/db/models/sql/conversion.py,0.92\\ndjango/contrib/gis/db/backends/base/models.py,0.91\\ndjango/contrib/gis/db/backends/postgis/models.py,0.90\\ndjango/contrib/gis/db/backends/spatialite/models.py,0.89\\ndjango/contrib/gis/db/backends/oracle/models.py,0.88\\ndjango/contrib/gis/db/backends/mysql/models.py,0.87\\ndjango/contrib/gis/db/backends/base/operations.py,0.86\\ndjango/contrib/gis/db/backends/postgis/operations.py,0.85\\ndjango/contrib/gis/db/backends/postgis/introspection.py,0.84\\ndjango/contrib/gis/db/backends/spatialite/introspection.py,0.83\\ndjango/contrib/gis/db/backends/mysql/introspection.py,0.82\\ndjango/contrib/gis/db/backends/oracle/introspection.py,0.81\\ndjango/contrib/gis/db/backends/base/features.py,0.80\\ndjango/contrib/gis/db/backends/postgis/schema.py,0.79\\ndjango/contrib/gis/db/backends/spatialite/schema.py,0.78\\ndjango/contrib/gis/db/backends/mysql/schema.py,0.77\\ndjango/contrib/gis/db/backends/oracle/schema.py,0.76\\ndjango/contrib/gis/management/commands/inspectdb.py,0.75', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 13.307,
+    "prompt_type": "role"
+}

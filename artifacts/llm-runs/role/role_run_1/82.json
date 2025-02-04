@@ -1,0 +1,8 @@
+{
+    "pr": "sphinx-doc/sphinx/10320",
+    "base": "33610201dc7a69859b05381845ae1a11be8f9136",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sphinx/ext/autodoc/__init__.py,0.95  \\nsphinx/pycode/parser.py,0.90  \\nsphinx/pycode/ast.py,0.88  \\nsphinx/ext/autodoc/typehints.py,0.85  \\nsphinx/ext/autodoc/type_comment.py,0.82  \\nsphinx/ext/autodoc/legacy.py,0.80  \\nsphinx/domains/python.py,0.78  \\nsphinx/domains/cpp.py,0.75  \\nsphinx/util/docstrings.py,0.72  \\nsphinx/ext/autosummary/generate.py,0.70  \\nsphinx/ext/autosummary/__init__.py,0.68  \\nsphinx/domains/c.py,0.66  \\nsphinx/domains/math.py,0.64  \\nsphinx/domains/std.py,0.62  \\nsphinx/addnodes.py,0.60  \\nsphinx/ext/autodoc/importer.py,0.58  \\nsphinx/ext/autodoc/documenters/__init__.py,0.56  \\nsphinx/ext/autodoc/__init__.py,0.54  \\nsphinx/ext/autodoc/typehints/parse_args.py,0.52  \\nsphinx/extensions/autodoc/__init__.py,0.50', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 8.377,
+    "prompt_type": "role"
+}

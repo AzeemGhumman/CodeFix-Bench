@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/12132",
+    "base": "3930ec1bf275d17f1c36cd38b38114177b1d1565",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/http/request.py,1.00  \\ndjango/conf/global_settings.py,0.95  \\ndjango/conf/urls/__init__.py,0.95  \\ndjango/views/static.py,0.90  \\ndjango/core/urls/utils.py,0.85  \\ndjango/core/urls/resolvers.py,0.85  \\ndjango/core/urls/base.py,0.85  \\ndjango/core/servers/basehttp.py,0.80  \\ndjango/conf/urls/i18n.py,0.80  \\ndjango/core/handlers/base.py,0.80  \\ndjango/core/handlers/asgi.py,0.80  \\ndjango/core/handlers/wsgi.py,0.80  \\ndjango/core/checks/security/base.py,0.75  \\ndjango/core/cache/utils.py,0.75  \\ndjango/core/cache/backends/dummy.py,0.75  \\ndjango/core/cache/backends/base.py,0.75  \\ndjango/core/cache/backends/memcached.py,0.75  \\ndjango/core/cache/backends/locmem.py,0.75  \\ndjango/core/cache/backends/db.py,0.75  \\ndjango/core/cache/backends/filebased.py,0.75', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 11.378,
+    "prompt_type": "task"
+}

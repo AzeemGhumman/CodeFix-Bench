@@ -1,0 +1,8 @@
+{
+    "pr": "scikit-learn/scikit-learn/14520",
+    "base": "7e7b5092991cf7a7cf6bd95d56b08deef5eb9847",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sklearn/feature_extraction/text.py,0.95\\nsklearn/feature_extraction/dict_vectorizer.py,0.85\\nsklearn/feature_extraction/setup.py,0.80\\nsklearn/preprocessing/base.py,0.75\\nsklearn/multiclass.py,0.70\\nsklearn/metrics/classification.py,0.65\\nsklearn/metrics/scorer.py,0.60\\nsklearn/metrics/setup.py,0.55\\nsklearn/ensemble/_gb_losses.py,0.50\\nsklearn/ensemble/_hist_gradient_boosting/gradient_boosting.py,0.45\\nsklearn/ensemble/_hist_gradient_boosting/binning.py,0.40\\nsklearn/ensemble/_hist_gradient_boosting/predictor.py,0.35\\nsklearn/ensemble/_hist_gradient_boosting/loss.py,0.30\\nsklearn/linear_model/logistic.py,0.25\\nsklearn/linear_model/coordinate_descent.py,0.20\\nsklearn/linear_model/stochastic_gradient.py,0.15\\nsklearn/linear_model/bayes.py,0.10\\nsklearn/linear_model/ridge.py,0.05\\nsklearn/metrics/ranking.py,0.04\\nsklearn/metrics/regression.py,0.03', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 7.306,
+    "prompt_type": "role"
+}

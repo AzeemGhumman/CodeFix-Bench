@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/11666",
+    "base": "7da6a28a447dc0db2a2c6ef31894094eb968f408",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/utils/cache.py,1,  \\ndjango/views/decorators/cache.py,0.9,  \\ndjango/core/handlers/base.py,0.85,  \\ndjango/middleware/cache.py,0.8,  \\ndjango/db/migrations/operations/fields.py,0.75,  \\ndjango/contrib/sessions/backends/base.py,0.7,  \\ndjango/contrib/postgres/aggregates/general.py,0.65,  \\ndjango/contrib/postgres/aggregates/mixins.py,0.6,  \\ndjango/contrib/postgres/fields/array.py,0.55,  \\ndjango/contrib/postgres/fields/ranges.py,0.5,  \\ndjango/contrib/postgres/fields/mixins.py,0.45,  \\ndjango/contrib/postgres/fields/jsonb.py,0.4,  \\ndjango/contrib/postgres/fields/citext.py,0.35,  \\ndjango/contrib/postgres/fields/hstore.py,0.3,  \\ndjango/contrib/postgres/serializers.py,0.25,  \\ndjango/contrib/postgres/aggregates/statistics.py,0.2,  \\ndjango/contrib/postgres/validators.py,0.15,  \\ndjango/contrib/postgres/operations.py,0.1,  \\ndjango/contrib/postgres/forms/jsonb.py,0.05,  \\ndjango/contrib/postgres/forms/ranges.py,0.0', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 12.257,
+    "prompt_type": "task"
+}

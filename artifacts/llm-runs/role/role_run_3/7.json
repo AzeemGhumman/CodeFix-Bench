@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/11298",
+    "base": "a9179ab032cda80801e7f67ef20db5ee60989f21",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/db/models/fields/related.py,0.95\\ndjango/db/models/fields/__init__.py,0.92\\ndjango/contrib/admin/options.py,0.89\\ndjango/db/models/fields/mixins.py,0.88\\ndjango/contrib/admin/forms.py,0.85\\ndjango/contrib/admin/widgets.py,0.84\\ndjango/db/models/query.py,0.83\\ndjango/contrib/contenttypes/fields.py,0.80\\ndjango/contrib/admin/helps.py,0.78\\ndjango/contrib/admin/views/main.py,0.77\\ndjango/db/models/deletion.py,0.76\\ndjango/contrib/admin/checks.py,0.75\\ndjango/utils/decorators.py,0.74\\ndjango/contrib/admin/views/autocomplete.py,0.73\\ndjango/db/backends/base/schema.py,0.72\\ndjango/core/serializers/base.py,0.70\\ndjango/contrib/auth/migrations/0011_update_proxy_permissions.py,0.69\\ndjango/contrib/auth/forms.py,0.68\\ndjango/contrib/admin/views/decorators.py,0.67\\ndjango/contrib/admin/options.py,0.66', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 11.525,
+    "prompt_type": "role"
+}

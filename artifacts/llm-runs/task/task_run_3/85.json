@@ -1,0 +1,8 @@
+{
+    "pr": "sphinx-doc/sphinx/8620",
+    "base": "21698c14461d27933864d73e6fba568a154e83b3",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sphinx/roles.py,XRefRole.run,0.95  \\nsphinx/writers/html.py,HTMLTranslator.visit_desc_signature,0.88  \\nsphinx/writers/html5.py,HTML5Translator.visit_desc_signature,0.87  \\nsphinx/writers/latex.py,LaTeXTranslator.visit_desc_signature,0.86  \\nsphinx/domains/python.py,PyObject.handle_signature,0.85  \\nsphinx/domains/cpp.py,CPPDomain.resolve_any_xref,0.84  \\nsphinx/builders/html/transforms.py,KeyboardTransform.run,0.83  \\nsphinx/transforms/post_transforms/__init__.py,ReferencesResolver.resolve_anyref,0.82  \\nsphinx/domains/c.py,CDomain.resolve_any_xref,0.81  \\nsphinx/domains/javascript.py,JavaScriptDomain.resolve_any_xref,0.80  \\nsphinx/domains/std.py,StandardDomain._resolve_ref_xref,0.79  \\nsphinx/domains/__init__.py,Domain.resolve_xref,0.78  \\nsphinx/domains/rst.py,ReSTDomain.resolve_xref,0.77  \\nsphinx/domains/index.py,IndexDirective.run,0.76  \\nsphinx/domains/math.py,MathDomain.resolve_xref,0.75  \\nsphinx/domains/citation.py,CitationDomain.resolve_xref,0.74  \\nsphinx/ext/todo.py,Todo.run,0.73  \\nsphinx/ext/napoleon/docstring.py,GoogleDocstring._parse_section_header,0.72  \\nsphinx/ext/autodoc/documenter.py,Documenter.import_object,0.71  \\nsphinx/ext/autodoc/typehints.py,merge_typehints,0.70', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 9.634,
+    "prompt_type": "task"
+}

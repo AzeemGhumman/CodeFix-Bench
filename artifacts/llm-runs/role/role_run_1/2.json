@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/10426",
+    "base": "817c6cdf0e2a72362045ca503af01830df9b9d36",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/core/management/commands/showmigrations.py,0.95\\ndjango/core/management/__init__.py,0.87\\ndjango/core/management/base.py,0.84\\ndjango/core/management/templates.py,0.81\\ndjango/core/management/commands/check.py,0.79\\ndjango/core/management/commands/inspectdb.py,0.78\\ndjango/core/management/commands/migrate.py,0.77\\ndjango/core/management/commands/diffsettings.py,0.76\\ndjango/core/management/commands/dumpdata.py,0.75\\ndjango/core/management/commands/sendtestemail.py,0.74\\ndjango/core/management/commands/flush.py,0.73\\ndjango/core/management/commands/compilemessages.py,0.72\\ndjango/core/management/commands/startproject.py,0.71\\ndjango/core/management/commands/startapp.py,0.70\\ndjango/core/management/commands/testserver.py,0.69\\ndjango/core/management/commands/dbshell.py,0.68\\ndjango/core/management/commands/sqlmigrate.py,0.67\\ndjango/core/management/commands/squashmigrations.py,0.66\\ndjango/core/management/commands/sqlsequencereset.py,0.65\\ndjango/core/management/commands/check.py,0.64', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 6.141,
+    "prompt_type": "role"
+}

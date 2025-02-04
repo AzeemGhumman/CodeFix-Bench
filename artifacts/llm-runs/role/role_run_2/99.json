@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/22773",
+    "base": "96c9c40b2bd41105cf82440cc83c27f032ac5ffc",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sympy/physics/vector/printing.py,1.00  \\nsympy/physics/vector/functions.py,0.99  \\nsympy/physics/vector/vector.py,0.98  \\nsympy/physics/vector/operators.py,0.97  \\nsympy/physics/vector/basisdependent.py,0.96  \\nsympy/physics/vector/point.py,0.95  \\nsympy/physics/vector/frame.py,0.94  \\nsympy/physics/vector/integrals.py,0.93  \\nsympy/physics/vector/deloperator.py,0.92  \\nsympy/physics/vector/scalar.py,0.91  \\nsympy/physics/vector/dyadic.py,0.90  \\nsympy/physics/vector/operator.py,0.89  \\nsympy/physics/vector/operatorordering.py,0.88  \\nsympy/physics/vector/qapply.py,0.87  \\nsympy/physics/vector/constants.py,0.86  \\nsympy/physics/vector/paulialgebra.py,0.85  \\nsympy/physics/vector/printing.py,0.84  \\nsympy/physics/vector/fieldfunctions.py,0.83  \\nsympy/physics/vector/functions.py,0.82  \\nsympy/physics/vector/operatorordering.py,0.81', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 63.35,
+    "prompt_type": "role"
+}

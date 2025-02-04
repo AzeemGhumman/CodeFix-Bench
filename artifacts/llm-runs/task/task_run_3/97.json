@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/21432",
+    "base": "05f5021fff2e74f674e62c56ed0fc58bca17e2d2",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sympy/simplify/powsimp.py,1  \\nsympy/core/power.py,0.95  \\nsympy/functions/elementary/complexes.py,0.92  \\nsympy/assumptions/handlers/calculus.py,0.9  \\nsympy/assumptions/handlers/order.py,0.88  \\nsympy/functions/elementary/trigonometric.py,0.85  \\nsympy/functions/elementary/mapping.py,0.83  \\nsympy/functions/elementary/exponential.py,0.82  \\nsympy/assumptions/handlers/sets.py,0.8  \\nsympy/core/facts.py,0.78  \\nsympy/core/evalf.py,0.75  \\nsympy/core/relational.py,0.73  \\nsympy/core/numbers.py,0.72  \\nsympy/core/expressions.py,0.7  \\nsympy/simplify/simplify.py,0.68  \\nsympy/series/limits.py,0.65  \\nsympy/codegen/cfunctions.py,0.63  \\nsympy/integrals/transforms.py,0.6  \\nsympy/algebras/quaternion.py,0.58  \\nsympy/solvers/solveset.py,0.55', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 62.05,
+    "prompt_type": "task"
+}

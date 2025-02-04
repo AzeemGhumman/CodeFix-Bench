@@ -1,0 +1,8 @@
+{
+    "pr": "matplotlib/matplotlib/23049",
+    "base": "17a7aca12399311f6252c55db0ece3694c5758b2",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='lib/matplotlib/axis.py,0.95\\nlib/matplotlib/units.py,0.92\\nlib/matplotlib/tick.py,0.90\\nlib/matplotlib/_api/deprecation.py,0.88\\nlib/matplotlib/backends/backend_gtk3agg.py,0.87\\nlib/matplotlib/backends/backend_pdf.py,0.87\\nlib/matplotlib/backends/backend_ps.py,0.87\\nlib/matplotlib/scale.py,0.86\\nlib/matplotlib/backends/backend_svg.py,0.86\\nlib/matplotlib/backends/backend_nbagg.py,0.85\\nlib/matplotlib/backends/backend_tkagg.py,0.85\\nlib/matplotlib/backends/backend_qt5.py,0.85\\nlib/matplotlib/backends/backend_qtagg.py,0.85\\nlib/matplotlib/backends/backend_pgf.py,0.85\\nlib/matplotlib/backend_bases.py,0.84\\nlib/matplotlib/_tight_layout.py,0.84\\nlib/matplotlib/_constrained_layout.py,0.84\\nlib/matplotlib/figure.py,0.83\\nlib/matplotlib/_layoutgrid.py,0.83\\nlib/matplotlib/_pylab_helpers.py,0.83', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 10.949,
+    "prompt_type": "role"
+}

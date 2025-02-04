@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/15232",
+    "base": "4f41286b22a05d5d75f456f1e574d8c115bab5d4",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sympy/core/exprtools.py,0.9  \\nsympy/core/expr.py,0.88  \\nsympy/core/numbers.py,0.85  \\nsympy/core/symbol.py,0.83  \\nsympy/core/relational.py,0.82  \\nsympy/core/sympify.py,0.79  \\nsympy/core/operations.py,0.77  \\nsympy/core/module/__init__.py,0.76  \\nsympy/core/cache.py,0.75  \\nsympy/core/mul.py,0.74  \\nsympy/core/add.py,0.73  \\nsympy/assumptions/handlers/calculus.py,0.71  \\nsympy/assumptions/handlers/order.py,0.70  \\nsympy/assumptions/handlers/ntheory.py,0.69  \\nsympy/assumptions/handlers/matrices.py,0.68  \\nsympy/core/function.py,0.67  \\nsympy/core/evalf.py,0.66  \\nsympy/core/trace.py,0.65  \\nsympy/simplify/ratsimp.py,0.64  \\nsympy/physics/matrices.py,0.63', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 50.405,
+    "prompt_type": "role"
+}

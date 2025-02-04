@@ -1,0 +1,8 @@
+{
+    "pr": "sphinx-doc/sphinx/10325",
+    "base": "7bdc11e87c7d86dcc2a087eccb7a7c129a473415",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sphinx/ext/autodoc/__init__.py,0.95\\nsphinx/ext/autodoc/directive.py,0.92\\nsphinx/ext/autodoc/importer.py,0.90\\nsphinx/ext/autodoc/preserve_defaults.py,0.88\\nsphinx/domains/python.py,0.85\\nsphinx/domains/cpp.py,0.83\\nsphinx/domains/__init__.py,0.82\\nsphinx/pycode/parser.py,0.80\\nsphinx/pycode/ast.py,0.78\\nsphinx/ext/autodoc/typehints.py,0.75\\nsphinx/ext/autodoc/type_comment.py,0.73\\nsphinx/builders/__init__.py,0.70\\nsphinx/cmd/build.py,0.68\\nsphinx/io.py,0.67\\nsphinx/writers/text.py,0.65\\nsphinx/writers/html5.py,0.64\\nsphinx/ext/viewcode.py,0.63\\nsphinx/util/nodes.py,0.62\\nsphinx/events.py,0.61\\nsphinx/extension.py,0.60', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 7.908,
+    "prompt_type": "task"
+}

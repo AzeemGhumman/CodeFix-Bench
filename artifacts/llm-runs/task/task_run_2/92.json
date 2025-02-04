@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/15933",
+    "base": "e8cf4260af7461a42db9ed4edb2ab3fe442507c7",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sympy/physics/quantum/gate.py,0.95  \\nsympy/physics/quantum/qubit.py,0.94  \\nsympy/physics/quantum/qubit.py:measure_all,0.93  \\nsympy/physics/quantum/qapply.py:qapply,0.90  \\nsympy/physics/quantum/qasm.py:read_qasm,0.85  \\nsympy/physics/quantum/qasm.py:read_qasm_file,0.84  \\nsympy/physics/quantum/qbit.py:qbit,0.80  \\nsympy/physics/quantum/circuitplot.py:CircuitPlot,0.75  \\nsympy/physics/quantum/circuitutils.py:random_insert,0.70  \\nsympy/physics/quantum/innerproduct.py:InnerProduct,0.68  \\nsympy/physics/quantum/density.py:Density,0.67  \\nsympy/physics/quantum/spin.py:SpinOpBase,0.65  \\nsympy/physics/quantum/matrixutils.py:sympy_to_numpy,0.62  \\nsympy/physics/quantum/tensorproduct.py:TensorProduct,0.60  \\nsympy/physics/quantum/represent.py:represent,0.57  \\nsympy/physics/quantum/anticommutator.py:AntiCommutator,0.55  \\nsympy/physics/quantum/dagger.py:Dagger,0.50  \\nsympy/physics/quantum/evocheck.py:EvoCheckError,0.48  \\nsympy/physics/quantum/overlap.py:OverlapOperator,0.45  \\nsympy/physics/quantum/expectation.py:ExpectationValue,0.40', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 54.574,
+    "prompt_type": "task"
+}

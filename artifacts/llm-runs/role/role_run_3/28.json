@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/14341",
+    "base": "136ff592ad8aa8b7fa1e61435e5501cc98ce8573",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/core/cache/backends/dummy.py,0.9\\ndjango/core/cache/backends/memcached.py,0.9\\ndjango/core/cache/backends/locmem.py,0.9\\ndjango/core/cache/backends/db.py,0.9\\ndjango/core/cache/backends/filebased.py,0.9\\ndjango/core/cache/utils.py,0.8\\ndjango/core/cache/__init__.py,0.8\\ndjango/db/backends/utils.py,0.75\\ndjango/db/backends/postgresql/base.py,0.7\\ndjango/db/backends/sqlite3/base.py,0.68\\ndjango/db/backends/mysql/base.py,0.65\\ndjango/db/utils.py,0.6\\ndjango/contrib/sessions/backends/cached_db.py,0.58\\ndjango/contrib/sessions/backends/file.py,0.56\\ndjango/contrib/sessions/backends/db.py,0.55\\ndjango/contrib/sessions/backends/signed_cookies.py,0.54\\ndjango/contrib/sessions/backends/cache.py,0.53\\ndjango/core/cache/backends/base.py,0.52\\ndjango/core/cache/backends/dummy.py,0.51\\ndjango/core/cache/backends/memcached.py,0.50', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 12.196,
+    "prompt_type": "role"
+}

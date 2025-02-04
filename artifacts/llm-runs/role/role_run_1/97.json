@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/21432",
+    "base": "05f5021fff2e74f674e62c56ed0fc58bca17e2d2",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='powsimp.py,1  \\nsimplify/powsimp.py,0.9  \\nsimplify/simplify.py,0.85  \\nsimplify/combsimp.py,0.82  \\nsimplify/ratsimp.py,0.8  \\nsimplify/epathtools.py,0.75  \\nsimplify/sqrtdenest.py,0.7  \\nsimplify/fu.py,0.65  \\nsimplify/hyperexpand.py,0.6  \\nsimplify/gammasimp.py,0.55  \\nsimplify/radsimp.py,0.5  \\nassumptions/sathandlers.py,0.45  \\nassumptions/satask.py,0.4  \\nassumptions/facts.py,0.35  \\nassumptions/wrapper.py,0.3  \\nassumptions/handlers/order.py,0.25  \\nassumptions/handlers/matrices.py,0.2  \\nassumptions/refine.py,0.15  \\nfunctions/elementary/trigonometric.py,0.1  \\nfunctions/elementary/complexes.py,0.05', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 59.783,
+    "prompt_type": "role"
+}

@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/11666",
+    "base": "7da6a28a447dc0db2a2c6ef31894094eb968f408",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/utils/cache.py,0.95  \\ndjango/http/response.py,0.92  \\ndjango/middleware/cache.py,0.90  \\ndjango/core/handlers/base.py,0.88  \\ndjango/core/cache/backends/base.py,0.85  \\ndjango/core/cache/utils.py,0.83  \\ndjango/core/cache/__init__.py,0.82  \\ndjango/core/cache/backends/dummy.py,0.81  \\ndjango/core/cache/backends/locmem.py,0.80  \\ndjango/core/cache/backends/memcached.py,0.79  \\ndjango/core/cache/backends/filebased.py,0.78  \\ndjango/core/cache/backends/db.py,0.77  \\ndjango/middleware/common.py,0.76  \\ndjango/core/serializers/json.py,0.75  \\ndjango/core/serializers/python.py,0.74  \\ndjango/core/serializers/xml_serializer.py,0.73  \\ndjango/core/serializers/pyyaml.py,0.72  \\ndjango/core/management/commands/runserver.py,0.71  \\ndjango/db/migrations/operations/special.py,0.70  \\ndjango/db/migrations/executor.py,0.69', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 11.361,
+    "prompt_type": "role"
+}

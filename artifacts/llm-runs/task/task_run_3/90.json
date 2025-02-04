@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/14296",
+    "base": "82bf1d76747b3d309fba5079a16a4e3183fc21fd",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='algebraicfield.py,1.0  \\nnumbers.py,0.95  \\ncore.py,0.85  \\nfunctions.py,0.80  \\nrelational.py,0.75  \\nsympy_parser.py,0.70  \\nfactortools.py,0.65  \\nfactor_.py,0.60  \\nrecresult.py,0.55  \\nminpoly.py,0.50  \\npseries.py,0.45  \\nsimplify.py,0.40  \\nhyperexpand.py,0.35  \\nmanip.py,0.30  \\nlimit.py,0.25  \\npolys.py,0.20  \\nliealgebras.py,0.15  \\ninequalities.py,0.10  \\node.py,0.05  \\nsolveset.py,0.01', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 24.198,
+    "prompt_type": "task"
+}

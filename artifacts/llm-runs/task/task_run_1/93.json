@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/16450",
+    "base": "aefdd023dc4f73c441953ed51f5f05a076f0862f",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='convert_to_native_paths.py, 1.00000000000000000000  \\nrun_all_tests.py, 0.99999999999999990000  \\nconftest.py, 0.91999999999999999800  \\nsympy/assumptions/sathandlers.py, 0.91999999999999999800  \\nsympy/assumptions/ask.py, 0.90000000000000000000  \\nsympy/core/assumptions.py, 0.90000000000000000000  \\nsympy/core/function.py, 0.80000000000000004441  \\nsympy/core/symbol.py, 0.80000000000000004441  \\nsympy/core/container.py, 0.70000000000000000000  \\nsympy/functions/special/bessel.py, 0.70000000000000000000  \\nsympy/functions/special/hyper.py, 0.60000000000000008882  \\nsympy/core/numbers.py, 0.55555555555555555556  \\nsympy/core/expr.py, 0.44444444444444442889  \\nsympy/simplify/simplify.py, 0.33333333333333331483  \\nsympy/core/evalf.py, 0.33333333333333331483  \\nsympy/core/relational.py, 0.30', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 57.923,
+    "prompt_type": "task"
+}

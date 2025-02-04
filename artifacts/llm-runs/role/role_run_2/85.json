@@ -1,0 +1,8 @@
+{
+    "pr": "sphinx-doc/sphinx/8620",
+    "base": "21698c14461d27933864d73e6fba568a154e83b3",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sphinx/roles.py,0.95\\nsphinx/writers/html5.py,0.94\\nsphinx/writers/html.py,0.93\\nsphinx/writers/latex.py,0.92\\nsphinx/builders/html/transforms.py,0.91\\nsphinx/builders/html/__init__.py,0.90\\nsphinx/writers/texinfo.py,0.89\\nsphinx/writers/manpage.py,0.88\\nsphinx/writers/text.py,0.87\\nsphinx/domains/python.py,0.86\\nsphinx/domains/cpp.py,0.85\\nsphinx/domains/index.py,0.84\\nsphinx/domains/c.py,0.83\\nsphinx/domains/javascript.py,0.82\\nsphinx/domains/std.py,0.81\\nsphinx/domains/math.py,0.80\\nsphinx/util/nodes.py,0.79\\nsphinx/util/console.py,0.78\\nsphinx/ext/todo.py,0.77\\nsphinx/ext/viewcode.py,0.76', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 7.596,
+    "prompt_type": "role"
+}

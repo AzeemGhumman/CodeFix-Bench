@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/14296",
+    "base": "82bf1d76747b3d309fba5079a16a4e3183fc21fd",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='algebraicfield.py,0.95  \\nnumberfields.py,0.94  \\nsymbols.py,0.93  \\npolys/polytools.py,0.92  \\nparsing/sympy_parser.py,0.90  \\ncore/numbers.py,0.89  \\nintegrals/meijerint.py,0.88  \\npolys/solvers.py,0.87  \\npolys/rings.py,0.86  \\npolys/modulargcd.py,0.85  \\npolys/assumptions.py,0.84  \\npolys/operators.py,0.83  \\npolys/matrix_utilities.py,0.82  \\npolys/numeral_representations.py,0.81  \\ncore/cache.py,0.80  \\nprinting/latex.py,0.79  \\nprinting/tree.py,0.78  \\nprinting/python.py,0.77  \\nlogic/inference.py,0.76  \\nprinting/mathml.py,0.75', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 25.149,
+    "prompt_type": "task"
+}

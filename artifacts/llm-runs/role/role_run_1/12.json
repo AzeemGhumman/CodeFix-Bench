@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/12132",
+    "base": "3930ec1bf275d17f1c36cd38b38114177b1d1565",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/core/validators.py,0.95\\ndjango/core/serializers/base.py,0.93\\ndjango/core/handlers/base.py,0.92\\ndjango/core/handlers/wsgi.py,0.91\\ndjango/core/handlers/asgi.py,0.90\\ndjango/core/cache/backends/base.py,0.89\\ndjango/core/cache-utils.py,0.88\\ndjango/core/checks/security/base.py,0.87\\ndjango/core/_exceptions.py,0.86\\ndjango/core/files/move.py,0.85\\ndjango/core/files/storage.py,0.84\\ndjango/core/files/base.py,0.83\\ndjango/core/files/images.py,0.82\\ndjango/db/models/fields/related.py,0.81\\ndjango/db/models/fields/files.py,0.80\\ndjango/urls/base.py,0.79\\ndjango/urls/resolvers.py,0.78\\ndjango/urls/converters.py,0.77\\ndjango/views/generic/base.py,0.76\\ndjango/views/generic/edit.py,0.75', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 11.049,
+    "prompt_type": "role"
+}

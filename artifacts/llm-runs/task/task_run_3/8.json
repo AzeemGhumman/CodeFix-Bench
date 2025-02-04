@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/11383",
+    "base": "9d6f981a66bd2c4188c4a3e08e4f36fc9c4882ef",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/db/models/query.py,0.95\\ndjango/db/models/fields/related.py,0.93\\ndjango/db/models/fields/related_descriptors.py,0.92\\ndjango/db/models/fields/mixins.py,0.90\\ndjango/db/models/fields/files.py,0.89\\ndjango/db/models/indexes.py,0.87\\ndjango/db/models/aggregates.py,0.86\\ndjango/db/models/constraints.py,0.85\\ndjango/db/models/options.py,0.84\\ndjango/db/migrations/operations/fields.py,0.83\\ndjango/db/migrations/operations/models.py,0.82\\ndjango/db/migrations/loader.py,0.81\\ndjango/db/migrations/questioner.py,0.80\\ndjango/db/migrations/autodetector.py,0.79\\ndjango/db/migrations/optimizer.py,0.78\\ndjango/db/migrations/graph.py,0.77\\ndjango/db/migrations/recorder.py,0.76\\ndjango/db/migrations/utils.py,0.75\\ndjango/db/migrations/writer.py,0.74\\ndjango/db/migrations/serializer.py,0.73', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 11.502,
+    "prompt_type": "task"
+}

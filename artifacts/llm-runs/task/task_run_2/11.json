@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/11997",
+    "base": "17752003a8c115ff79f5f21655f5e9b8b2af67f4",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/utils/translation/template.py,0.95  \\ndjango/utils/dateformat.py,0.90  \\ndjango/utils/formats.py,0.88  \\ndjango/templatetags/l10n.py,0.85  \\ndjango/templatetags/i18n.py,0.83  \\ndjango/templatetags/defaultfilters.py,floatformat,0.80  \\ndjango/utils/datetime_safe.py,0.78  \\ndjango/utils/translation/trans_real.py,0.75  \\ndjango/utils/translation/trans_null.py,0.73  \\ndjango/db/models/query.py,0.70  \\ndjango/core/serializers/__init__.py,0.68  \\ndjango/templates/defaultfilters.py,floatformat,0.65  \\ndjango/template/defaultfilters.py,floatformat,0.63  \\ndjango/core/validators.py,0.60  \\ndjango/core/management/commands/shell.py,0.58  \\ndjango/core/management/commands/inspectdb.py,0.55  \\ndjango/core/management/commands/testserver.py,0.53  \\ndjango/core/management/commands/dbshell.py,0.50  \\ndjango/core/management/commands/compilemessages.py,0.48  \\ndjango/core/management/commands/makemessages.py,0.45', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 11.88,
+    "prompt_type": "task"
+}

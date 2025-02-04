@@ -1,0 +1,8 @@
+{
+    "pr": "psf/requests/4718",
+    "base": "dd754d13de250a6af8a68a6a83a8b4419fd429c6",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='requests/sessions.py,0.95  \\nrequests/models.py,0.92  \\nrequests/auth.py,0.88  \\nrequests/adapters.py,0.85  \\nrequests/structures.py,0.82  \\nrequests/hooks.py,0.78  \\nrequests/api.py,0.75  \\nrequests/cookies.py,0.72  \\nrequests/utils.py,0.70  \\nrequests/__init__.py,0.68  \\nrequests/help.py,0.65  \\nrequests/status_codes.py,0.63  \\nrequests/_internal_utils.py,0.60  \\nsetup.py,0.58  \\nrequests/sessions.py:SessionRedirectMixin.rebuild_auth,0.55  \\nrequests/models.py:PreparedRequest.prepare_auth,0.52  \\nrequests/auth.py:_basic_auth_str,0.49  \\nrequests/adapters.py:HTTPAdapter.build_response,0.46  \\nrequests/structures.py:CaseInsensitiveDict.__setitem__,0.43  \\nrequests/structures.py:CaseInsensitiveDict.__getitem__,0.40', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 3.887,
+    "prompt_type": "task"
+}

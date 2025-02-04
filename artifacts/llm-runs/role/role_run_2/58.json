@@ -1,0 +1,8 @@
+{
+    "pr": "matplotlib/matplotlib/26472",
+    "base": "e4905bf8ae7d2f58025442018606f59641daa226",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='lib/matplotlib/backends/backend_qt.py,0.95\\nlib/matplotlib/backends/backend_qtagg.py,0.94\\nlib/matplotlib/backends/backend_nbagg.py,0.93\\nlib/matplotlib/backends/backend_webagg.py,0.92\\nlib/matplotlib/backends/backend_tkagg.py,0.91\\nlib/matplotlib/backends/_backend_tk.py,0.90\\nlib/matplotlib/backends/backend_webagg_core.py,0.89\\nlib/matplotlib/backends/backend_qt5.py,0.88\\nlib/matplotlib/backends/backend_macosx.py,0.87\\nlib/matplotlib/backends/backend_wxagg.py,0.86\\nlib/matplotlib/backends/backend_tkcairo.py,0.85\\nlib/matplotlib/backends/backend_qtcairo.py,0.84\\nlib/matplotlib/backends/backend_gtk4agg.py,0.83\\nlib/matplotlib/backends/backend_gtk3agg.py,0.82\\nlib/matplotlib/backends/backend_gtk4cairo.py,0.81\\nlib/matplotlib/backends/backend_gtk3cairo.py,0.80\\nlib/matplotlib/_pylab_helpers.py,0.79\\nlib/matplotlib/_layoutgrid.py,0.78\\nlib/matplotlib/animation.py,0.77\\nlib/matplotlib/figure.py,0.76', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 12.276,
+    "prompt_type": "role"
+}

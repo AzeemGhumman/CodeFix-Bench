@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/12458",
+    "base": "590957a0eb9a87a6f2bd3463226b0a7f1405d817",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/core/serializers/__init__.py,0.95\\ndjango/core/serializers/management/commands/dumpdata.py,0.90\\ndjango/core/serializers/base.py,0.88\\ndjango/core/serializers/json.py,0.85\\ndjango/core/serializers/python.py,0.82\\ndjango/core/serializers/pyyaml.py,0.80\\ndjango/core/serializers/xml_serializer.py,0.78\\ndjango/core/management/commands/dumpdata.py,0.75\\ndjango/db/backends/base/creation.py,0.70\\ndjango/core/serializers/pyyaml.py,DjangoSafeDumper.represent_decimal,0.68\\ndjango/core/serializers/json.py,Serializer._init_options,0.66\\ndjango/core/serializers/xml_serializer.py,Serializer._start_relational_field,0.65\\ndjango/core/serializers/python.py,Serializer.handle_field,0.64\\ndjango/db/migrations/operations/special.py,RunSQL.__init__,0.62\\ndjango/core/serializers/base.py,Serializer.end_serialization,0.60\\ndjango/db/migrations/operations/fields.py,AddField.__init__,0.58\\ndjango/core/serializers/xml_serializer.py,Deserializer.__next__,0.57\\ndjango/core/serializers/json.py,Deserializer,0.56\\ndjango/core/serializers/python.py,Deserializer,0.55\\ndjango/core/serializers/xml_serializer.py,DefusedExpatParser.__init__,0.54', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 12.941,
+    "prompt_type": "task"
+}

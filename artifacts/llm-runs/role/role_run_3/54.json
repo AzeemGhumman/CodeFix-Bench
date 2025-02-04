@@ -1,0 +1,8 @@
+{
+    "pr": "matplotlib/matplotlib/25515",
+    "base": "3218d1f9d3242d29e7d789fd4d27bffcc7da64a4",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='lib/matplotlib/sphinxext/plot_directive.py,0.95  \\nlib/matplotlib/sphinxext/mathmpl.py,0.90  \\nlib/matplotlib/projections/polar.py,0.85  \\nlib/matplotlib/projections/__init__.py,0.80  \\nlib/matplotlib/projections/geo.py,0.75  \\nlib/matplotlib/image.py,0.70  \\nlib/matplotlib/backend_pdf.py,0.65  \\nlib/matplotlib/backends/backend_svg.py,0.60  \\nlib/matplotlib/backends/backend_agg.py,0.55  \\nlib/matplotlib/backends/backend_ps.py,0.50  \\nlib/matplotlib/backends/backend_pgf.py,0.45  \\nlib/matplotlib/backends/backend_template.py,0.40  \\nlib/matplotlib/backends/backend_webagg.py,0.35  \\nlib/matplotlib/backends/backend_webagg_core.py,0.30  \\nlib/matplotlib/backends/backend_nbagg.py,0.25  \\nlib/matplotlib/backends/backend_gtk3agg.py,0.20  \\nlib/matplotlib/backends/backend_gtk4agg.py,0.15  \\nlib/matplotlib/backends/backend_qt5.py,0.10  \\nlib/matplotlib/backends/backend_qt4.py,0.05  \\nlib/matplotlib/backends/backend_mixed.py,0.00', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 11.63,
+    "prompt_type": "role"
+}

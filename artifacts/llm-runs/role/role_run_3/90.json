@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/14296",
+    "base": "82bf1d76747b3d309fba5079a16a4e3183fc21fd",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='algebraicfield.py,0.95  \\nnumberfields.py,0.94  \\nto_number_field,0.92  \\nminimal_polynomial,0.90  \\ncore/numbers.py,0.88  \\ncore/function.py,0.86  \\ncore/sympify.py,0.85  \\npolys/numberfields.py,0.83  \\npolys/polytools.py,0.82  \\npolys/domainelement.py,0.81  \\npolys/domains/algebraicfield.py,0.80  \\npolys/domains/ring.py,0.79  \\npolys/domains/field.py,0.78  \\npolys/domains/gmpyintegerring.py,0.77  \\npolys/domains/pythonintegerring.py,0.76  \\npolys/domains/rationalfield.py,0.75  \\npolys/domains/finitefield.py,0.74  \\npolys/domains/gmpyrationalfield.py,0.73  \\npolys/domains/compositedomain.py,0.72  \\npolys/domains/realfield.py,0.71', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 25.39,
+    "prompt_type": "role"
+}

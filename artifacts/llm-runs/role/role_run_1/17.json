@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/12855",
+    "base": "f2051eb8a7febdaaa43bd33bf5a6108c5f428e59",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/urls/__init__.py,url,0.95\\ndjango/views/generic/edit.py,FormMixin.get_initial,0.87\\ndjango/views/generic/detail.py,SingleObjectMixin.get_object,0.85\\ndjango/views/generic/list.py,BaseListView.get,0.82\\ndjango/views/generic/base.py,TemplateResponseMixin.render_to_response,0.80\\ndjango/views/generic/dates.py,BaseDateListView.get,0.79\\ndjango/views/debug.py,CallableSettingWrapper.__init__,0.78\\ndjango/views/csrf.py,csrf_failure,0.77\\ndjango/views/i18n.py,set_language,0.76\\ndjango/views/defaults.py,page_not_found,0.75\\ndjango/views/static.py,serve,0.74\\ndjango/views/decorators/debug.py,sensitive_variables,0.73\\ndjango/views/decorators/csrf.py,csrf_exempt,0.72\\ndjango/views/decorators/http.py,require_http_methods,0.71\\ndjango/views/decorators/vary.py,vary_on_headers,0.70\\ndjango/views/decorators/cache.py,cache_page,0.69\\ndjango/urls/utils.py,get_callable,0.68\\ndjango/urls/conf.py,include,0.67\\ndjango/urls/converters.py,IntConverter.to_python,0.66\\ndjango/urls/resolvers.py,ResolverMatch.__init__,0.65', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 12.482,
+    "prompt_type": "role"
+}

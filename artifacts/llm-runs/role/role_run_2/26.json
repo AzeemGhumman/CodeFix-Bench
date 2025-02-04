@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/14169",
+    "base": "f5a22442176878d07e80ae5ba0af1dd8d6910fbd",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/db/backends/sqlite3/creation.py,0.95\\ndjango/db/backends/base/creation.py,0.92\\ndjango/core/management/commands/test.py,0.89\\ndjango/db/backends/base/client.py,0.87\\ndjango/db/backends/base/introspection.py,0.85\\ndjango/db/backends/base/features.py,0.83\\ndjango/db/backends/base/schema.py,0.81\\ndjango/db/backends/base/operations.py,0.79\\ndjango/db/backends/base/base.py,0.78\\ndjango/db/models/query.py,0.76\\ndjango/db/models/query_utils.py,0.75\\ndjango/db/models/aggregates.py,0.74\\ndjango/db/models/indexes.py,0.73\\ndjango/db/models/lookups.py,0.72\\ndjango/db/models/deletion.py,0.71\\ndjango/db/models/base.py,0.70\\ndjango/core/management/commands/check.py,0.69\\ndjango/contrib/admindocs/middleware.py,0.68\\ndjango/contrib/admindocs/urls.py,0.67\\ndjango/contrib/admindocs/views.py,0.66', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 12.062,
+    "prompt_type": "role"
+}

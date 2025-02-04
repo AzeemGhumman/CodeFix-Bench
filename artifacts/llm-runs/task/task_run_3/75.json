@@ -1,0 +1,8 @@
+{
+    "pr": "scikit-learn/scikit-learn/12471",
+    "base": "02dc9ed680e7f53f1b0d410dcdd37341c7958eb1",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sklearn/preprocessing/_encoders.py,1.0\\nsklearn/preprocessing/_discretization.py,0.9\\nsklearn/preprocessing/label.py,0.88\\nsklearn/preprocessing/imputation.py,0.87\\nsklearn/multioutput.py,0.85\\nsklearn/metrics/classification.py,0.84\\nsklearn/metrics/ranking.py,0.83\\nsklearn/metrics/scorer.py,0.82\\nsklearn/metrics/base.py,0.81\\nsklearn/linear_model/logistic.py,0.80\\nsklearn/linear_model/coordinate_descent.py,0.79\\nsklearn/linear_model/huber.py,0.78\\nsklearn/linear_model/omp.py,0.77\\nsklearn/linear_model/stochastic_gradient.py,0.76\\nsklearn/model_selection/_search.py,0.75\\nsklearn/model_selection/_split.py,0.74\\nsklearn/ensemble/forest.py,0.73\\nsklearn/ensemble/weight_boosting.py,0.72\\nsklearn/ensemble/partial_dependence.py,0.71\\nsklearn/ensemble/voting_classifier.py,0.70', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 7.379,
+    "prompt_type": "task"
+}

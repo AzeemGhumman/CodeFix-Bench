@@ -1,0 +1,8 @@
+{
+    "pr": "sphinx-doc/sphinx/8863",
+    "base": "66aa22f1ea9ef79034812c801432ba152ad96b41",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='[RESULT]\\ndoc/conf.py,0.92\\nsphinx/config.py,0.90\\nsphinx/environment/__init__.py,0.88\\nsphinx/builders/__init__.py,0.85\\nsphinx/builders/html/__init__.py,0.83\\nsphinx/writers/html.py,0.80\\nsphinx/writers/html5.py,0.78\\nsphinx/setup_command.py,0.76\\nsphinx/application.py,0.75\\nsphinx/environment/adapters/indexentries.py,0.73\\nsphinx/builders/texinfo.py,0.71\\nsphinx/builders/latex/__init__.py,0.70\\nsphinx/builders/linkcheck.py,0.68\\nsphinx/builders/_epub_base.py,0.67\\nsphinx/builders/dummy.py,0.66\\nsphinx/builders/dirhtml.py,0.65\\nsphinx/builders/epub3.py,0.64\\nsphinx/builders/gettext.py,0.63\\nsphinx/builders/latex/util.py,0.62\\nsphinx/builders/changes.py,0.61', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 7.751,
+    "prompt_type": "role"
+}

@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/21432",
+    "base": "05f5021fff2e74f674e62c56ed0fc58bca17e2d2",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='Here are 20 files with their confidence scores, ordered by relevance to the problem statement:\\n\\n1. sympy/simplify/powsimp.py,0.95\\n2. sympy/functions/elementary/complexes.py,0.90  \\n3. sympy/simplify/sqrtdenest.py,0.85\\n4. sympy/assumptions/handlers/sets.py,0.80\\n5. sympy/assumptions/handlers/calculus.py,0.75\\n6. sympy/assumptions/handlers/ntheory.py,0.70\\n7. sympy/assumptions/relation/binrel.py,0.65\\n8. sympy/assumptions/ask.py,0.60\\n9. sympy/assumptions/facts.py,0.55\\n10. sympy/assumptions/sathandlers.py,0.50\\n11. sympy/assumptions/wrapper.py,0.45\\n12. sympy/assumptions/assume.py,0.40\\n13. sympy/assumptions/refine.py,0.35\\n14. sympy/assumptions/cnf.py,0.30\\n15. sympy/functions/special/spherical_harmonics.py,0.25\\n16. sympy/functions/elementary/exponential.py,0.20\\n17. sympy/functions/elementary/integers.py,0.15\\n18. sympy/functions/elementary/trigonometric.py,0.10\\n19. sympy/functions/elementary/hyperbolic.py,0.05\\n20. sympy/functions/elementary/miscellaneous.py,0.01', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 63.693,
+    "prompt_type": "role"
+}

@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/16657",
+    "base": "d2b688b966f5d30414899549412d370e1317ddb8",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/db/models/query.py,0.95\\ndjango/db/backends/utils.py,0.90\\ndjango/db/models/expressions.py,0.88\\ndjango/db/models/aggregates.py,0.85\\ndjango/db/models/functions/mixins.py,0.82\\ndjango/db/models/functions/comparison.py,0.80\\ndjango/db/models/functions/text.py,0.78\\ndjango/db/models/functions/datetime.py,0.76\\ndjango/db/models/fields/__init__.py,0.75\\ndjango/db/models/fields/mixins.py,0.74\\ndjango/db/models/fields/proxy.py,0.73\\ndjango/db/models/fields/related.py,0.72\\ndjango/db/models/fields/related_lookups.py,0.71\\ndjango/db/migrations/operations/fields.py,0.70\\ndjango/db/schema/operations.py,0.69\\ndjango/db/schema/field_file.py,0.68\\ndjango/db/schema/operations/postgresql.py,0.67\\ndjango/db/migrations/operations/base.py,0.66\\ndjango/db/migrations/optimizer.py,0.65\\ndjango/db/migrations/graph.py,0.64', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 12.643,
+    "prompt_type": "role"
+}

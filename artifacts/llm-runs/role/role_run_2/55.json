@@ -1,0 +1,8 @@
+{
+    "pr": "matplotlib/matplotlib/25712",
+    "base": "690884facc1e80b40640649f2a64ceab67afb42e",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='lib/matplotlib/axes/_axes.py,0.95  \\nlib/matplotlib/axes/_secondary_axes.py,0.88  \\nlib/matplotlib/transforms.py,0.85  \\nlib/matplotlib/axis.py,0.82  \\nlib/matplotlib/scale.py,0.79  \\nlib/matplotlib/_constrained_layout.py,0.77  \\nlib/matplotlib/_tight_layout.py,0.75  \\nlib/matplotlib/_layoutgrid.py,0.74  \\nlib/matplotlib/_pylab_helpers.py,0.73  \\nlib/matplotlib/_internal_utils.py,0.72  \\nlib/matplotlib/_afm.py,0.71  \\nlib/matplotlib/_cm.py,0.70  \\nlib/matplotlib/projections/polar.py,0.68  \\nlib/matplotlib/projections/__init__.py,0.67  \\nlib/matplotlib/units.py,0.65  \\nlib/matplotlib/backends/_backend_pdf_ps.py,0.63  \\nlib/matplotlib/ticker.py,0.62  \\nlib/matplotlib/_api/__init__.py,0.61  \\nlib/matplotlib/_text_helpers.py,0.60  \\nlib/matplotlib/_enum.py,0.59', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 10.662,
+    "prompt_type": "role"
+}

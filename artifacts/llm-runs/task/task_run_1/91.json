@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/15232",
+    "base": "4f41286b22a05d5d75f456f1e574d8c115bab5d4",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='exprtools.py,1.00  \\ncore/expr.py,0.95  \\ncore/symbol.py,0.90  \\ncore/numbers.py,0.85  \\ncore/assumptions.py,0.80  \\ncore/containers.py,0.75  \\ncore/rules.py,0.70  \\ncore/logic.py,0.65  \\ncore/facts.py,0.60  \\ncore/benchmarks/bench_arit.py,0.55  \\ncore/benchmarks/bench_expand.py,0.50  \\nphysics/quantum/qexpr.py,0.45  \\nphysics/quantum/operator.py,0.40  \\nphysics/quantum/state.py,0.35  \\nphysics/quantum/circuitutils.py,0.30  \\nphysics/quantum/gate.py,0.25  \\nphysics/quantum/represent.py,0.20  \\nphysics/quantum/hilbert.py,0.15  \\nphysics/quantum/density.py,0.10  \\nphysics/quantum/qubit.py,0.05', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 49.986,
+    "prompt_type": "task"
+}

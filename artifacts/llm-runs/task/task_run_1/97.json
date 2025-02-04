@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/21432",
+    "base": "05f5021fff2e74f674e62c56ed0fc58bca17e2d2",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sympy/functions/special/singularity_functions.py,1.00\\nsympy/core/power.py,0.98\\nsympy/core/evalf.py,0.95\\nsympy/simplify/powsimp.py,0.93\\nsympy/core/assumptions.py,0.91\\nsympy/functions/special/zeta_functions.py,0.89\\nsympy/functions/special/gamma_functions.py,0.87\\nsympy/core/numbers.py,0.85\\nsympy/functions/elementary/trigonometric.py,0.83\\nsympy/core/special.py,0.81\\nsympy/functions/special/hyper.py,0.79\\nsympy/functions/special/bessel.py,0.77\\nsympy/functions/special/tensor_functions.py,0.75\\nsympy/functions/special/spherical_harmonics.py,0.73\\nsympy/functions/special/delta_functions.py,0.71\\nsympy/functions/elementary/hyperbolic.py,0.69\\nsympy/core/exponentials.py,0.67\\nsympy/functions/special/mathieu_functions.py,0.65\\nsympy/functions/elementary/complexes.py,0.63\\nsympy/core/legal.py,0.61', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 62.55,
+    "prompt_type": "task"
+}

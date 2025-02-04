@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/11049",
+    "base": "17455e924e243e7a55e8a38f45966d8cbb27c273",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/forms/fields.py,0.95  \\ndjango/forms/forms.py,0.92  \\ndjango/db/models/fields/__init__.py,0.90  \\ndjango/db/models/fields/related.py,0.88  \\ndjango/db/models/fields/related_lookups.py,0.87  \\ndjango/db/models/fields/files.py,0.85  \\ndjango/db/models/fields/mixins.py,0.84  \\ndjango/db/models/fields/proxy.py,0.83  \\ndjango/db/models/fields/utils.py,0.82  \\ndjango/db/models/fields/related_descriptors.py,0.81  \\ndjango/db/migrations/operations/fields.py,0.80  \\ndjango/db/migrations/operations/models.py,0.79  \\ndjango/db/migrations/operations/special.py,0.78  \\ndjango/db/models/query.py,0.77  \\ndjango/db/models/aggregates.py,0.76  \\ndjango/db/models/expressions.py,0.75  \\ndjango/db/models/lookups.py,0.74  \\ndjango/db/models/functions/datetime.py,0.73  \\ndjango/db/models/functions/comparison.py,0.72  \\ndjango/db/models/query_utils.py,0.71', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 11.428,
+    "prompt_type": "task"
+}

@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/12700",
+    "base": "d51c50d836c5cf8db5566da17963f871be554615",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/views/debug.py,SafeExceptionReporterFilter.cleanse_setting,0.95\\ndjango/views/debug.py,ExceptionReporter.get_traceback_frames,0.92\\ndjango/views/debug.py,ExceptionReporter.get_traceback_data,0.91\\ndjango/views/debug.py,ExceptionReporter.get_traceback_html,0.90\\ndjango/views/debug.py,ExceptionReporter.get_traceback_text,0.89\\ndjango/views/debug.py,SafeExceptionReporterFilter.cleanse_special_types,0.88\\ndjango/views/debug.py,SafeExceptionReporterFilter.get_safe_settings,0.87\\ndjango/views/debug.py,SafeExceptionReporterFilter.get_safe_request_meta,0.86\\ndjango/views/debug.py,SafeExceptionReporterFilter.get_cleansed_multivaluedict,0.85\\ndjango/views/debug.py,SafeExceptionReporterFilter.get_post_parameters,0.84\\ndjango/views/debug.py,SafeExceptionReporterFilter.get_traceback_frame_variables,0.83\\ndjango/template/context_processors.py,RequestContext.__init__,0.75\\ndjango/conf/__init__.py,LazySettings.get,0.70\\ndjango/conf/__init__.py,LazySettings.configure,0.69\\ndjango/forms/models.py,construct_instance,0.65\\ndjango/forms/models.py,model_to_dict,0.64\\ndjango/core/validators.py,RegexValidator.__call__,0.60\\ndjango/core/serializers/json.py,Serializer._init_options,0.55\\ndjango/core/serializers/json.py,Serializer.start_serialization,0.54\\ndjango/core/serializers/json.py,Serializer.get_dump_object,0.53', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 13.099,
+    "prompt_type": "task"
+}

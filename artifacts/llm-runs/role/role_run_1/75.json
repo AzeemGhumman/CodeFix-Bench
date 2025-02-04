@@ -1,0 +1,8 @@
+{
+    "pr": "scikit-learn/scikit-learn/12471",
+    "base": "02dc9ed680e7f53f1b0d410dcdd37341c7958eb1",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sklearn/preprocessing/_encoders.py,0.95  \\nsklearn/preprocessing/label.py,0.92  \\nsklearn/_config.py,0.88  \\nsklearn/base.py,0.85  \\nsklearn/multiclass.py,0.83  \\nsklearn/metrics/classification.py,0.80  \\nsklearn/linear_model/logistic.py,0.78  \\nsklearn/linear_model/lars_path.py,0.76  \\nsklearn/metrics/multilabel_metrics.py,0.75  \\nsklearn/model_selection/_search.py,0.73  \\nsklearn/model_selection/_validation.py,0.72  \\nsklearn/pipeline.py,0.71  \\nsklearn/metrics/base.py,0.70  \\nsklearn/multioutput.py,0.69  \\nsklearn/utils/multiclass.py,0.68  \\nsklearn/externals/joblib/numpy_pickle.py,0.67  \\nsklearn/utils/deprecation.py,0.66  \\nsklearn/utils/setup.py,0.65  \\nsklearn/__init__.py,0.64  \\nsklearn/preprocessing/setup.py,0.63', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 7.118,
+    "prompt_type": "role"
+}

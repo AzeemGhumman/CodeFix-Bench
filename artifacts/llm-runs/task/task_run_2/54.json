@@ -1,0 +1,8 @@
+{
+    "pr": "matplotlib/matplotlib/25515",
+    "base": "3218d1f9d3242d29e7d789fd4d27bffcc7da64a4",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='lib/matplotlib/sphinxext/plot_directive.py,0.95\\nlib/matplotlib/sphinxext/mathmpl.py,0.85\\nlib/matplotlib/sphinxext/__init__.py,0.80\\nlib/matplotlib/backends/backend_agg.py,0.75\\nlib/matplotlib/backends/backend_template.py,0.70\\nlib/matplotlib/backends/backend_svg.py,0.68\\nlib/matplotlib/backends/backend_nbagg.py,0.65\\nlib/matplotlib/backends/backend_pdf.py,0.63\\nlib/matplotlib/backends/backend_ps.py,0.62\\nlib/matplotlib/backends/backend_webagg.py,0.60\\nlib/matplotlib/backends/backend_pgf.py,0.59\\nlib/matplotlib/backends/backend_tkagg.py,0.58\\nlib/matplotlib/backends/backend_wxagg.py,0.57\\nlib/matplotlib/backends/backend_qtagg.py,0.56\\nlib/matplotlib/backends/backend_gtk4agg.py,0.55\\nlib/matplotlib/backends/backend_gtk3agg.py,0.54\\nlib/matplotlib/backends/backend_macosx.py,0.53\\nlib/matplotlib/backends/backend_webagg_core.py,0.52\\nlib/matplotlib/backends/backend_wxcairo.py,0.51\\nlib/matplotlib/backends/backend_qt5.py,0.50', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 11.328,
+    "prompt_type": "task"
+}

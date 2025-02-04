@@ -1,0 +1,8 @@
+{
+    "pr": "psf/requests/4718",
+    "base": "dd754d13de250a6af8a68a6a83a8b4419fd429c6",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='requests/sessions.py,0.95  \\nrequests/sessions.py,0.93  \\nrequests/utils.py,0.88  \\nrequests/models.py,0.85  \\nrequests/auth.py,0.83  \\nrequests/adapters.py,0.81  \\nrequests/hooks.py,0.79  \\nrequests/structures.py,0.77  \\nrequests/api.py,0.75  \\nrequests/__init__.py,0.73  \\nrequests/help.py,0.71  \\nrequests/exceptions.py,0.69  \\nrequests/cookies.py,0.67  \\nrequests/_internal_utils.py,0.65  \\nrequests/status_codes.py,0.63  \\nrequests/utils.py,0.61  \\nrequests/models.py,0.59  \\nrequests/auth.py,0.57  \\nrequests/adapters.py,0.55  \\nrequests/sessions.py,0.53', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 3.359,
+    "prompt_type": "role"
+}

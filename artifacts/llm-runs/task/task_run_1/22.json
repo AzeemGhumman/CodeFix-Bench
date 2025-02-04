@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/13207",
+    "base": "ba6b32e5efc4c813ba4432777b3b1743d4205d14",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/conf/__init__.py,0.9  \\ndjango/db/backends/postgresql/base.py,0.85  \\ndjango/db/models/options.py,0.82  \\ndjango/db/models/fields/mixins.py,0.8  \\ndjango/db/models/fields/__init__.py,0.78  \\ndjango/db/backends/utils.py,0.75  \\ndjango/db/models/sql/query.py,0.73  \\ndjango/db/migrations/loader.py,0.7  \\ndjango/db/migrations/operations/fields.py,0.68  \\ndjango/db/backends/postgresql/operations.py,0.65  \\ndjango/db/migrations/operations/models.py,0.63  \\ndjango/db/backends/postgresql/schema.py,0.6  \\ndjango/db/models/aggregates.py,0.58  \\ndjango/db/models/expressions.py,0.55  \\ndjango/db/backends/features.py,0.52  \\ndjango/db/migrations/operations/utils.py,0.5  \\ndjango/db/migrations/executor.py,0.48  \\ndjango/db/backends/postgresql/introspection.py,0.45  \\ndjango/db/migrations/utils.py,0.43  \\ndjango/db/backends/postgresql/client.py,0.4', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 11.728,
+    "prompt_type": "task"
+}

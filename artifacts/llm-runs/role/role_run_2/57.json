@@ -1,0 +1,8 @@
+{
+    "pr": "matplotlib/matplotlib/26078",
+    "base": "fc350ea5343cf96e231656d97d4b7ac2f32c97d8",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='```plaintext\\nlib/mpl_toolkits/axes_grid1/parasite_axes.py,0.95\\nlib/mpl_toolkits/axisartist/axis_artist.py,0.90\\nlib/mpl_toolkits/axisartist/angle_helper.py,0.85\\nlib/mpl_toolkits/axisartist/grid_finder.py,0.80\\nlib/mpl_toolkits/axes_grid1/axes_divider.py,0.75\\nlib/mpl_toolkits/axisartist/floating_axes.py,0.70\\nlib/mpl_toolkits/axes_grid1/axes_rgb.py,0.65\\nlib/mpl_toolkits/axisartist/axisline_style.py,0.60\\nlib/matplotlib/axis.py,0.55\\nlib/matplotlib/units.py,0.50\\nlib/matplotlib/transforms.py,0.45\\nlib/matplotlib/patches.py,0.40\\nlib/matplotlib/lines.py,0.35\\nlib/matplotlib/contour.py,0.30\\nlib/matplotlib/collections.py,0.25\\nlib/matplotlib/colors.py,0.20\\nlib/matplotlib/projections/polar.py,0.15\\nlib/matplotlib/projections/__init__.py,0.10\\nlib/matplotlib/projections/geo.py,0.05\\nlib/matplotlib/_api/deprecation.py,0.01\\n```', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 11.538,
+    "prompt_type": "role"
+}

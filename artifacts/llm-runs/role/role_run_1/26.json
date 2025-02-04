@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/14169",
+    "base": "f5a22442176878d07e80ae5ba0af1dd8d6910fbd",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/db/backends/sqlite3/creation.py,1.00  \\ndjango/db/backends/sqlite3/base.py,0.95  \\ndjango/core/management/commands/test.py,0.90  \\ndjango/db/models/query.py,0.85  \\ndjango/db/models/sql/query.py,0.80  \\ndjango/db/backends/base/operations.py,0.75  \\ndjango/db/backends/base/schema.py,0.70  \\ndjango/core/management/commands/check.py,0.65  \\ndjango/db/migrations/operations/fields.py,0.60  \\ndjango/db/migrations/operations/models.py,0.55  \\ndjango/db/migrations/operations/special.py,0.50  \\ndjango/db/migrations/operations/base.py,0.45  \\ndjango/db/backends/sqlite3/operations.py,0.40  \\ndjango/core/management/base.py,0.35  \\ndjango/db/backends/sqlite3/client.py,0.30  \\ndjango/core/management/commands/runserver.py,0.25  \\ndjango/contrib/gis/db/backends/postgis/models.py,0.20  \\ndjango/contrib/gis/db/backends/postgis/introspection.py,0.15  \\ndjango/contrib/gis/db/backends/mysql/introspection.py,0.10  \\ndjango/contrib/gis/db/backends/mysql/features.py,0.05', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 12.456,
+    "prompt_type": "role"
+}

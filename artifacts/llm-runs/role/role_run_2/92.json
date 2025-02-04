@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/15933",
+    "base": "e8cf4260af7461a42db9ed4edb2ab3fe442507c7",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='```plaintext\\nsympy/physics/quantum/qubit.py,0.98\\nsympy/physics/quantum/qapply.py,0.97\\nsympy/physics/quantum/operator.py,0.95\\nsympy/physics/quantum/gate.py,0.94\\nsympy/physics/quantum/matrixcache.py,0.93\\nsympy/physics/quantum/operatorordering.py,0.92\\nsympy/physics/quantum/circuitutils.py,0.91\\nsympy/physics/quantum/spin.py,0.90\\nsympy/physics/quantum/circuitplot.py,0.89\\nsympy/physics/quantum/piab.py,0.88\\nsympy/physics/quantum/sho1d.py,0.87\\nsympy/physics/quantum/statelist.py,0.86\\nsympy/physics/quantum/rewriter.py,0.85\\nsympy/physics/quantum/cg.py,0.84\\nsympy/physics/quantum/piab.py,0.83\\nsympy/physics/quantum/fermion.py,0.82\\nsympy/physics/quantum/deprecated.py,0.81\\nsympy/physics/quantum/anticommutator.py,0.80\\nsympy/physics/quantum/density.py,0.79\\nsympy/physics/quantum/pprint.py,0.78\\n```', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 52.878,
+    "prompt_type": "role"
+}

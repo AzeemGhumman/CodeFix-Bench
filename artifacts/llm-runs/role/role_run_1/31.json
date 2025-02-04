@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/14954",
+    "base": "9be36f8044c3bdfe5d1819d4b3b62bee64a039e3",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/core/management/commands/createsuperuser.py,0.95\\ndjango/core/management/base.py,0.88\\ndjango/db/models/fields/related.py,0.85\\ndjango/db/models/fields/__init__.py,0.82\\ndjango/core/management/color.py,0.80\\ndjango/forms/fields.py,0.78\\ndjango/core/management/commands/sqlsequencereset.py,0.75\\ndjango/core/checks/__init__.py,0.72\\ndjango/core/mail/backends/dummy.py,0.70\\ndjango/core/mail/message.py,0.68\\ndjango/db/models/fields/files.py,0.65\\ndjango/contrib/auth/models.py,0.63\\ndjango/contrib/auth/forms.py,0.60\\ndjango/contrib/admin/options.py,0.58\\ndjango/conf/urls/i18n.py,0.56\\ndjango/utils/formats.py,0.54\\ndjango/contrib/auth/tokens.py,0.52\\ndjango/contrib/auth/utils.py,0.50\\ndjango/contrib/admin/views/main.py,0.48\\ndjango/core/management/sql.py,0.47', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 11.953,
+    "prompt_type": "role"
+}

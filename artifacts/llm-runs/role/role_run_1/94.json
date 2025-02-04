@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/19110",
+    "base": "542a1758e517c3b5e95e480dcd49b9b24a01f191",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sympy/linearalgebra.py,1  \\nsympy/matrices/expressions/matexpr.py,0.98  \\nsympy/matrices/matrices.py,0.97  \\nsympy/interactive/session.py,0.96  \\nsympy/core/special.py,0.95  \\nsympy/matrices/immutable.py,0.94  \\nsympy/solvers/solvers.py,0.93  \\nsympy/interactive/printing.py,0.92  \\nsympy/interactive/ipythonprinting.py,0.91  \\nsympy/core/expr.py,0.90  \\nsympy/core/sympify.py,0.89  \\nsympy/printing/tree.py,0.88  \\nsympy/logic/inference.py,0.87  \\nsympy/logic/utilities/dimacs.py,0.86  \\nsympy/logic/algorithms/dpll2.py,0.85  \\nsympy/logic/algorithms/pycosat_wrapper.py,0.84  \\nsympy/parsing/ast_parser.py,0.83  \\nsympy/parsing/sym_expr.py,0.82  \\nsympy/parsing/sympy_parser.py,0.81  \\nsympy/misc/stencil.py,0.80', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 56.623,
+    "prompt_type": "role"
+}

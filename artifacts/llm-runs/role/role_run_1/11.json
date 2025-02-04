@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/11997",
+    "base": "17752003a8c115ff79f5f21655f5e9b8b2af67f4",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/template/defaultfilters.py,1.00\\ndjango/utils/formats.py,0.95\\ndjango/utils/dates.py,0.90\\ndjango/utils/numberformat.py,0.85\\ndjango/utils/html.py,0.80\\ndjango/core/validators.py,0.75\\ndjango/core/serializers/python.py,0.70\\ndjango/core/serializers/json.py,0.65\\ndjango/core/serializers/pyyaml.py,0.60\\ndjango/core/serializers/xml_serializer.py,0.55\\ndjango/core/serializers/base.py,0.50\\ndjango/core/checks/security/csrf.py,0.45\\ndjango/core/checks/security/sessions.py,0.40\\ndjango/contrib/admindocs/utils.py,0.35\\ndjango/contrib/admin/utils.py,0.30\\ndjango/contrib/admin/models.py,0.25\\ndjango/contrib/auth/forms.py,0.20\\ndjango/contrib/auth/backends.py,0.15\\ndjango/contrib/auth/models.py,0.10\\ndjango/contrib/flatpages/models.py,0.05', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 11.616,
+    "prompt_type": "role"
+}

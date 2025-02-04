@@ -1,0 +1,8 @@
+{
+    "pr": "scikit-learn/scikit-learn/14141",
+    "base": "3d997697fdd166eff428ea9fd35734b6a8ba113e",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sklearn/__init__.py,0.9\\nsklearn/setup.py,0.85\\nsklearn/_config.py,0.8\\nsklearn/utils/_show_versions.py,0.95\\nsklearn/metrics/setup.py,0.2\\nsklearn/linear_model/setup.py,0.2\\nsklearn/dummy.py,0.2\\nsklearn/preprocessing/setup.py,0.2\\nsklearn/mixture/setup.py,0.2\\nsklearn/svm/setup.py,0.2\\nsklearn/multiclass.py,0.2\\nsklearn/calibration.py,0.2\\nsklearn/tree/setup.py,0.2\\nsklearn/ensemble/setup.py,0.2\\nsklearn/neighbors/setup.py,0.2\\nsklearn/covariance/setup.py,0.2\\nsklearn/decomposition/setup.py,0.2\\nsklearn/feature_extraction/setup.py,0.2\\nsklearn/cluster/setup.py,0.2\\nsklearn/gaussian_process/gpr.py,0.2', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 6.144,
+    "prompt_type": "task"
+}

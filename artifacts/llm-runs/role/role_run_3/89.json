@@ -1,0 +1,8 @@
+{
+    "pr": "sphinx-doc/sphinx/9665",
+    "base": "274ee481acb3394b8cb62e06d7978e297dd657f1",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sphinx/roles.py,XRefRole.process_link,0.95\\nsphinx/directives/other.py,TocTree.run,0.94\\nsphinx/ext/intersphinx.py,missing_reference,0.93\\nsphinx/domains/python.py,PyObject.get_signature_prefix,0.92\\nsphinx/domains/cpp.py,CPPObject.make_old_id,0.91\\nsphinx/domains/rst.py,ReSTDirectiveOption.make_old_id,0.90\\nsphinx/builders/html/__init__.py,StandaloneHTMLBuilder.write_doc_serialized,0.89\\nsphinx/util/pycompat.py,execfile_,0.88\\nsphinx/domains/std.py,StandardDomain.resolve_xref,0.87\\nsphinx/ext/autosummary/generate.py,generate_autosummary_docs,0.86\\nsphinx/domains/javascript.py,JavaScriptDomain.resolve_any_xref,0.85\\nsphinx/util/requests.py,get,0.84\\nsphinx/domains/math.py,MathDomain.resolve_xref,0.83\\nsphinx/ext/autodoc/__init__.py,Documenter.can_document_member,0.82\\nsphinx/ext/autodoc/importer.py,import_module,0.81\\nsphinx/util/texescape.py,escape,0.80\\nsphinx/domains/citation.py,CitationDomain.resolve_any_xref,0.79\\nsphinx/util/inspect.py,unwrap,0.78\\nsphinx/ext/autosectionlabel.py,register_sections_as_label,0.77\\nsphinx/ext/todo.py,Todo.run,0.76', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 9.311,
+    "prompt_type": "role"
+}

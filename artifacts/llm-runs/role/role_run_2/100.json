@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/24152",
+    "base": "b9af885473ad7e34b5b0826cb424dd26d8934670",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='tensor_product_simp_Mul, tensor_product_simp_Pow, tensor_product_simp, TensorProduct._sympystr, TensorProduct._eval_rewrite, TensorProduct._eval_expand_tensorproduct, TensorProduct.__new__, TensorProduct.doit, TensorProduct._pretty, TensorProduct._latex, TensorProduct._eval_adjoint, TensorProduct._eval_trace, combined_tensor_printing, qapply, qapply_Mul, Dave tensor manipulation interface, Operator.mul, Operator.__new__, quant tensor rewriting, tensor indexing simplification, tensor_density', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 59.547,
+    "prompt_type": "role"
+}

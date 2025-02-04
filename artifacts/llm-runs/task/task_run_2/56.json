@@ -1,0 +1,8 @@
+{
+    "pr": "matplotlib/matplotlib/25775",
+    "base": "26224d96066b5c60882296c551f54ca7732c0af0",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='lib/matplotlib/text.py,0.95\\nlib/matplotlib/backend_managers.py,0.92\\nlib/matplotlib/_layoutgrid.py,0.90\\nlib/matplotlib/backends/backend_pdf.py,0.88\\nlib/matplotlib/backends/backend_svg.py,0.87\\nlib/matplotlib/backends/backend_agg.py,0.85\\nlib/matplotlib/backends/backend_gtk4agg.py,0.84\\nlib/matplotlib/backends/backend_tkagg.py,0.83\\nlib/matplotlib/backends/backend_qtagg.py,0.82\\nlib/matplotlib/_afm.py,0.81\\nlib/matplotlib/_layout_engine.py,0.80\\nlib/matplotlib/backends/backend_gtk4cairo.py,0.79\\nlib/matplotlib/backends/backend_gtk4.py,0.78\\nlib/matplotlib/backend_bases.py,0.77\\nlib/matplotlib/backends/backend_pgf.py,0.76\\nlib/matplotlib/collections.py,0.75\\nlib/matplotlib/_api/deprecation.py,0.74\\nlib/matplotlib/patheffects.py,0.73\\nlib/matplotlib/_internal_utils.py,0.72\\nlib/matplotlib/backends/backend_tkcairo.py,0.71', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 10.859,
+    "prompt_type": "task"
+}

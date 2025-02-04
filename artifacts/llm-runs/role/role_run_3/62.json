@@ -1,0 +1,8 @@
+{
+    "pr": "psf/requests/4718",
+    "base": "dd754d13de250a6af8a68a6a83a8b4419fd429c6",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='requests/sessions.py,0.95  \\nrequests/sessions.py:rebuild_auth,0.92  \\nrequests/models.py:PreparedRequest.prepare_headers,0.85  \\nrequests/models.py:PreparedRequest.prepare_auth,0.83  \\nrequests/auth.py:HTTPBasicAuth.__call__,0.80  \\nrequests/adapters.py:HTTPAdapter.build_response,0.75  \\nrequests/adapters.py:HTTPAdapter.proxy_headers,0.73  \\nrequests/adapters.py:HTTPAdapter.request_url,0.72  \\nrequests/adapters.py:HTTPAdapter.close,0.70  \\nrequests/adapters.py:HTTPAdapter.get_connection,0.68  \\nrequests/adapters.py:HTTPAdapter.add_headers,0.67  \\nrequests/structures.py:CaseInsensitiveDict.__getitem__,0.65  \\nrequests/structures.py:CaseInsensitiveDict.__setitem__,0.63  \\nrequests/structures.py:CaseInsensitiveDict.__init__,0.62  \\nrequests/utils.py:rewind_body,0.60  \\nrequests/utils.py:get_auth_from_url,0.59  \\nrequests/utils.py:get_netrc_auth,0.58  \\nrequests/utils.py:parse_header_links,0.57  \\nrequests/utils.py:check_header_validity,0.56  \\nrequests/utils.py:proxy_bypass_registry,0.55', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 4.821,
+    "prompt_type": "role"
+}

@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/19713",
+    "base": "b1078cd096aa891ebadf5d941ab83268f8b03a80",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sympy/polys/polytools.py,0.93  \\nsympy/polys/polyerrors.py,0.88  \\nsympy/polys/modulargcd.py,0.84  \\nsympy/polys/factortools.py,0.80  \\nsympy/polys/fields.py,0.78  \\nsympy/polys/constructor.py,0.76  \\nsympy/polys/solvers.py,0.73  \\nsympy/polys/numberfields.py,0.71  \\nsympy/polys/partfrac.py,0.69  \\nsympy/polys/half_gcdex.py,0.67  \\nsympy/polys/compatibility.py,0.65  \\nsympy/polys/specialpolys.py,0.64  \\nsympy/polys/galoistools.py,0.63  \\nsympy/polys/agca/homomorphisms.py,0.62  \\nsympy/polys/agca/ideals.py,0.61  \\nsympy/polys/domains/zzring.py,0.59  \\nsympy/polys/domains/modularinteger.py,0.58  \\nsympy/polys/domains/expressiondomain.py,0.57  \\nsympy/polys/domains/field.py,0.56  \\nsympy/polys/domains/ff_python.py,0.55', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 58.221,
+    "prompt_type": "role"
+}

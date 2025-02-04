@@ -1,0 +1,8 @@
+{
+    "pr": "scikit-learn/scikit-learn/10306",
+    "base": "b90661d6a46aa3619d3eec94d5281f5888add501",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sklearn/cluster/birch.py,0.95  \\nsklearn/cluster/_feature_agglomeration.py,0.94  \\nsklearn/manifold/t_sne.py,0.93  \\nsklearn/neighbors/graph.py,0.92  \\nsklearn/neighbors/kde.py,0.91  \\nsklearn/neighbors/regression.py,0.90  \\nsklearn/neighbors/classification.py,0.89  \\nsklearn/neighbors/base.py,0.88  \\nsklearn/preprocessing/_target.py,0.87  \\nsklearn/preprocessing/_function_transformer.py,0.86  \\nsklearn/preprocessing/data.py,0.85  \\nsklearn/preprocessing/imputation.py,0.84  \\nsklearn/linear_model/coordinate_descent.py,0.83  \\nsklearn/linear_model/logistic.py,0.82  \\nsklearn/linear_model/ransac.py,0.81  \\nsklearn/linear_model/ridge.py,0.80  \\nsklearn/mixture/gaussian_mixture.py,0.79  \\nsklearn/mixture/gmm.py,0.78  \\nsklearn/metrics/scorer.py,0.77  \\nsklearn/metrics/classification.py,0.76', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 6.958,
+    "prompt_type": "role"
+}

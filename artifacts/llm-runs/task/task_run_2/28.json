@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/14341",
+    "base": "136ff592ad8aa8b7fa1e61435e5501cc98ce8573",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/core/cache/backends/dummy.py,0.9,\\ndjango/core/cache/backends/memcached.py,0.89,\\ndjango/core/cache/backends/db.py,0.88,\\ndjango/core/cache/backends/locmem.py,0.87,\\ndjango/core/cache/backends/filebased.py,0.86,\\ndjango/core/cache/utils.py,0.85,\\ndjango/core/cache/__init__.py,0.84,\\ndjango/core/cache/backends/base.py,0.83,\\ndjango/db/models/query.py,0.82,\\ndjango/db/backends/utils.py,0.81,\\ndjango/db/backends/postgresql/base.py,0.8,\\ndjango/db/backends/base/base.py,0.79,\\ndjango/db/backends/oracle/base.py,0.78,\\ndjango/db/backends/mysql/base.py,0.77,\\ndjango/db/backends/sqlite3/base.py,0.76,\\ndjango/db/models/fields/files.py,0.75,\\ndjango/db/models/fields/json.py,0.74,\\ndjango/contrib/gis/gdal/envelope.py,0.73,\\ndjango/contrib/gis/gdal/field.py,0.72,\\ndjango/contrib/gis/gdal/feature.py,0.71,', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 12.158,
+    "prompt_type": "task"
+}

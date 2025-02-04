@@ -1,0 +1,8 @@
+{
+    "pr": "sphinx-doc/sphinx/9309",
+    "base": "01970059760dd59d22cd6efaa17dbf0e0efbc60f",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sphinx/builders/linkcheck.py,1.00\\nsphinx/builders/html/__init__.py,0.95\\nsphinx/util/requests.py,0.90\\nsphinx/builders/dummy.py,0.85\\nsphinx/builders/epub3.py,0.80\\nsphinx/builders/texinfo.py,0.75\\nsphinx/builders/manpage.py,0.70\\nsphinx/builders/singlehtml.py,0.65\\nsphinx/builders/text.py,0.60\\nsphinx/builders/xml.py,0.55\\nsphinx/writers/html5.py,0.50\\nsphinx/writers/html.py,0.45\\nsphinx/writers/text.py,0.40\\nsphinx/writers/texinfo.py,0.35\\nsphinx/writers/manpage.py,0.30\\nsphinx/writers/latex.py,0.25\\nsphinx/cmd/build.py,0.20\\nsphinx/cmd/quickstart.py,0.15\\nsphinx/errors.py,0.10\\nsphinx/io.py,0.05', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 7.819,
+    "prompt_type": "task"
+}

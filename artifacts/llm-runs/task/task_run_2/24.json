@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/13413",
+    "base": "fed257ddff449e1bf1ce06d9a7fddb148290a6ac",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/contrib/admin/filters.py,1.0\\ndjango/contrib/admin/templates/admin/filter.html,0.9\\ndjango/contrib/admin/options.py,0.8\\ndjango/contrib/admin/views/main.py,0.8\\ndjango/contrib/admin/tests.py,0.75\\ndjango/contrib/admin/__init__.py,0.7\\ndjango/contrib/admin/utils.py,0.65\\ndjango/contrib/admin/decorators.py,0.6\\ndjango/contrib/admin/widgets.py,0.6\\ndjango/contrib/admin/forms.py,0.55\\ndjango/contrib/admin/actions.py,0.5\\ndjango/contrib/admin/templatetags/admin_list.py,0.45\\ndjango/contrib/admin/views/decorators.py,0.4\\ndjango/contrib/admin/views/autocomplete.py,0.35\\ndjango/forms/fields.py,0.3\\ndjango/forms/forms.py,0.25\\ndjango/forms/boundfield.py,0.2\\ndjango/forms/models.py,0.15\\ndjango/forms/widgets.py,0.1\\ndjango/forms/renderers.py,0.05', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 11.342,
+    "prompt_type": "task"
+}

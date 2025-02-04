@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/12936",
+    "base": "5af17babb0f895cf129fdeee92548d2ac12e78e2",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/contrib/gis/geos/geometry.py,0.95  \\ndjango/contrib/gis/geos/prototypes/errcheck.py,0.94  \\ndjango/contrib/gis/geos/prototypes/io.py,0.93  \\ndjango/contrib/gis/geos/collections.py,0.92  \\ndjango/contrib/gis/geos/prototypes/threadsafe.py,0.91  \\ndjango/contrib/gis/geos/point.py,0.90  \\ndjango/contrib/gis/geos/prototypes/coordseq.py,0.89  \\ndjango/contrib/gis/geos/linestring.py,0.88  \\ndjango/contrib/gis/geos/factory.py,0.87  \\ndjango/contrib/gis/geos/libgeos.py,0.86  \\ndjango/contrib/gis/db/models/fields.py,0.85  \\ndjango/contrib/gis/db/models/lookups.py,0.84  \\ndjango/contrib/gis/db/models/proxy.py,0.83  \\ndjango/contrib/gis/db/models/functions.py,0.82  \\ndjango/contrib/gis/db/models/aggregates.py,0.81  \\ndjango/contrib/gis/db/backends/postgis/adapter.py,0.80  \\ndjango/db/models/fields/related_lookups.py,0.79  \\ndjango/db/models/fields/related.py,0.78  \\ndjango/db/models/fields/mixins.py,0.77  \\ndjango/db/models/fields/__init__.py,0.76', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 12.871,
+    "prompt_type": "role"
+}

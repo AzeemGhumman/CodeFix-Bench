@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/20212",
+    "base": "a106f4782a9dbe7f8fd16030f15401d977e03ae9",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='Pow.__new__, confidence_score=0.92  \\nPowerOfInertTrigSumQ, confidence_score=0.85  \\nspecial_functions, confidence_score=0.84  \\nMeijerFormulaCollection.__init__, confidence_score=0.83  \\nrubi_printer, confidence_score=0.82  \\nRule, confidence_score=0.81  \\nexp, confidence_score=0.79  \\nJaCoLoadingConst__, confidence_score=0.78  \\nGeneratingRules, confidence_score=0.77  \\nas_f, confidence_score=0.76  \\nreplace, confidence_score=0.75  \\nrcollect_sqrt, confidence_score=0.74  \\nreplace3680, confidence_score=0.73  \\nreplace_with_arrays, confidence_score=0.72  \\ndisjoint_intervals, confidence_score=0.71  \\nunify_sum, confidence_score=0.70  \\nparse_freeq, confidence_score=0.69  \\ndup_QQ_python, confidence_score=0.68  \\nFormalPowSeries, confidence_score=0.67  \\nfree_group, confidence_score=0.66', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 58.621,
+    "prompt_type": "task"
+}

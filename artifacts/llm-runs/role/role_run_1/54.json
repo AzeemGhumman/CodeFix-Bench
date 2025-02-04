@@ -1,0 +1,8 @@
+{
+    "pr": "matplotlib/matplotlib/25515",
+    "base": "3218d1f9d3242d29e7d789fd4d27bffcc7da64a4",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='lib/matplotlib/sphinxext/plot_directive.py,0.95  \\nlib/matplotlib/sphinxext/plot_directive.py,0.94  \\nlib/matplotlib/backends/backend_webagg.py,0.93  \\nlib/matplotlib/backends/backend_webagg_core.py,0.92  \\nlib/matplotlib/backends/_backend_tk.py,0.90  \\nlib/matplotlib/backends/backend_webagg.py,0.89  \\nlib/matplotlib/backends/backend_webagg_core.py,0.88  \\nlib/matplotlib/sphinxext/plot_directive.py,0.87  \\nlib/matplotlib/backends/backend_webagg.py,0.86  \\nlib/matplotlib/backends/backend_webagg_core.py,0.85  \\nlib/matplotlib/backends/_backend_tk.py,0.84  \\nlib/matplotlib/sphinxext/plot_directive.py,0.83  \\nlib/matplotlib/sphinxext/plot_directive.py,0.82  \\nlib/matplotlib/backends/backend_webagg.py,0.81  \\nlib/matplotlib/backends/backend_webagg_core.py,0.80  \\nlib/matplotlib/sphinxext/plot_directive.py,0.79  \\nlib/matplotlib/backends/backend_svg.py,0.78  \\nlib/matplotlib/backends/backend_gtk.py,0.77  \\nlib/matplotlib/backends/backend_gtk4.py,0.76  \\nlib/matplotlib/backends/backend_nbagg.py,0.75', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 11.304,
+    "prompt_type": "role"
+}

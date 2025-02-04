@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/21436",
+    "base": "45d4e5f7fe1ac8bcdfa425bbac722481d2ec183f",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sympy/physics/mechanics/body.py,0.95\\nsympy/physics/mechanics/frame.py,0.94\\nsympy/physics/mechanics/rigidbody.py,0.92\\nsympy/physics/mechanics/kane.py,0.91\\nsympy/physics/mechanics/system.py,0.90\\nsympy/physics/mechanics/particle.py,0.89\\nsympy/physics/mechanics/controllers.py,0.88\\nsympy/physics/mechanics/contrib/ode_function.py,0.87\\nsympy/physics/mechanics/contrib/beam_ode.py,0.86\\nsympy/physics/mechanics/contrib/multibody/oscillator.py,0.85\\nsympy/physics/mechanics/contrib/multibody/chess.py,0.84\\nsympy/physics/mechanics/contrib/multibody/multibody_sympy_solo.py,0.83\\nsympy/physics/mechanics/contrib/multibody/multibody.py,0.82\\nsympy/physics/mechanics/contrib/jacobi.py,0.81\\nsympy/physics/mechanics/contrib/kane.py,0.80\\nsympy/physics/mechanics/contrib/lagrange.py,0.79\\nsympy/physics/mechanics/contrib/prismcell.py,0.78\\nsympy/physics/mechanics/contrib/parallel_pc.py,0.77\\nsympy/physics/mechanics/contrib/planar_rigid_body.py,0.76\\nsympy/physics/mechanics/contrib/prismatic_double_pendulum.py,0.75', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 64.458,
+    "prompt_type": "task"
+}

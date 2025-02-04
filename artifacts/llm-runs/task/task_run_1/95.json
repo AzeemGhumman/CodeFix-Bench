@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/19713",
+    "base": "b1078cd096aa891ebadf5d941ab83268f8b03a80",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sympy/polys/polytools.py,0.95\\nsympy/polys/polyerrors.py,0.92\\nsympy/polys/polyroots.py,0.90\\nsympy/polys/solvers.py,0.89\\nsympy/polys/specialpolys.py,0.88\\nsympy/polys/fglmtools.py,0.87\\nsympy/polys/compoly.py,0.86\\nsympy/polys/field.py,0.85\\nsympy/polys/galoistools.py,0.84\\nsympy/polys/densearith.py,0.83\\nsympy/polys/sqfreetools.py,0.82\\nsympy/polys/dispersion.py,0.81\\nsympy/polys/monomials.py,0.80\\nsympy/polys/multivariate_resultants.py,0.79\\nsympy/polys/domains/gmpyintegerring.py,0.78\\nsympy/polys/domains/expressiondomain.py,0.77\\nsympy/polys/domains/algebraicfield.py,0.76\\nsympy/polys/domains/integerfield.py,0.75\\nsympy/polys/domains/ring.py,0.74\\nsympy/polys/domains/domain.py,0.73', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 59.1,
+    "prompt_type": "task"
+}

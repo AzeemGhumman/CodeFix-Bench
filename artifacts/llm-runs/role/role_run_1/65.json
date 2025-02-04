@@ -1,0 +1,8 @@
+{
+    "pr": "pylint-dev/pylint/4812",
+    "base": "47b483ae037e35c25e84b5b697303f2dd79a0e4e",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='pylint/config/option_manager_mixin.py,0.95  \\npylint/config/option.py,0.85  \\npylint/utils/utils.py,0.80  \\npylint/config/__init__.py,0.75  \\npylint/config/options_provider_mixin.py,0.70  \\npylint/config/option_parser.py,0.65  \\npylint/utils/ast_walker.py,0.60  \\npylint/__init__.py,0.55  \\npylint/lint/run.py,0.50  \\npylint/lint/expand_modules.py,0.45  \\npylint/lint/utils.py,0.40  \\npylint/lint/pylinter.py,0.35  \\npylint/pyreverse/utils.py,0.30  \\npylint/pyreverse/main.py,0.25  \\npylint/pyreverse/inspector.py,0.20  \\npylint/pyreverse/printer.py,0.15  \\npylint/pyreverse/diagrams.py,0.10  \\npylint/pyreverse/dot_printer.py,0.05  \\npylint/pyreverse/vcg_printer.py,0.01  \\npylint/pyreverse/writer.py,0.005', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 5.321,
+    "prompt_type": "role"
+}

@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/21436",
+    "base": "45d4e5f7fe1ac8bcdfa425bbac722481d2ec183f",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sympy/physics/mechanics/frame.py,0.99  \\nsympy/physics/mechanics/body.py,0.98  \\nsympy/physics/mechanics/system.py,0.97  \\nsympy/physics/mechanics/body.py,0.96  \\nsympy/physics/mechanics/rigidbody.py,0.95  \\nsympy/vector/frame.py,0.94  \\nsympy/vector/orienters.py,0.93  \\nsympy/vector/coordsysrect.py,0.92  \\nsympy/vector/operators.py,0.91  \\nsympy/physics/mechanics/kane.py,0.90  \\nsympy/physics/mechanics/particle.py,0.89  \\nsympy/vector/point.py,0.88  \\nsympy/vector/basisdependent.py,0.87  \\nsympy/physics/mechanics/models.py,0.86  \\nsympy/vector/dyadic.py,0.85  \\nsympy/vector/scalar.py,0.84  \\nsympy/physics/mechanics/linearize.py,0.83  \\nsympy/vector/implicitregion.py,0.82  \\nsympy/vector/parametricregion.py,0.81  \\nsympy/vector/coordsysrect.py,0.80', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 61.149,
+    "prompt_type": "role"
+}

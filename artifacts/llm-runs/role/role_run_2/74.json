@@ -1,0 +1,8 @@
+{
+    "pr": "scikit-learn/scikit-learn/10870",
+    "base": "b0e91e4110942e5b3c4333b1c6b6dfefbd1a6124",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sklearn/mixture/base.py,0.95\\nsklearn/mixture/gaussian_mixture.py,0.94\\nsklearn/mixture/bayesian_mixture.py,0.92\\nsklearn/mixture/tests/test_gaussian_mixture.py,0.90\\nsklearn/preprocessing/_encoders.py,0.88\\nsklearn/setup.py,0.87\\nsklearn/preprocessing/data.py,0.86\\nsklearn/preprocessing/base.py,0.85\\nsklearn/preprocessing/_discretization.py,0.84\\nsklearn/pipeline.py,0.83\\nsklearn/metrics/classification.py,0.82\\nsklearn/neighbors/classification.py,0.81\\nsklearn/neighbors/unsupervised.py,0.80\\nsklearn/neighbors/setup.py,0.79\\nsklearn/neighbors/graph.py,0.78\\nsklearn/neighbors/base.py,0.77\\nsklearn/neighbors/kde.py,0.76\\nsklearn/neighbors/lof.py,0.75\\nsklearn/neighbors/regression.py,0.74\\nsklearn/neighbors/approximate.py,0.73', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 6.963,
+    "prompt_type": "role"
+}

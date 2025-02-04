@@ -1,0 +1,8 @@
+{
+    "pr": "pytest-dev/pytest/11178",
+    "base": "97ed533f63d5780a05702a711555cb6744247a37",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='src/_pytest/python_api.py,ApproxMapping._check_type,1.0\\nsrc/_pytest/python_api.py,ApproxMapping._yield_comparisons,1.0\\nsrc/_pytest/python_api.py,ApproxMapping.__eq__,1.0\\nsrc/_pytest/python_api.py,ApproxMapping.__repr__,1.0\\nsrc/_pytest/python_api.py,ApproxMapping._repr_compare,0.95\\nsrc/_pytest/python_api.py,ApproxBase.__init__,0.95\\nsrc/_pytest/python_api.py,ApproxBase.__eq__,0.95\\nsrc/_pytest/python_api.py,ApproxBase.__repr__,0.95\\nsrc/_pytest/python_api.py,_compare_approx,0.95\\nsrc/_pytest/python_api.py,approx,0.95\\nsrc/_pytest/python_api.py,ApproxBase._repr_compare,0.94\\nsrc/_pytest/terminal.py,TerminalReporter.__init__,0.93\\nsrc/_pytest/terminal.py,TerminalReporter.writeline,0.93\\nsrc/_pytest/terminal.py,TerminalReporter.write,0.93\\nsrc/_pytest/fixtures.py,FixtureRequest.getfixturevalue,0.92\\nsrc/_pytest/fixtures.py,FixtureRequest._get_fixturestack,0.92\\nsrc/_pytest/fixtures.py,FixtureRequest._fillfixtures,0.92\\nsrc/_pytest/fixtures.py,FixtureRequest.addfinalizer,0.92\\nsrc/_pytest/fixtures.py,FixtureManager.getfixtureinfo,0.92\\nsrc/_pytest/fixtures.py,FixtureManager.getfixtureclosure,0.92', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 6.81,
+    "prompt_type": "role"
+}

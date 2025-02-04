@@ -1,0 +1,8 @@
+{
+    "pr": "matplotlib/matplotlib/23198",
+    "base": "3407cbc42f0e70595813e2b1816d432591558921",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='lib/matplotlib/axis.py,0.95\\nlib/matplotlib/units.py,0.92\\nlib/matplotlib/figure.py,0.90\\nlib/matplotlib/collections.py,0.88\\nlib/matplotlib/_layoutgrid.py,0.87\\nlib/matplotlib/lines.py,0.86\\nlib/matplotlib/markers.py,0.85\\nlib/matplotlib/path.py,0.84\\nlib/matplotlib/transforms.py,0.83\\nlib/matplotlib/colorbar.py,0.82\\nlib/matplotlib/colorbar.py,0.81\\nlib/matplotlib/projections/polar.py,0.80\\nlib/matplotlib/projections/__init__.py,0.79\\nlib/matplotlib/backends/_backend_pdf_ps.py,0.78\\nlib/matplotlib/projections/geo.py,0.77\\nlib/matplotlib/legend.py,0.76\\nlib/matplotlib/_text_helpers.py,0.75\\nlib/matplotlib/_cm.py,0.74\\nlib/matplotlib/_docstring.py,0.73\\nlib/matplotlib/_tight_bbox.py,0.72\\nlib/matplotlib/_internal_utils.py,0.71', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 10.538,
+    "prompt_type": "role"
+}

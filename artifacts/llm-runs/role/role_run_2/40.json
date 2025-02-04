@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/16759",
+    "base": "57f2b935b34d148c3c0d906fc8256765004b7b77",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/contrib/admin/options.py,0.95\\ndjango/contrib/admin/models.py,0.89\\ndjango/contrib/admin/decorators.py,0.86\\ndjango/contrib/admin/filters.py,0.84\\ndjango/contrib/admin/forms.py,0.80\\ndjango/contrib/admin/helpers.py,0.78\\ndjango/contrib/admin/tests.py,0.75\\ndjango/contrib/admin/apps.py,0.73\\ndjango/contrib/admin/actions.py,0.69\\ndjango/contrib/admin/checks.py,0.68\\ndjango/contrib/admin/views/main.py,0.66\\ndjango/contrib/admin/views/decorators.py,0.64\\ndjango/contrib/admin/views/autocomplete.py,0.63\\ndjango/contrib/admin/templatetags/admin_list.py,0.61\\ndjango/contrib/admin/templatetags/admin_modify.py,0.60\\ndjango/contrib/admin/templatetags/admin_urls.py,0.59\\ndjango/contrib/admin/templatetags/log.py,0.58\\ndjango/core/validators.py,0.55\\ndjango/db/models/utils.py,0.54\\ndjango/core/serializers/python.py,0.53', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 13.062,
+    "prompt_type": "role"
+}

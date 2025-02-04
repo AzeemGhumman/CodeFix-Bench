@@ -1,0 +1,8 @@
+{
+    "pr": "scikit-learn/scikit-learn/14141",
+    "base": "3d997697fdd166eff428ea9fd35734b6a8ba113e",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sklearn/utils/_show_versions.py,0.95\\nsklearn/setup.py,0.85\\nsklearn/__init__.py,0.80\\nsetup.py,0.75\\ndoc/conf.py,0.70\\ndoc/sphinxext/custom_references_resolver.py,0.65\\ndoc/sphinxext/sphinx_issues.py,0.60\\ndoc/sphinxext/github_link.py,0.55\\nmaint_tools/sort_whats_new.py,0.50\\nsklearn/mixture/gaussian_mixture.py,0.45\\nsklearn/mixture/bayesian_mixture.py,0.40\\nsklearn/preprocessing/setup.py,0.35\\nsklearn/preprocessing/_encoders.py,0.30\\nsklearn/preprocessing/_discretization.py,0.25\\nsklearn/feature_extraction/setup.py,0.20\\nsklearn/feature_extraction/text.py,0.15\\nsklearn/feature_extraction/hashing.py,0.10\\nsklearn/feature_selection/_base.py,0.05\\nsklearn/model_selection/_validation.py,0.00\\nsklearn/model_selection/_search.py,-0.05', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 6.652,
+    "prompt_type": "role"
+}

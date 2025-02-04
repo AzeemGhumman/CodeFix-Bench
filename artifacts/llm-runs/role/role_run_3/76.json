@@ -1,0 +1,8 @@
+{
+    "pr": "scikit-learn/scikit-learn/12585",
+    "base": "bfc4a566423e036fbdc9fb02765fd893e4860c85",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sklearn/base.py,0.95  \\nsklearn/preprocessing/_encoders.py,0.90  \\nsklearn/compose/_column_transformer.py,0.85  \\nsklearn/multiclass.py,0.80  \\nsklearn/neighbors/base.py,0.75  \\nsklearn/gaussian_process/gpr.py,0.70  \\nsklearn/gaussian_process/gpc.py,0.65  \\nsklearn/setup.py,0.60  \\nsklearn/preprocessing/data.py,0.55  \\nsklearn/mixture/base.py,0.50  \\nsklearn/mixture/gaussian_mixture.py,0.45  \\nsklearn/mixture/bayesian_mixture.py,0.40  \\nsklearn/ensemble/base.py,0.35  \\nsklearn/ensemble/forest.py,0.30  \\nsklearn/linear_model/logistic.py,0.25  \\nsklearn/linear_model/theil_sen.py,0.20  \\nsklearn/linear_model/ridge.py,0.15  \\nsklearn/linear_model/huber.py,0.10  \\nsklearn/linear_model/bayes.py,0.05  \\nsklearn/metrics/base.py,0.01', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 7.306,
+    "prompt_type": "role"
+}

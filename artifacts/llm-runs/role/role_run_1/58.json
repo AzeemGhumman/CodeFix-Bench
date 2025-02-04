@@ -1,0 +1,8 @@
+{
+    "pr": "matplotlib/matplotlib/26472",
+    "base": "e4905bf8ae7d2f58025442018606f59641daa226",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='lib/matplotlib/backends/backend_qt5.py,__getattr__,0.95  \\nlib/matplotlib/backends/backend_nbagg.py,FigureManagerNbAgg.reshow,0.93  \\nlib/matplotlib/backends/backend_nbagg.py,FigureManagerNbAgg.show,0.92  \\nlib/matplotlib/backends/backend_qtagg.py,FigureCanvasQTAgg.print_figure,0.91  \\nlib/matplotlib/backends/backend_qt.py,FigureCanvasQT._update_pixel_ratio,0.90  \\nlib/matplotlib/backends/backend_qt.py,FigureCanvasQT.resizeEvent,0.89  \\nlib/matplotlib/backends/backend_wxcairo.py,FigureCanvasWxCairo.draw,0.88  \\nlib/matplotlib/backends/backend_pdf.py,RendererPdf.draw_path,0.87  \\nlib/matplotlib/backends/backend_svg.py,RendererSVG.draw_path,0.86  \\nlib/matplotlib/backends/backend_agg.py,RendererAgg.draw_path,0.85  \\nlib/matplotlib/backends/backend_tkagg.py,FigureCanvasTkAgg.draw,0.84  \\nlib/matplotlib/backends/backend_gtk3agg.py,FigureCanvasGTK3Agg.__init__,0.83  \\nlib/matplotlib/backends/backend_webagg.py,FigureManagerWebAgg.show,0.82  \\nlib/matplotlib/backends/backend_gtk4agg.py,FigureCanvasGTK4Agg.on_draw_event,0.81  \\nlib/matplotlib/backends/backend_tkcairo.py,FigureCanvasTkCairo.draw,0.80  \\nlib/matplotlib/styles.py,default,0.79  \\nlib/matplotlib/interactive.py,0.78  \\nlib/matplotlib/backends/_backend_template.py,RendererTemplate.draw_path,0.77  \\nlib/matplotlib/_backend_iters.py,0.76  \\nlib/matplotlib/_pylab_helpers.py,Gcf.get_active,0.75', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 13.37,
+    "prompt_type": "role"
+}

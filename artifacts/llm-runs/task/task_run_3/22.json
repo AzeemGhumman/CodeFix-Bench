@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/13207",
+    "base": "ba6b32e5efc4c813ba4432777b3b1743d4205d14",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/contrib/gis/forms/fields.py,0.95\\ndjango/contrib/gis/geos/geometry.py,0.93\\ndjango/contrib/gis/geos/libgeos.py,0.90\\ndjango/contrib/gis/geos/factory.py,0.88\\ndjango/contrib/gis/geos/prototypes/errcheck.py,0.87\\ndjango/contrib/gis/geos/prototypes/io.py,0.85\\ndjango/contrib/gis/geos/prototypes/coordseq.py,0.83\\ndjango/contrib/gis/geos/prototypes/threadsafe.py,0.81\\ndjango/contrib/gis/geos/geometry.py,0.80\\ndjango/contrib/gis/forms/widgets.py,0.79\\ndjango/contrib/gis/admin/widgets.py,0.78\\ndjango/contrib/gis/admin/options.py,0.77\\ndjango/contrib/gis/db/models/fields.py,0.76\\ndjango/contrib/gis/utils/ogrinspect.py,0.75\\ndjango/contrib/gis/db/backends/postgis/adapter.py,0.74\\ndjango/contrib/gis/db/backends/postgis/base.py,0.73\\ndjango/contrib/gis/db/backends/postgis/introspection.py,0.72\\ndjango/contrib/gis/db/backends/postgis/operations.py,0.71\\ndjango/contrib/gis/db/backends/postgis/models.py,0.70\\ndjango/contrib/gis/db/backends/postgis/pgraster.py,0.69', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 13.324,
+    "prompt_type": "task"
+}

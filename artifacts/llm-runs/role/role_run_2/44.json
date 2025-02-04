@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/16902",
+    "base": "d3d173425fc0a1107836da5b4567f1c88253191b",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/db/models/functions/text.py,1.0\\ndjango/db/models/functions.py,0.98\\ndjango/contrib/gis/db/models/functions.py,0.97\\ndjango/contrib/gis/db/models/fields.py,0.96\\ndjango/db/backends/oracle/operations.py,0.95\\ndjango/db/backends/oracle/schema.py,0.94\\ndjango/db/backends/oracle/introspection.py,0.93\\ndjango/db/backends/sqlite3/operations.py,0.92\\ndjango/db/backends/sqlite3/introspection.py,0.91\\ndjango/db/models/fields/__init__.py,0.90\\ndjango/db/models/fields/related.py,0.89\\ndjango/db/models/fields/reverse_related.py,0.88\\ndjango/db/models/fields/files.py,0.87\\ndjango/db/models/fields/json.py,0.86\\ndjango/db/migrations/operations/fields.py,0.85\\ndjango/db/migrations/operations/models.py,0.84\\ndjango/db/migrations/operations/special.py,0.83\\ndjango/core/serializers/python.py,0.82\\ndjango/core/serializers/json.py,0.81\\ndjango/core/serializers/base.py,0.80', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 13.03,
+    "prompt_type": "role"
+}

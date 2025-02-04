@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/16759",
+    "base": "57f2b935b34d148c3c0d906fc8256765004b7b77",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/contrib/admin/options.py,0.95\\ndjango/contrib/admin/sites.py,0.90\\ndjango/contrib/admin/views/main.py,0.85\\ndjango/contrib/admin/templatetags/admin_list.py,0.80\\ndjango/contrib/admin/decorators.py,0.75\\ndjango/contrib/admin/filters.py,0.70\\ndjango/contrib/admin/helpers.py,0.65\\ndjango/contrib/admin/checks.py,0.60\\ndjango/contrib/admin/apps.py,0.55\\ndjango/contrib/admin/widgets.py,0.50\\ndjango/contrib/admin/templatetags/admin_urls.py,0.45\\ndjango/contrib/admin/views/autocomplete.py,0.40\\ndjango/contrib/admin/views/decorators.py,0.35\\ndjango/contrib/admin/templatetags/log.py,0.30\\ndjango/contrib/admin/templates/admin/change_list.html,0.25\\ndjango/contrib/admin/templates/admin/search_form.html,0.20\\ndjango/contrib/admin/tests.py,0.15\\ndjango/contrib/admin/templatetags/admin_modify.py,0.10\\ndjango/contrib/admin/forms.py,0.05\\ndjango/contrib/admin/options.py,0.00', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 12.878,
+    "prompt_type": "task"
+}

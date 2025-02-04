@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/12855",
+    "base": "f2051eb8a7febdaaa43bd33bf5a6108c5f428e59",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/conf/urls/__init__.py,url,1.0\\ndjango/urls/utils.py,get_callable,0.98\\ndjango/urls/conf.py,include,0.97\\ndjango/urls/converters.py,register_converter,0.96\\ndjango/urls/resolvers.py,URLPattern,__init__,0.95\\ndjango/urls/base.py,resolve,0.94\\ndjango/urls/base.py,reverse,0.93\\ndjango/urls/utils.py,get_mod_func,0.92\\ndjango/urls/conf.py,_path,0.91\\ndjango/urls/base.py,set_script_prefix,0.90\\ndjango/urls/base.py,get_script_prefix,0.89\\ndjango/urls/resolvers.py,URLResolver,resolver,0.88\\ndjango/urls/resolvers.py,URLResolver,resolve,0.87\\ndjango/urls/utils.py,resolve,0.86\\ndjango/urls/resolvers.py,RoutePattern,__init__,0.85\\ndjango/urls/resolvers.py,RegexPattern,__init__,0.84\\ndjango/urls/converters.py,IntConverter,to_python,0.83\\ndjango/urls/converters.py,StringConverter,to_python,0.82\\ndjango/urls/converters.py,UUIDConverter,to_python,0.81\\ndjango/urls/base.py,translate_url,0.80', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 12.246,
+    "prompt_type": "role"
+}

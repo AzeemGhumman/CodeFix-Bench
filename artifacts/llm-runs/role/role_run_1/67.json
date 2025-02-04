@@ -1,0 +1,8 @@
+{
+    "pr": "pytest-dev/pytest/11178",
+    "base": "97ed533f63d5780a05702a711555cb6744247a37",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='src/_pytest/python_api.py,ApproxMapping._check_type,1.0  \\nsrc/_pytest/python_api.py,ApproxMapping.__repr__,0.98  \\nsrc/_pytest/python_api.py,ApproxMapping._repr_compare,0.97  \\nsrc/_pytest/python_api.py,ApproxMapping.__eq__,0.96  \\nsrc/_pytest/python_api.py,ApproxMapping._yield_comparisons,0.95  \\nsrc/_pytest/python_api.py,ApproxBase._check_type,0.94  \\nsrc/_pytest/python_api.py,ApproxBase.__eq__,0.93  \\nsrc/_pytest/python_api.py,ApproxBase.__ne__,0.92  \\nsrc/_pytest/python_api.py,ApproxBase.__bool__,0.91  \\nsrc/_pytest/python_api.py,_compare_approx,0.90  \\nsrc/_pytest/python_api.py,approx,0.89  \\nsrc/_pytest/pathlib.py,absolutepath,0.88  \\nsrc/_pytest/pathlib.py,fnmatch_ex,0.87  \\nsrc/_pytest/pathlib.py,commonpath,0.86  \\nsrc/_pytest/pathlib.py,bestrelpath,0.85  \\nsrc/_pytest/runner.py,pytest_runtest_protocol,0.84  \\nsrc/_pytest/runner.py,pytest_runtest_setup,0.83  \\nsrc/_pytest/runner.py,pytest_runtest_call,0.82  \\nsrc/_pytest/runner.py,pytest_runtest_teardown,0.81  \\nsrc/_pytest/nodes.py,Item._check_item_and_collector_diamond_inheritance,0.80', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 6.8,
+    "prompt_type": "role"
+}

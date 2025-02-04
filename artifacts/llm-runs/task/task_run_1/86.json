@@ -1,0 +1,8 @@
+{
+    "pr": "sphinx-doc/sphinx/8863",
+    "base": "66aa22f1ea9ef79034812c801432ba152ad96b41",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='doc/usage/extensions/example_google.py,0.9  \\nsphinx/config.py,0.85  \\nsphinx/highlighting.py,0.82  \\nsphinx/util/jsdump.py,0.8  \\nsphinx/util/pycompat.py,0.78  \\nsphinx/domains/python.py,0.75  \\nsphinx/ext/autosummary/__init__.py,0.72  \\nsphinx/writers/html.py,0.7  \\nsphinx/writers/html5.py,0.68  \\nsphinx/writers/texinfo.py,0.65  \\nsphinx/writers/xml.py,0.63  \\nsphinx/ext/doctest.py,0.6  \\nsphinx/ext/inheritance_diagram.py,0.58  \\nsphinx/ext/napoleon/__init__.py,0.55  \\nsphinx/ext/typehints.py,0.52  \\nsphinx/ext/type_comment.py,0.5  \\nsphinx/ext/viewcode.py,0.48  \\nsphinx/ext/intersphinx.py,0.45  \\nsphinx/ext/extlinks.py,0.42  \\nsphinx/ext/graphviz.py,0.4', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 7.407,
+    "prompt_type": "task"
+}

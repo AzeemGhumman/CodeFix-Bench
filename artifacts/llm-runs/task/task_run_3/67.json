@@ -1,0 +1,8 @@
+{
+    "pr": "pytest-dev/pytest/11178",
+    "base": "97ed533f63d5780a05702a711555cb6744247a37",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='src/_pytest/python_api.py,ApproxMapping,0.95\\nsrc/_pytest/python_api.py,approx,0.92\\nsrc/_pytest/python_api.py,ApproxBase,0.89\\nsrc/_pytest/python_api.py,ApproxSequenceLike,0.85\\nsrc/_pytest/python_api.py,ApproxNumpy,0.80\\nsrc/_pytest/python_api.py,ApproxScalar,0.78\\nsrc/_pytest/python_api.py,_compare_approx,0.75\\nsrc/_pytest/python_api.py,_non_numeric_type_error,0.72\\nsrc/_pytest/nodes.py,Node,0.68\\nsrc/_pytest/nodes.py,Item,0.65\\nsrc/_pytest/cacheprovider.py,LFPlugin,0.62\\nsrc/_pytest/cacheprovider.py,NFPlugin,0.60\\nsrc/_pytest/runner.py,pytest_runtest_protocol,0.58\\nsrc/_pytest/runner.py,pytest_report_teststatus,0.55\\nsrc/_pytest/reports.py,BaseReport,0.53\\nsrc/_pytest/reports.py,TestReport,0.51\\nsrc/_pytest/reports.py,CollectReport,0.49\\nsrc/_pytest/reports.py,CollectErrorRepr,0.47\\nsrc/_pytest/terminal.py,TerminalReporter,0.45\\nsrc/_pytest/monkeypatch.py,MonkeyPatch,0.43', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 6.315,
+    "prompt_type": "task"
+}

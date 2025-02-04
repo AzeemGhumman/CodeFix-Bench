@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/12458",
+    "base": "590957a0eb9a87a6f2bd3463226b0a7f1405d817",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/core/serializers/python.py,1.0\\ndjango/core/serializers/xml_serializer.py,0.9\\ndjango/core/serializers/base.py,0.89\\ndjango/core/serializers/json.py,0.88\\ndjango/core/serializers/__init__.py,0.87\\ndjango/core/management/commands/dumpdata.py,0.86\\ndjango/core/serializers/pyyaml.py,0.85\\ndjango/core/serializers/__init__.py,0.84\\ndjango/core/management/commands/loaddata.py,0.83\\ndjango/core/serializers/base.py,0.82\\ndjango/core/serializers/base.py,0.81\\ndjango/core/management/commands/makemigrations.py,0.8\\ndjango/core/serializers/base.py,0.79\\ndjango/core/management/commands/migrate.py,0.78\\ndjango/core/serializers/xml_serializer.py,0.77\\ndjango/core/serializers/base.py,0.76\\ndjango/core/management/commands/sqlsequencereset.py,0.75\\ndjango/core/serializers/pyyaml.py,0.74\\ndjango/core/serializers/base.py,0.73\\ndjango/core/management/commands/inspectdb.py,0.72', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 12.262,
+    "prompt_type": "role"
+}

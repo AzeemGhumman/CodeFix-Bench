@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/22773",
+    "base": "96c9c40b2bd41105cf82440cc83c27f032ac5ffc",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sympy/physics/vector/printing.py,0.95\\nsympy/physics/vector/vector.py,0.93\\nsympy/physics/vector/dyadic.py,0.90\\nsympy/physics/vector/point.py,0.88\\nsympy/physics/vector/functions.py,0.85\\nsympy/physics/vector/frame.py,0.83\\nsympy/physics/vector/fieldfunctions.py,0.80\\nsympy/physics/vector/operators.py,0.78\\nsympy/physics/vector/scalar.py,0.75\\nsympy/physics/vector/basesdependent.py,0.73\\nsympy/physics/vector/parametricregion.py,0.70\\nsympy/physics/vector/coordsysrect.py,0.68\\nsympy/vector/deloperator.py,0.65\\nsympy/physics/vector/integrals.py,0.63\\nsympy/physics/vector/implicitregion.py,0.60\\nsympy/physics/vector/dyadic.py,0.58\\nsympy/physics/vector/scalar.py,0.55\\nsympy/physics/vector/operators.py,0.53\\nsympy/physics/vector/point.py,0.51\\nsympy/physics/vector/functions.py,0.49', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 63.936,
+    "prompt_type": "task"
+}

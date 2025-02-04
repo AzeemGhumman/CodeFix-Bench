@@ -1,0 +1,8 @@
+{
+    "pr": "pytest-dev/pytest/8516",
+    "base": "9c151a65c86b4e780cc6b50ec2174b9b23af96de",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='src/_pytest/tmpdir.py,0.95  \\nsrc/_pytest/pytester.py,0.92  \\nsrc/_pytest/pathlib.py,0.90  \\nsrc/_pytest/main.py,0.88  \\nsrc/_pytest/config/__init__.py,0.85  \\nsrc/_pytest/fixtures.py,0.83  \\nsrc/_pytest/stepwise.py,0.80  \\nsrc/_pytest/junitxml.py,0.78  \\nsrc/_pytest/runner.py,0.75  \\nsrc/_pytest/skipping.py,0.72  \\nsrc/_pytest/logging.py,0.70  \\nsrc/_pytest/capture.py,0.68  \\nsrc/_pytest/outcomes.py,0.65  \\nsrc/_pytest/reports.py,0.63  \\nsrc/_pytest/mark/__init__.py,0.60  \\nsrc/_pytest/assertion/__init__.py,0.58  \\nsrc/_pytest/assertion/util.py,0.55  \\nsrc/_pytest/assertion/rewrite.py,0.53  \\nsrc/_pytest/cacheprovider.py,0.50  \\ndoc/en/example/assertion/failure_demo.py,0.48', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 5.319,
+    "prompt_type": "task"
+}

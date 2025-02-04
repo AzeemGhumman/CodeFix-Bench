@@ -1,0 +1,8 @@
+{
+    "pr": "scikit-learn/scikit-learn/14141",
+    "base": "3d997697fdd166eff428ea9fd35734b6a8ba113e",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sklearn/setup.py,0.95  \\nsklearn/__init__.py,0.92  \\nsklearn/utils/_show_versions.py,0.90  \\nsetup.py,0.88  \\nsklearn/multiclass.py,0.85  \\nsklearn/dummy.py,0.83  \\nsklearn/metrics/setup.py,0.80  \\nsklearn/mixture/base.py,0.78  \\nsklearn/mixture/gaussian_mixture.py,0.76  \\nsklearn/mixture/bayesian_mixture.py,0.74  \\nsklearn/base.py,0.72  \\nsklearn/preprocessing/setup.py,0.70  \\nsklearn/preprocessing/_function_transformer.py,0.68  \\nsklearn/preprocessing/_encoders.py,0.66  \\nsklearn/preprocessing/data.py,0.64  \\nsklearn/preprocessing/_discretization.py,0.62  \\nsklearn/covariance/robust_covariance.py,0.60  \\nsklearn/covariance/graph_lasso_.py,0.58  \\nsklearn/covariance/shrunk_covariance_.py,0.56  \\nsklearn/covariance/empirical_covariance_.py,0.54', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 6.964,
+    "prompt_type": "task"
+}

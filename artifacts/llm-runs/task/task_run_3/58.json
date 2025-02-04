@@ -1,0 +1,8 @@
+{
+    "pr": "matplotlib/matplotlib/26472",
+    "base": "e4905bf8ae7d2f58025442018606f59641daa226",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='lib/matplotlib/pyplot.py,0.95  \\nlib/matplotlib/backend_bases.py,0.92  \\nlib/matplotlib/_api/deprecation.py,0.88  \\nlib/matplotlib/backend_managers.py,0.87  \\nlib/matplotlib/backends/backend_qt.py,0.85  \\nlib/matplotlib/backends/backend_nbagg.py,0.84  \\nlib/matplotlib/backends/backend_webagg.py,0.83  \\nlib/matplotlib/backend_tools.py,0.82  \\nlib/matplotlib/backends/backend_template.py,0.81  \\nlib/matplotlib/backends/backend_tkagg.py,0.80  \\nlib/matplotlib/axes/_base.py,0.78  \\nlib/matplotlib/axes/_axes.py,0.77  \\nlib/matplotlib/figure.py,0.76  \\nlib/matplotlib/_pylab_helpers.py,0.75  \\nlib/matplotlib/backends/backend_webagg_core.py,0.74  \\nlib/matplotlib/backends/backend_qt5.py,0.73  \\nlib/matplotlib/backends/backend_macosx.py,0.72  \\nlib/matplotlib/backends/backend_svg.py,0.71  \\nlib/matplotlib/backends/backend_webagg_core.py,0.70  \\nlib/matplotlib/backends/backend_qt_editor.py,0.69', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 11.33,
+    "prompt_type": "task"
+}

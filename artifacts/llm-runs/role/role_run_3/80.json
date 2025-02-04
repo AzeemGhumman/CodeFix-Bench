@@ -1,0 +1,8 @@
+{
+    "pr": "scikit-learn/scikit-learn/14520",
+    "base": "7e7b5092991cf7a7cf6bd95d56b08deef5eb9847",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sklearn/feature_extraction/text.py,1.0\\nsklearn/mixture/base.py,0.9\\nsklearn/preprocessing/_encoders.py,0.8\\nsklearn/preprocessing/data.py,0.8\\nsklearn/neural_network/multilayer_perceptron.py,0.7\\nsklearn/svm/base.py,0.7\\nsklearn/tree/tree.py,0.7\\nsklearn/tree/_reingold_tilford.py,0.6\\nsklearn/tree/setup.py,0.6\\nsklearn/neighbors/classification.py,0.6\\nsklearn/neighbors/unsupervised.py,0.6\\nsklearn/neighbors/nearest_centroid.py,0.6\\nsklearn/neighbors/regression.py,0.6\\nsklearn/cluster/hierarchical.py,0.5\\nsklearn/cluster/birch.py,0.5\\nsklearn/cluster/mean_shift_.py,0.5\\nsklearn/cluster/bicluster.py,0.5\\nsklearn/cluster/_feature_agglomeration.py,0.5\\nsklearn/linear_model/logistic.py,0.5\\nsklearn/linear_model/base.py,0.5', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 6.761,
+    "prompt_type": "role"
+}

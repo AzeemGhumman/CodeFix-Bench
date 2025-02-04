@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/14983",
+    "base": "514c16e85f7ac2512235f3b6413646627420e969",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/core/management/commands/makemigrations.py,0.95\\ndjango/core/management/commands/migrate.py,0.88\\ndjango/db/migrations/optimizer.py,0.85\\ndjango/db/migrations/writer.py,0.83\\ndjango/db/migrations/loader.py,0.80\\ndjango/db/migrations/autodetector.py,0.78\\ndjango/db/migrations/operations/fields.py,0.75\\ndjango/db/migrations/graph.py,0.73\\ndjango/db/migrations/operations/models.py,0.72\\ndjango/db/migrations/operations/base.py,0.70\\ndjango/db/backends/postgresql/base.py,0.68\\ndjango/db/backends/postgresql/schema.py,0.67\\ndjango/db/migrations/questioner.py,0.65\\ndjango/db/migrations/serializer.py,0.64\\ndjango/db/migrations/recorder.py,0.63\\ndjango/db/models/fields/related.py,0.62\\ndjango/db/models/fields/__init__.py,0.61\\ndjango/db/migrations/executor.py,0.60\\ndjango/db/models/fields/reverse_related.py,0.59\\ndjango/db/models/indexes.py,0.58', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 13.26,
+    "prompt_type": "role"
+}

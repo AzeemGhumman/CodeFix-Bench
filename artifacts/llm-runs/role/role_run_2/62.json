@@ -1,0 +1,8 @@
+{
+    "pr": "psf/requests/4718",
+    "base": "dd754d13de250a6af8a68a6a83a8b4419fd429c6",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='requests/sessions.py,0.95  \\nrequests/models.py,0.88  \\nrequests/auth.py,0.85  \\nrequests/exceptions.py,0.80  \\nrequests/hooks.py,0.75  \\nrequests/adapters.py,0.70  \\nrequests/structures.py,0.65  \\nrequests/api.py,0.60  \\nrequests/help.py,0.55  \\nrequests/cookies.py,0.50  \\nrequests/__init__.py,0.45  \\nrequests/utils.py,0.40  \\nrequests/_internal_utils.py,0.35  \\nsetup.py,0.30  \\nrequests/status_codes.py,0.25  \\nrequests/models.py:Response.__init__,0.87  \\nrequests/sessions.py:rebuild_auth,0.92  \\nrequests/sessions.py:Session.redirect,0.89  \\nrequests/api.py:request,0.58  \\nrequests/auth.py:HTTPBasicAuth.__call__,0.83  \\nrequests/utils.py:get_auth_from_url,0.38  \\nrequests/models.py:PreparedRequest.prepare_headers,0.63  \\nrequests/adapters.py:HTTPAdapter.__init__,0.68  \\nrequests/cookies.py:RequestsCookieJar.get,0.42', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 4.542,
+    "prompt_type": "role"
+}

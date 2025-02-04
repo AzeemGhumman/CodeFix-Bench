@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/13757",
+    "base": "3f140dde51c0fe6c350acb7727bbe489a99f0632",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/db/models/fields/related_lookups.py,0.95\\ndjango/contrib/postgres/fields/jsonb.py,0.94\\ndjango/contrib/postgres/fields/utils.py,0.93\\ndjango/contrib/postgres/fields/hstore.py,0.92\\ndjango/db/models/fields/json.py,0.91\\ndjango/db/models/sql/compiler.py,0.90\\ndjango/db/models/query.py,0.89\\ndjango/db/models/base.py,0.88\\ndjango/contrib/postgres/fields/array.py,0.87\\ndjango/contrib/postgres/aggregates/general.py,0.86\\ndjango/contrib/postgres/aggregates/mixins.py,0.85\\ndjango/contrib/postgres/lookups.py,0.84\\ndjango/db/models/indexes.py,0.83\\ndjango/contrib/postgres/serializers.py,0.82\\ndjango/contrib/postgres/constraints.py,0.81\\ndjango/contrib/postgres/forms/jsonb.py,0.80\\ndjango/contrib/postgres/utils.py,0.79\\ndjango/contrib/postgres/forms/array.py,0.78\\ndjango/contrib/postgres/forms/ranges.py,0.77\\ndjango/contrib/postgres/forms/hstore.py,0.76', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 13.147,
+    "prompt_type": "role"
+}

@@ -1,0 +1,8 @@
+{
+    "pr": "psf/requests/4718",
+    "base": "dd754d13de250a6af8a68a6a83a8b4419fd429c6",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='requests/sessions.py,0.98  \\nrequests/models.py,0.85  \\nrequests/auth.py,0.80  \\nrequests/adapters.py,0.75  \\nrequests/__init__.py,0.70  \\nrequests/structures.py,0.65  \\nrequests/utils.py,0.60  \\nrequests/cookies.py,0.55  \\nrequests/api.py,0.50  \\nrequests/hooks.py,0.45  \\nrequests/help.py,0.40  \\nrequests/exceptions.py,0.35  \\nrequests/status_codes.py,0.30  \\nrequests/_internal_utils.py,0.25  \\nsetup.py,0.20  \\nrequests/sessions.py:SessionRedirectMixin.rebuild_auth,0.93  \\nrequests/models.py:PreparedRequest.prepare_headers,0.88  \\nrequests/auth.py:HTTPBasicAuth.__call__,0.83  \\nrequests/adapters.py:HTTPAdapter.build_response,0.78  \\nrequests/adapters.py:HTTPAdapter.cert_verify,0.73  \\nrequests/oauth.py:OAuth1Session._generate_auth_header,0.70', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 4.032,
+    "prompt_type": "task"
+}

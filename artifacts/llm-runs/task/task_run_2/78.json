@@ -1,0 +1,8 @@
+{
+    "pr": "scikit-learn/scikit-learn/13877",
+    "base": "88846b3be23e96553fb90d0c5575d74ffd8dbff2",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sklearn/metrics/pairwise.py,0.95\\nsklearn/metrics/classification.py,0.75\\nsklearn/metrics/ranking.py,0.70\\nsklearn/metrics/scorer.py,0.65\\nsklearn/metrics/base.py,0.60\\nsklearn/metrics/cluster/supervised.py,0.55\\nsklearn/metrics/cluster/unsupervised.py,0.50\\nsklearn/preprocessing/base.py,0.45\\nsklearn/utils/validation.py,0.40\\nsklearn/utils/multiclass.py,0.35\\nsklearn/neighbors/graph.py,0.30\\nsklearn/neighbors/base.py,0.25\\nsklearn/mixture/base.py,0.20\\nsklearn/svm/classes.py,0.15\\nsklearn/__init__.py,0.10\\nsklearn/covariance/graph_lasso_.py,0.05\\nsklearn/conftest.py,0.04\\nsklearn/setup.py,0.03\\nsklearn/datasets/setup.py,0.02\\nsklearn/dummy.py,0.01\\nsklearn/preprocessing/setup.py,0.005', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 7.167,
+    "prompt_type": "task"
+}

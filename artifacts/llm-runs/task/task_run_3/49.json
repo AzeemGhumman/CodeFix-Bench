@@ -1,0 +1,8 @@
+{
+    "pr": "matplotlib/matplotlib/23047",
+    "base": "3699ff34d6e2d6d649ee0ced5dc3c74936449d67",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='lib/matplotlib/axes/_axes.py,0.95  \\nlib/matplotlib/_path.py,0.90  \\nlib/matplotlib/_layoutgrid.py,0.85  \\nlib/matplotlib/units.py,0.80  \\nlib/matplotlib/image.py,0.75  \\nlib/matplotlib/artist.py,0.70  \\nlib/matplotlib/transforms.py,0.65  \\nlib/matplotlib/contour.py,0.60  \\nlib/matplotlib/patheffects.py,0.55  \\nlib/matplotlib/axis.py,0.50  \\nlib/matplotlib/_cm.py,0.45  \\nlib/matplotlib/_layoutgrid.py,0.40  \\nlib/matplotlib/_afm.py,0.35  \\nlib/matplotlib/dviread.py,0.30  \\nlib/matplotlib/_text_helpers.py,0.25  \\nlib/matplotlib/markers.py,0.20  \\nlib/matplotlib/streams.py,0.15  \\nlib/matplotlib/colorbar.py,0.10  \\nlib/matplotlib/backend_base.py,0.05  \\nlib/matplotlib/backend_pdf.py,0.01', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 11.278,
+    "prompt_type": "task"
+}

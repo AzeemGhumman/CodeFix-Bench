@@ -1,0 +1,8 @@
+{
+    "pr": "matplotlib/matplotlib/23198",
+    "base": "3407cbc42f0e70595813e2b1816d432591558921",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='```    \\nlib/matplotlib/axes/_axes.py,0.95\\nlib/matplotlib/axis.py,0.90\\nlib/matplotlib/backends/backend_pdf.py,0.88\\nlib/matplotlib/backends/backend_svg.py,0.87\\nlib/matplotlib/backends/backend_ps.py,0.86\\nlib/matplotlib/backends/backend_agg.py,0.85\\nlib/matplotlib/backends/backend_tkagg.py,0.84\\nlib/matplotlib/backends/backend_wxagg.py,0.83\\nlib/matplotlib/backends/backend_qtagg.py,0.82\\nlib/matplotlib/backends/backend_nbagg.py,0.81\\nlib/matplotlib/backends/backend_webagg_core.py,0.80\\nlib/matplotlib/figure.py,0.79\\nlib/matplotlib/projections/polar.py,0.78\\nlib/matplotlib/projections/geo.py,0.77\\nlib/matplotlib/projections/__init__.py,0.76\\nlib/matplotlib/offsetbox.py,0.75\\nlib/matplotlib/artist.py,0.74\\nlib/matplotlib/units.py,0.73\\nlib/matplotlib/cm.py,0.72\\nlib/matplotlib/_cm.py,0.71\\n```', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 10.894,
+    "prompt_type": "task"
+}

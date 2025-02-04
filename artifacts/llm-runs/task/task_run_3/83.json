@@ -1,0 +1,8 @@
+{
+    "pr": "sphinx-doc/sphinx/10325",
+    "base": "7bdc11e87c7d86dcc2a087eccb7a7c129a473415",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sphinx/ext/autodoc/__init__.py,1.00\\nsphinx/ext/autodoc/directive.py,0.95\\nsphinx/domains/python.py,0.90\\nsphinx/domains/__init__.py,0.85\\nsphinx/domains/cpp.py,0.80\\nsphinx/ext/autosummary/generate.py,0.75\\nsphinx/ext/autosummary/__init__.py,0.70\\nsphinx/ext/napoleon/__init__.py,0.65\\nsphinx/ext/napoleon/docstring.py,0.60\\nsphinx/util/pycompat.py,0.55\\nsphinx/ext/autodoc/preserve_defaults.py,0.50\\nsphinx/ext/autodoc/typehints.py,0.45\\nsphinx/ext/autodoc/importer.py,0.40\\nsphinx/util/inspect.py,0.35\\nsphinx/ext/inheritance_diagram.py,0.30\\nsphinx/ext/autosummary/generate.py,0.25\\nsphinx/domains/cpp.py,0.20\\nsphinx/ext/autodoc/mock.py,0.15\\nsphinx/ext/autodoc/type_comment.py,0.10\\nsphinx/ext/linkcode.py,0.05', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 8.308,
+    "prompt_type": "task"
+}

@@ -1,0 +1,8 @@
+{
+    "pr": "matplotlib/matplotlib/23049",
+    "base": "17a7aca12399311f6252c55db0ece3694c5758b2",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='lib/matplotlib/_axis.py,0.95  \\nlib/matplotlib/axis.py,0.94  \\nlib/matplotlib/ticker.py,0.90  \\nlib/matplotlib/axes/_axes.py,0.88  \\nlib/matplotlib/axes/_base.py,0.87  \\nlib/matplotlib/_tight_layout.py,0.85  \\nlib/matplotlib/_constrained_layout.py,0.84  \\nlib/matplotlib/figure.py,0.83  \\nlib/matplotlib/projections/polar.py,0.82  \\nlib/matplotlib/projections/__init__.py,0.81  \\nlib/matplotlib/projections/geo.py,0.80  \\nlib/matplotlib/backends/backend_pdf.py,0.79  \\nlib/matplotlib/backends/backend_ps.py,0.78  \\nlib/matplotlib/backends/backend_svg.py,0.77  \\nlib/matplotlib/backends/backend_template.py,0.76  \\nlib/matplotlib/backends/backend_webagg.py,0.75  \\nlib/matplotlib/sphinxext/plot_directive.py,0.74  \\nlib/matplotlib/sphinxext/mathmpl.py,0.73  \\ntutorials/intermediate/tight_layout_guide.py,0.72  \\ntutorials/intermediate/constrainedlayout_guide.py,0.71', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 10.822,
+    "prompt_type": "task"
+}

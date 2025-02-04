@@ -1,0 +1,8 @@
+{
+    "pr": "matplotlib/matplotlib/25499",
+    "base": "738ead81fce08e582452ef30665ae1071d45092a",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='lib/matplotlib/axes/_axes.py,0.95  \\nlib/matplotlib/axes/_base.py,0.94  \\nlib/matplotlib/axes/__init__.py,0.93  \\nlib/matplotlib/units.py,0.92  \\nlib/matplotlib/figure.py,0.91  \\nlib/matplotlib/transforms.py,0.90  \\nlib/matplotlib/patches.py,0.89  \\nlib/matplotlib/path.py,0.88  \\nlib/matplotlib/backends/backend_agg.py,0.87  \\nlib/matplotlib/backends/backend_pdf.py,0.86  \\nlib/matplotlib/backends/backend_svg.py,0.85  \\nlib/matplotlib/cbook.py,0.84  \\nlib/matplotlib/_cm.py,0.83  \\nlib/matplotlib/bbox.py,0.82  \\nlib/matplotlib/font_manager.py,0.81  \\nlib/matplotlib/_layoutgrid.py,0.80  \\nlib/matplotlib/artist.py,0.79  \\nlib/matplotlib/image.py,0.78  \\nlib/matplotlib/_color_data.py,0.77  \\nlib/matplotlib/colors.py,0.76', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 10.387,
+    "prompt_type": "role"
+}

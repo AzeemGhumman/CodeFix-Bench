@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/12132",
+    "base": "3930ec1bf275d17f1c36cd38b38114177b1d1565",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/views/generic/base.py,0.95\\ndjango/views/generic/detail.py,0.94\\ndjango/views/generic/list.py,0.94\\ndjango/views/generic/edit.py,0.93\\ndjango/core/handlers/base.py,0.92\\ndjango/core/handlers/exception.py,0.91\\ndjango/core/handlers/wsgi.py,0.90\\ndjango/core/handlers/asgi.py,0.89\\ndjango/views/decorators/http.py,0.88\\ndjango/urls/utils.py,0.87\\ndjango/middleware/common.py,0.86\\ndjango/middleware/http.py,0.85\\ndjango/http/request.py,0.84\\ndjango/http/response.py,0.83\\ndjango/http/multipartparser.py,0.82\\ndjango/template/response.py,0.81\\ndjango/utils/http.py,0.80\\ndjango/utils/encoding.py,0.79\\ndjango/utils/asyncio.py,0.78\\ndjango/utils/ipaddress.py,0.77', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 10.982,
+    "prompt_type": "task"
+}

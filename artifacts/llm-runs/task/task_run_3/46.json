@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/8326",
+    "base": "af1fa5e7da21c57a4037e67f93493af4e78d454a",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/core/management/commands/diffsettings.py,0.95\\ndjango/core/management/commands/diffsettings.py,module_to_dict,0.9\\ndjango/core/management/base.py,CommandParser.__init__,CommandParser.parse_args,0.85\\ndjango/core/management/base.py,BaseCommand.__init__,BaseCommand.get_version,0.8\\ndjango/core/management/__init__.py,find_commands,load_command_class,0.75\\ndjango/core/management/color.py,supports_color,make_style,0.7\\ndjango/core/management/clu', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 8.252,
+    "prompt_type": "task"
+}

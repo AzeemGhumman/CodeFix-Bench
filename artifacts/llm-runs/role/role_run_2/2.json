@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/10426",
+    "base": "817c6cdf0e2a72362045ca503af01830df9b9d36",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/core/management/commands/showmigrations.py,0.95  \\ndjango/core/management/__init__.py,0.88  \\ndjango/core/management/commands/migrate.py,0.85  \\ndjango/core/management/base.py,0.82  \\ndjango/core/management/commands/check.py,0.79  \\ndjango/core/management/commands/makemigrations.py,0.77  \\ndjango/core/management/templates.py,0.75  \\ndjango/core/management/commands/diffsettings.py,0.73  \\ndjango/core/management/color.py,0.70  \\ndjango/core/management/sql.py,0.68  \\ndjango/core/management/commands/testserver.py,0.66  \\ndjango/core/management/commands/template.py,0.65  \\ndjango/core/management/commands/flush.py,0.64  \\ndjango/core/management/commands/runserver.py,0.63  \\ndjango/core/management/commands/startapp.py,0.62  \\ndjango/core/management/commands/createsuperuser.py,0.61  \\ndjango/core/management/commands/test.py,0.60  \\ndjango/core/management/commands/cipher.py,0.59  \\ndjango/core/management/commands/dbshell.py,0.58  \\ndjango/core/management/commands/console_scripts.py,0.57', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 11.739,
+    "prompt_type": "role"
+}

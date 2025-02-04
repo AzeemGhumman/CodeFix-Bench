@@ -1,0 +1,8 @@
+{
+    "pr": "pytest-dev/pytest/10371",
+    "base": "bc2c3b66aa084fa4ff64f836aee73eae4cb72818",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='src/_pytest/logging.py,0.95  \\nsrc/_pytest/terminal.py,0.90  \\nsrc/_pytest/logging.py:catching_logs.__init__,0.85  \\nsrc/_pytest/logging.py:LogCaptureHandler.__init__,0.84  \\nsrc/_pytest/logging.py:LogCaptureFixture.__init__,0.83  \\nsrc/_pytest/logging.py:pytest_configure,0.82  \\nsrc/_pytest/logging.py:pytest_unconfigure,0.81  \\nsrc/_pytest/logging.py:LogCaptureFixture.get_records,0.80  \\nsrc/_pytest/logging.py:LogCaptureFixture.text,0.79  \\nsrc/_pytest/logging.py:LogCaptureFixture.record_tuples,0.78  \\nsrc/_pytest/logging.py:LogCaptureFixture.messages,0.77  \\nsrc/_pytest/logging.py:LoggingPlugin.__init__,0.76  \\nsrc/_pytest/logging.py:pytest_runtest_logreport,0.75  \\nsrc/_pytest/logging.py:pytest_runtest_logstart,0.74  \\nsrc/_pytest/logging.py:pytest_report_teststatus,0.73  \\nsrc/_pytest/config/__init__.py:pytest_addoption,0.72  \\nsrc/_pytest/main.py:pytest_configure,0.71  \\nsrc/_pytest/logging.py:pytest_sessionstart,0.70  \\nsrc/_pytest/logging.py:pytest_sessionfinish,0.69  \\nsrc/_pytest/logging.py:pytest_runtest_logfinish,0.68', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 6.304,
+    "prompt_type": "task"
+}

@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/11997",
+    "base": "17752003a8c115ff79f5f21655f5e9b8b2af67f4",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/template/defaultfilters.py,floatformat,0.95  \\ndjango/utils/numberformat.py,0.93  \\ndjango/utils/formats.py,localize_input,0.90  \\ndjango/utils/dateparse.py,parse_datetime,0.88  \\ndjango/utils/encoding.py,is_protected_type,0.87  \\ndjango/db/models/fields/mixins.py,FieldCacheMixin.get_cached_value,0.86  \\ndjango/db/models/fields/reverse_related.py,ManyToOneRel.get_related_field,0.85  \\ndjango/core/mail/backends/base.py,BaseEmailBackend.__init__,0.84  \\ndjango/contrib/auth/forms.py,ReadOnlyPasswordHashField.has_changed,0.83  \\ndjango/db/models/fields/__init__.py,IntegerField.get_internal_type,0.82  \\ndjango/contrib/gis/serializers/geojson.py,Serializer.get_dump_object,0.81  \\ndjango/utils/translation/template.py,join_tokens,0.80  \\ndjango/core/serializers/base.py,Serializer.serialize,0.79  \\ndjango/db/migrations/autodetector.py,MigrationAutodetector._detect_changes,0.78  \\ndjango/db/migrations/operations/fields.py,AlterField.database_forwards,0.77  \\ndjango/db/migrations/operations/base.py,Operation.references_field,0.76  \\ndjango/views/defaults.py,page_not_found,0.75  \\ndjango/contrib/postgres/fields/ranges.py,DateTimeRangeField.db_type,0.74  \\ndjango/db/backends/sqlite3/utils.py,check_sqlite_version,0.73  \\ndjango/forms/models.py,modelform_factory,0.72', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 13.274,
+    "prompt_type": "role"
+}

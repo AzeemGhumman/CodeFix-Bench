@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/16810",
+    "base": "191f6a9a4586b5e5f79f4f42f190e7ad4bbacc84",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/contrib/sites/middleware.py,0.95\\ndjango/middleware/locale.py,0.94\\ndjango/contrib/sites/models.py,0.93\\ndjango/contrib/sites/managers.py,0.92\\ndjango/contrib/sites/requests.py,0.91\\ndjango/conf/urls/i18n.py,0.90\\ndjango/conf/urls/base.py,0.89\\ndjango/middleware/common.py,0.88\\ndjango/core/checks/urls.py,0.87\\ndjango/core/checks/translation.py,0.86\\ndjango/contrib/sites/checks.py,0.85\\ndjango/core/management/commands/createcachetable.py,0.84\\ndjango/core/management/commands/clearsessions.py,0.83\\ndjango/core/management/commands/migrate.py,0.82\\ndjango/core/management/commands/makemigrations.py,0.81\\ndjango/core/management/commands/showmigrations.py,0.80\\ndjango/core/management/commands/flush.py,0.79\\ndjango/core/management/commands/runserver.py,0.78\\ndjango/core/management/commands/inspectdb.py,0.77\\ndjango/core/management/commands/testserver.py,0.76', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 13.249,
+    "prompt_type": "task"
+}

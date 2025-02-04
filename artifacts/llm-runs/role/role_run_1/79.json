@@ -1,0 +1,8 @@
+{
+    "pr": "scikit-learn/scikit-learn/14141",
+    "base": "3d997697fdd166eff428ea9fd35734b6a8ba113e",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sklearn/utils/_show_versions.py,0.95  \\nsklearn/setup.py,0.85  \\nsklearn/externals/setup.py,0.80  \\nsklearn/__init__.py,0.75  \\nmaint_tools/sort_whats_new.py,0.70  \\ndoc/sphinxext/sphinx_issues.py,0.65  \\ndoc/conf.py,0.60  \\ndoc/sphinxext/custom_references_resolver.py,0.55  \\ndoc/sphinxext/github_link.py,0.50  \\nexamples/cluster/plot_inductive_clustering.py,0.45  \\nbenchmarks/bench_plot_randomized_svd.py,0.40  \\nbenchmarks/bench_random_projections.py,0.35  \\nbenchmarks/bench_isolation_forest.py,0.30  \\nbenchmarks/bench_mnist.py,0.25  \\nbenchmarks/bench_tree.py,0.20  \\nbenchmarks/bench_glmnet.py,0.15  \\nbenchmarks/bench_plot_incremental_pca.py,0.10  \\nbenchmarks/bench_plot_lasso_path.py,0.05  \\nbenchmarks/bench_plot_parallel_pairwise.py,0.04  \\nbenchmarks/bench_lasso.py,0.03', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 6.964,
+    "prompt_type": "role"
+}

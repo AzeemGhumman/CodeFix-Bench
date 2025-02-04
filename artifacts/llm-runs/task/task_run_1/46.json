@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/8326",
+    "base": "af1fa5e7da21c57a4037e67f93493af4e78d454a",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/core/management/commands/diffsettings.py,module_to_dict,0.95\\ndjango/core/management/commands/diffsettings.py,Command.add_arguments,0.94\\ndjango/core/management/commands/diffsettings.py,Command.handle,0.93\\ndjango/core/management/commands/diffsettings.py,module_to_dict,0.92\\ndjango/core/management/base.py,CommandParser.__init__,0.91\\ndjango/core/management/base.py,CommandParser.parse_args,0.90\\ndjango/core/management/__init__.py,find_commands,0.89\\ndjango/core/management/__init__.py,get_commands,0.88\\ndjango/core/management/__init__.py,load_command_class,0.87\\ndjango/core/management/__init__.py,call_command,0.86\\ndjango/core/management/__init__.py,ManagementUtility.__init__,0.85\\ndjango/core/management/__init__.py,ManagementUtility.main_help_text,0.84\\ndjango/core/management/__init__.py,ManagementUtility.fetch_command,0.83\\ndjango/core/management/__init__.py,ManagementUtility.autocomplete,0.82\\ndjango/core/management/__init__.py,ManagementUtility.execute,0.81\\ndjango/core/management/__init__.py,execute_from_command_line,0.80\\ndjango/core/management/templates.py,TemplateCommand.add_arguments,0.79\\ndjango/core/management/templates.py,TemplateCommand.handle,0.78\\ndjango/core/management/templates.py,TemplateCommand.handle_template,0.77\\ndjango/core/management/templates.py,TemplateCommand.validate_name,0.76', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 12.36,
+    "prompt_type": "task"
+}

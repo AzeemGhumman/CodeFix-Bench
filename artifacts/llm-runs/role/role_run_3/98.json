@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/21436",
+    "base": "45d4e5f7fe1ac8bcdfa425bbac722481d2ec183f",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sympy/physics/mechanics/frame.py,0.95  \\nsympy/physics/mechanics/system.py,0.94  \\nsympy/physics/mechanics/body.py,0.93  \\nsympy/physics/mechanics/body.py,_set_inv_trans_equations,0.92  \\nsympy/physics/mechanics/frame.py,CoordSys3D.orient_new,0.92  \\nsympy/physics/mechanics/frame.py,CoordSys3D.orient,0.91  \\nsympy/physics/mechanics/frame.py,CoordSys3D.orient_new_axis,0.90  \\nsympy/physics/mechanics/frame.py,CoordSys3D.orient_new_body,0.90  \\nsympy/physics/mechanics/frame.py,CoordSys3D.orient_new_space,0.89  \\nsympy/physics/mechanics/frame.py,CoordSys3D.orient_new_quaternion,0.89  \\nsympy/physics/mechanics/frame.py,CoordSys3D.orient_axis,0.88  \\nsympy/physics/mechanics/frame.py,CoordSys3D._get_transformation_lambdas,0.88  \\nsympy/physics/mechanics/frame.py,CoordSys3D.create_new,0.87  \\nsympy/physics/mechanics/system.py,SymbolicSystem.solve_multipliers,0.87  \\nsympy/physics/mechanics/system.py,SymbolicSystem.comb_explicit_rhs,0.86  \\nsympy/physics/mechanics/body.py,Body.apply_force,0.86  \\nsympy/physics/mechanics/body.py,Body.apply_torque,0.85  \\nsympy/physics/mechanics/frame.py,CoordSys3D._check_orthogonality,0.85  \\nsympy/physics/mechanics/frame.py,CoordSys3D._set_inv_trans_equations,0.84  \\nsympy/physics/mechanics/frame.py,CoordSys3D.orient_new_quaternion,_compose_rotation_and_translation,0.84', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 65.355,
+    "prompt_type": "role"
+}

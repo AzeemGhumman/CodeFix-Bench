@@ -1,0 +1,8 @@
+{
+    "pr": "matplotlib/matplotlib/14043",
+    "base": "6e49e89c4a1a3b2e238833bc8935d34b8056304e",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='lib/matplotlib/artist.py,0.95\\nlib/matplotlib/patches.py,0.94\\nlib/matplotlib/lines.py,0.93\\nlib/matplotlib/collections.py,0.92\\nlib/matplotlib/offsetbox.py,0.91\\nlib/matplotlib/transforms.py,0.90\\nlib/matplotlib/text.py,0.89\\nlib/matplotlib/axis.py,0.88\\nlib/matplotlib/legend.py,0.87\\nlib/matplotlib/quiver.py,0.86\\nlib/matplotlib/mathtext.py,0.85\\nlib/matplotlib/bezier.py,0.84\\nlib/matplotlib/colors.py,0.83\\nlib/matplotlib/image.py,0.82\\nlib/matplotlib/path.py,0.81\\nlib/matplotlib/spines.py,0.80\\nlib/matplotlib/contour.py,0.79\\nlib/matplotlib/units.py,0.78\\nlib/matplotlib/figure.py,0.77\\nlib/matplotlib/widgets.py,0.76', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 10.325,
+    "prompt_type": "role"
+}

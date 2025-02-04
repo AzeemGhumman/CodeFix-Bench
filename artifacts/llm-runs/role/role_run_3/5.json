@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/11049",
+    "base": "17455e924e243e7a55e8a38f45966d8cbb27c273",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/utils/dateparse.py,0.95\\ndjango/db/models/fields/__init__.py,0.89\\ndjango/contrib/admin/decorators.py,0.84\\ndjango/contrib/admin/views/decorators.py,0.82\\ndjango/contrib/auth/forms.py,0.81\\ndjango/contrib/admin/models.py,0.80\\ndjango/contrib/admin/views/main.py,0.79\\ndjango/contrib/admin/views/decorators/decorators.py,0.78\\ndjango/contrib/admin/templatetags/admin_list.py,0.77\\ndjango/contrib/admin/options.py,0.76\\ndjango/contrib/admin/helpers.py,0.75\\ndjango/contrib/admin/decorators/decorators.py,0.74\\ndjango/contrib/admin/views/main/lookups.py,0.73\\ndjango/contrib/admin/widgets.py,0.72\\ndjango/contrib/admin/views/main/bulk_actions.py,0.71\\ndjango/contrib/admin/static/admin/js/inlines.js,0.70\\ndjango/contrib/admin/static/admin/js/vendor/jquery/jquery.min.js,0.69\\ndjango/contrib/admin/static/admin/js/vendor/select2/select2.full.min.js,0.68\\ndjango/contrib/admin/static/admin/js/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.de.min.js,0.67\\ndjango/contrib/admin/static/admin/js/vendor/select2/i18n/de.js,0.66', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 12.933,
+    "prompt_type": "role"
+}

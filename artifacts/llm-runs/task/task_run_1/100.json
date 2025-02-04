@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/24152",
+    "base": "b9af885473ad7e34b5b0826cb424dd26d8934670",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sympy/physics/quantum/qapply.py,0.95\\nsympy/physics/quantum/commutator.py,0.92\\nsympy/physics/quantum/operator.py,0.90\\nsympy/physics/quantum/qubit.py,0.88\\nsympy/physics/quantum/constants.py,0.85\\nsympy/physics/quantum/matrices.py,0.83\\nsympy/physics/quantum/operators.py,0.80\\nsympy/physics/quantum/operatordescription.py,0.78\\nsympy/physics/quantum/circuit.py,0.75\\nsympy/physics/quantum/qubitutils.py,0.72\\nsympy/physics/quantum/innerproduct.py,0.70\\nsympy/physics/quantum/qubitstates.py,0.68\\nsympy/physics/quantum/qubitoperators.py,0.65\\nsympy/physics/quantum/qubitstatesutils.py,0.63\\nsympy/physics/quantum/tensorproduct.py,0.60\\nsympy/physics/quantum/density.py,0.58\\nsympy/physics/quantum/gate.py,0.55\\nsympy/physics/quantum/boson.py,0.53\\nsympy/physics/quantum/fermion.py,0.51\\nsympy/physics/quantum/spin.py,0.49', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 66.836,
+    "prompt_type": "task"
+}

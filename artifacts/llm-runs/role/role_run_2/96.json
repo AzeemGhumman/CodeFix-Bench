@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/20212",
+    "base": "a106f4782a9dbe7f8fd16030f15401d977e03ae9",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sympy/core/power.py,1  \\nsympy/functions/special/bessel.py,0.95  \\nsympy/functions/elementary/exponential.py,0.94  \\nsympy/functions/special/zeta_functions.py,0.93  \\nsympy/functions/special/hyper.py,0.92  \\nsympy/functions/elementary/complexes.py,0.91  \\nsympy/functions/special/gamma_functions.py,0.90  \\nsympy/functions/elementary/hyperbolic.py,0.89  \\nsympy/functions/special/delta_functions.py,0.88  \\nsympy/functions/elementary/piecewise.py,0.87  \\nsympy/functions/elementary/miscellaneous.py,0.86  \\nsympy/functions/special/tensor_functions.py,0.85  \\nsympy/functions/combinatorial/numbers.py,0.84  \\nsympy/functions/combinatorial/factorials.py,0.83  \\nsympy/functions/elementary/integers.py,0.82  \\nsympy/simplify/simplify.py,0.81  \\nsympy/simplify/hyperexpand.py,0.80  \\nsympy/simplify/sqrtdenest.py,0.79  \\nsympy/simplify/trigsimp.py,0.78  \\nsympy/simplify/powsimp.py,0.77', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 59.407,
+    "prompt_type": "role"
+}

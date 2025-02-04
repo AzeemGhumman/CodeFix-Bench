@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/14954",
+    "base": "9be36f8044c3bdfe5d1819d4b3b62bee64a039e3",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/core/management/commands/createsuperuser.py,0.95\\ndjango/core/management/base.py,0.90\\ndjango/core/serializers/python.py,0.85\\ndjango/core/serializers/json.py,0.85\\ndjango/core/serializers/base.py,0.85\\ndjango/core/serializers/pyyaml.py,0.80\\ndjango/core/serializers/xml_serializer.py,0.80\\ndjango/core/management/commands/testserver.py,0.75\\ndjango/core/management/commands/makemigrations.py,0.75\\ndjango/core/management/commands/migrate.py,0.75\\ndjango/core/management/commands/check.py,0.70\\ndjango/core/management/commands/showmigrations.py,0.70\\ndjango/db/models/fields/related_lookups.py,0.65\\ndjango/db/models/fields/__init__.py,0.65\\ndjango/db/models/fields/reverse_related.py,0.60\\ndjango/db/models/fields/mixins.py,0.60\\ndjango/db/models/fields/related_descriptors.py,0.55\\ndjango/db/migrations/operations/fields.py,0.55\\ndjango/db/models/constraints.py,0.50\\ndjango/db/models/query.py,0.50', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 12.578,
+    "prompt_type": "role"
+}

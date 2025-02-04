@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/16450",
+    "base": "aefdd023dc4f73c441953ed51f5f05a076f0862f",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='[sympy/assumptions/ask.py, 0.95]\\n[sympy/assumptions/refine.py, 0.94]\\n[sympy/core/assumptions.py, 0.93]\\n[sympy/core/expr.py, 0.92]\\n[sympy/simplify/simplify.py, 0.91]\\n[sympy/simplify/traversaltools.py, 0.90]\\n[sympy/core/symbol.py, 0.89]\\n[sympy/assumptions/handlers/common.py, 0.88]\\n[sympy/core/numbers.py, 0.87]\\n[sympy/assumptions/handlers/calculus.py, 0.86]\\n[sympy/core/facts.py, 0.85]\\n[sympy/core/function.py, 0.84]\\n[sympy/assumptions/handlers/matrices.py, 0.83]\\n[sympy/assumptions/handlers/order.py, 0.82]\\n[sympy/assumptions/handlers/sets.py, 0.81]\\n[sympy/assumptions/handlers/ntheory.py, 0.80]\\n[sympy/core/singleton.py, 0.79]\\n[sympy/core/logic.py, 0.78]\\n[sympy/core/relational.py, 0.77]\\n[sympy/series/order.py, 0.76]', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 53.414,
+    "prompt_type": "role"
+}

@@ -1,0 +1,8 @@
+{
+    "pr": "scikit-learn/scikit-learn/12471",
+    "base": "02dc9ed680e7f53f1b0d410dcdd37341c7958eb1",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sklearn/preprocessing/_encoders.py,0.95  \\nsklearn/preprocessing/_encoders.py:_BaseEncoder._check_X,0.92  \\nsklearn/preprocessing/_encoders.py:_BaseEncoder._fit,0.91  \\nsklearn/preprocessing/_encoders.py:_BaseEncoder._transform,0.90  \\nsklearn/preprocessing/_encoders.py:OneHotEncoder.__init__,0.89  \\nsklearn/preprocessing/_encoders.py:OneHotEncoder.active_features_,0.88  \\nsklearn/preprocessing/_encoders.py:OneHotEncoder.feature_indices_,0.87  \\nsklearn/preprocessing/_encoders.py:OneHotEncoder.n_values_,0.86  \\nsklearn/preprocessing/_encoders.py:OneHotEncoder._handle_deprecations,0.85  \\nsklearn/preprocessing/_encoders.py:OneHotEncoder.fit,0.84  \\nsklearn/preprocessing/_encoders.py:OneHotEncoder._legacy_fit_transform,0.83  \\nsklearn/preprocessing/_encoders.py:OneHotEncoder.fit_transform,0.82  \\nsklearn/preprocessing/_encoders.py:OneHotEncoder._legacy_transform,0.81  \\nsklearn/preprocessing/_encoders.py:OneHotEncoder._transform_new,0.80  \\nsklearn/preprocessing/_encoders.py:OneHotEncoder.transform,0.79  \\nsklearn/preprocessing/_encoders.py:OneHotEncoder.inverse_transform,0.78  \\nsklearn/preprocessing/_encoders.py:OneHotEncoder.get_feature_names,0.77  \\nsklearn/preprocessing/_encoders.py:OrdinalEncoder.__init__,0.76  \\nsklearn/preprocessing/_encoders.py:OrdinalEncoder.transform,0.75  \\nsklearn/preprocessing/_encoders.py:OrdinalEncoder.inverse_transform,0.74', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 9.497,
+    "prompt_type": "task"
+}

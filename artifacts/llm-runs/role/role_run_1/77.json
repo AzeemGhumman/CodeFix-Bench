@@ -1,0 +1,8 @@
+{
+    "pr": "scikit-learn/scikit-learn/12626",
+    "base": "ac327c5ad66fa3d4eb607d007e3684dec872d49a",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sklearn/compose/_column_transformer.py,0.95  \\nsklearn/compose/_target.py,0.85  \\nsklearn/metrics/setup.py,0.80  \\nsklearn/metrics/ranking.py,0.75  \\nsklearn/metrics/classification.py,0.74  \\nsklearn/metrics/scorer.py,0.73  \\nsklearn/metrics/base.py,0.72  \\nsklearn/metrics/pairwise.py,0.71  \\nsklearn/pipeline.py,0.70  \\nsklearn/preprocessing/_encoders.py,0.69  \\nsklearn/preprocessing/_function_transformer.py,0.68  \\nsklearn/preprocessing/_discretization.py,0.67  \\nsklearn/__init__.py,0.66  \\nsklearn/setup.py,0.65  \\nbenchmarks/bench_plot_lasso_path.py,0.64  \\nbenchmarks/bench_plot_parallel_pairwise.py,0.63  \\nbenchmarks/bench_lasso.py,0.62  \\nbenchmarks/bench_plot_randomized_svd.py,0.61  \\nbenchmarks/bench_plot_incremental_pca.py,0.60  \\nbenchmarks/bench_mnist.py,0.59', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 7.616,
+    "prompt_type": "role"
+}

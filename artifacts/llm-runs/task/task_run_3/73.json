@@ -1,0 +1,8 @@
+{
+    "pr": "scikit-learn/scikit-learn/10306",
+    "base": "b90661d6a46aa3619d3eec94d5281f5888add501",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sklearn/neighbors/kde.py,0.95\\nsklearn/cluster/dbscan_.py,0.94\\nsklearn/cluster/birch.py,0.94\\nsklearn/dummy.py,0.93\\nsklearn/svm/base.py,0.92\\nsklearn/decomposition/fastica_.py,0.91\\nsklearn/cross_validation.py,0.90\\nsklearn/metrics/classification.py,0.90\\nsklearn/decomposition/gaussian_mixture.py,0.89\\nsklearn/metrics/regression.py,0.89\\nsklearn/metrics/clustering.py,0.88\\nsklearn/tree/tree.py,0.88\\nsklearn/metrics/__init__.py,0.87\\nsklearn/covariance/__init__.py,0.86\\nsklearn/linear_model/logistic.py,0.86\\nsklearn/ensemble/forest.py,0.85\\nsklearn/cluster/setup.py,0.84\\nsklearn/metrics/setup.py,0.84\\nsklearn/neural_network/multilayer_perceptron.py,0.83\\nsklearn/neighbors/graph.py,0.83\\nsklearn/linear_model/bayes.py,0.83', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 7.031,
+    "prompt_type": "task"
+}

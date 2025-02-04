@@ -1,0 +1,8 @@
+{
+    "pr": "sphinx-doc/sphinx/10320",
+    "base": "33610201dc7a69859b05381845ae1a11be8f9136",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sphinx/ext/napoleon/docstring.py,0.95  \\nsphinx/ext/autodoc/__init__.py,0.94  \\nsphinx/ext/autodoc/typehints.py,0.92  \\nsphinx/ext/autodoc/type_comment.py,0.91  \\nsphinx/ext/autodoc/directive.py,0.90  \\nsphinx/domains/python.py,0.88  \\nsphinx/environment/adapters/toctree.py,0.87  \\nsphinx/environment/__init__.py,0.86  \\nsphinx/ext/autodoc/preserve_defaults.py,0.85  \\nsphinx/domains/std.py,0.84  \\nsphinx/pycode/parser.py,0.83  \\nsphinx/util/docstrings.py,0.82  \\nsphinx/util/node.py,0.81  \\nsphinx/domains/__init__.py,0.80  \\nsphinx/domains/c.py,0.79  \\nsphinx/util/nodes.py,0.78  \\nsphinx/registry.py,0.77  \\nsphinx/domains/cpp.py,0.76  \\nsphinx/ext/autosummary/generate.py,0.75  \\nsphinx/ext/doctest.py,0.74', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 7.914,
+    "prompt_type": "role"
+}

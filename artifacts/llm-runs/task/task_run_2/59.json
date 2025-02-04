@@ -1,0 +1,8 @@
+{
+    "pr": "mwaskom/seaborn/2979",
+    "base": "ebc4bfe9f8bf5c4ff10b14da8a49c8baa1ba76d0",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='seaborn/_core/subplots.py,0.95  \\nseaborn/axisgrid.py,0.94  \\nseaborn/_core/plot.py,0.93  \\nseaborn/_core/groupby.py,0.92  \\nseaborn/_core/moves.py,0.91  \\nseaborn/_core/scales.py,0.90  \\nseaborn/_core/properties.py,0.89  \\nseaborn/_stats/histogram.py,0.88  \\nseaborn/regression.py,0.87  \\nseaborn/categorical.py,0.86  \\nseaborn/distributions.py,0.85  \\nseaborn/relational.py,0.84  \\nseaborn/_compat.py,0.83  \\nseaborn/_core/data.py,0.82  \\nseaborn/_core/rules.py,0.81  \\nseaborn/_core/scales.py,0.80  \\nseaborn/widgets.py,0.79  \\nseaborn/matplotlib.py,0.78  \\nseaborn/_statistics.py,0.77  \\nseaborn/external/kde.py,0.76', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 4.811,
+    "prompt_type": "task"
+}

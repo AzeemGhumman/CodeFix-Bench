@@ -1,0 +1,8 @@
+{
+    "pr": "scikit-learn/scikit-learn/10306",
+    "base": "b90661d6a46aa3619d3eec94d5281f5888add501",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sklearn/decomposition/fastica_.py,0.95  \\nsklearn/cluster/birch.py,0.94  \\nsklearn/metrics/ranking.py,0.75  \\nsklearn/metrics/classification.py,0.74  \\nsklearn/metrics/scorer.py,0.73  \\nsklearn/model_selection/_search.py,0.70  \\nsklearn/model_selection/_split.py,0.69  \\nsklearn/metrics/pairwise.py,0.68  \\nsklearn/metrics/regression.py,0.67  \\nsklearn/metrics/base.py,0.66  \\nsklearn/model_selection/_validation.py,0.65  \\nsklearn/metrics/cluster/supervised.py,0.64  \\nsklearn/metrics/cluster/unsupervised.py,0.63  \\nsklearn/metrics/cluster/bicluster.py,0.62  \\nsklearn/linear_model/logistic.py,0.61  \\nsklearn/neighbors/lof.py,0.60  \\nsklearn/neighbors/setup.py,0.59  \\nsklearn/neighbors/kde.py,0.58  \\nsklearn/neighbors/classification.py,0.57  \\nsklearn/neighbors/approximate.py,0.56', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 6.959,
+    "prompt_type": "task"
+}

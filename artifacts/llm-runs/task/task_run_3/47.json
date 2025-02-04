@@ -1,0 +1,8 @@
+{
+    "pr": "matplotlib/matplotlib/13989",
+    "base": "a3e2897bfaf9eaac1d6649da535c4e721c89fa69",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='lib/matplotlib/_pylab_helpers.py,0.95\\nlib/matplotlib/figure.py,0.94\\nlib/matplotlib/axes/_axes.py,0.93\\nlib/matplotlib/axes/_secondary_axes.py,0.92\\nlib/matplotlib/axes/_base.py,0.91\\nlib/matplotlib/artist.py,0.90\\nlib/matplotlib/_layoutbox.py,0.89\\nlib/matplotlib/legend.py,0.88\\nlib/matplotlib/transforms.py,0.87\\nlib/matplotlib/spines.py,0.86\\nlib/matplotlib/lines.py,0.85\\nlib/matplotlib/colors.py,0.84\\nlib/matplotlib/tight_layout.py,0.83\\nlib/matplotlib/axis.py,0.82\\nlib/matplotlib/units.py,0.81\\nlib/matplotlib/projections/polar.py,0.80\\nlib/matplotlib/projections/__init__.py,0.79\\nlib/matplotlib/projections/geo.py,0.78\\nlib/matplotlib/animation.py,0.77\\nlib/matplotlib/widgets.py,0.76', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 10.607,
+    "prompt_type": "task"
+}

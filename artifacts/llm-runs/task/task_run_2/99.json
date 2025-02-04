@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/22773",
+    "base": "96c9c40b2bd41105cf82440cc83c27f032ac5ffc",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sympy/physics/vector/printing.py,0.95  \\nsympy/physics/vector/operators.py,0.93  \\nsympy/physics/vector/frame.py,0.92  \\nsympy/physics/vector/point.py,0.91  \\nsympy/physics/vector/functions.py,0.90  \\nsympy/physics/vector/vector.py,0.89  \\nsympy/physics/vector/dyadic.py,0.88  \\nsympy/physics/vector/scalar.py,0.87  \\nsympy/physics/vector/integrals.py,0.86  \\nsympy/physics/vector/orthogonal_coordinates.py,0.85  \\nsympy/physics/vector/implicitregion.py,0.84  \\nsympy/physics/vector/basisdependent.py,0.83  \\nsympy/physics/vector/coordsysrect.py,0.82  \\nsympy/physics/vector/orienters.py,0.81  \\nsympy/physics/vector/operators.py,0.80  \\nsympy/physics/vector/dyadic.py,0.79  \\nsympy/physics/vector/functions.py,0.78  \\nsympy/physics/vector/operatorset.py,0.77  \\nsympy/physics/vector/sympystr.py,0.76  \\nsympy/physics/vector/readyprinted.py,0.75', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 64.102,
+    "prompt_type": "task"
+}

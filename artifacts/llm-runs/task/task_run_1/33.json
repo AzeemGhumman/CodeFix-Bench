@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/15204",
+    "base": "b0d16d0129b7cc5978a8d55d2331a34cb369e6c7",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/forms/fields.py,0.95\\ndjango/forms/boundfield.py,0.85\\ndjango/forms/models.py,0.82\\ndjango/forms/utils.py,0.80\\ndjango/forms/widgets.py,0.78\\ndjango/forms/renderers.py,0.75\\ndjango/forms/forms.py,0.73\\ndjango/forms/formsets.py,0.71\\ndjango/forms/validators.py,0.68\\ndjango/utils/duration.py,0.67\\ndjango/utils/formats.py,0.65\\ndjango/utils/html.py,0.63\\ndjango/utils/dateparse.py,0.62\\ndjango/utils/text.py,0.61\\ndjango/utils/dates.py,0.59\\ndjango/utils/numberformat.py,0.58\\ndjango/views/generic/edit.py,0.56\\ndjango/views/generic/detail.py,0.55\\ndjango/views/generic/list.py,0.54\\ndjango/views/generic/base.py,0.53', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 11.325,
+    "prompt_type": "task"
+}

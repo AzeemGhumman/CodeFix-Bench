@@ -1,0 +1,8 @@
+{
+    "pr": "pylint-dev/pylint/4812",
+    "base": "47b483ae037e35c25e84b5b697303f2dd79a0e4e",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='pylint/config/option_manager_mixin.py,0.95  \\npylint/config/find_default_config_files.py,0.85  \\npylint/config/man_help_formatter.py,0.80  \\npylint/config/option.py,0.75  \\npylint/config/options_provider_mixin.py,0.70  \\npylint/config/configuration_mixin.py,0.65  \\npylint/utils/file_state.py,0.60  \\npylint/utils/utils.py,0.55  \\npylint/reporters/text.py,0.50  \\npylint/reporters/base_reporter.py,0.45  \\npylint/reporters/multi_reporter.py,0.40  \\npylint/reporters/collecting_reporter.py,0.35  \\npylint/reporters/reports_handler_mix_in.py,0.30  \\npylint/reporters/json_reporter.py,0.25  \\npylint/reporters/ureports/text_writer.py,0.20  \\npylint/reporters/ureports/nodes.py,0.15  \\npylint/checkers/utils.py,0.10  \\npylint/checkers/base.py,0.05  \\npylint/checkers/stdlib.py,0.04  \\npylint/checkers/logging.py,0.03', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 5.42,
+    "prompt_type": "task"
+}

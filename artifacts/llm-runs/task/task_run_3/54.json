@@ -1,0 +1,8 @@
+{
+    "pr": "matplotlib/matplotlib/25515",
+    "base": "3218d1f9d3242d29e7d789fd4d27bffcc7da64a4",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sphinxext/plot_directive.py,0.9  \\nsphinxext/mathmpl.py,0.85  \\nlib/matplotlib/projections/polar.py,0.8  \\nlib/matplotlib/projections/__init__.py,0.75  \\nlib/matplotlib/backends/backend_webagg.py,0.7  \\nlib/matplotlib/backends/_backend_webagg_core.py,0.65  \\nlib/matplotlib/backends/backend_svg.py,0.6  \\nlib/matplotlib/backends/backend_agg.py,0.55  \\nlib/matplotlib/backends/backend_pdf.py,0.5  \\nlib/matplotlib/backends/backend_nbagg.py,0.45  \\nlib/matplotlib/backends/backend_pgf.py,0.4  \\nlib/matplotlib/backends/backend_tkagg.py,0.35  \\nlib/matplotlib/backends/backend_qt5.py,0.3  \\nlib/matplotlib/backends/backend_gtk3.py,0.25  \\nlib/matplotlib/backends/backend_wx.py,0.2  \\nlib/matplotlib/_tri/_tripcolor.py,0.15  \\nlib/matplotlib/_tri/_trirefine.py,0.1  \\nlib/matplotlib/backends/backend_qtagg.py,0.05  \\nlib/matplotlib/projections/geo.py,0.0  \\nlib/matplotlib/projections/polar.py,0.0', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 10.947,
+    "prompt_type": "task"
+}

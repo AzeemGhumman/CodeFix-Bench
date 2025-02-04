@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/13212",
+    "base": "f4e93919e4608cfc50849a1f764fd856e0917401",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/core/validators.py,0.95\\ndjango/forms/boundfield.py,0.92\\ndjango/forms/forms.py,0.90\\ndjango/forms/models.py,0.88\\ndjango/forms/widgets.py,0.87\\ndjango/forms/renderers.py,0.85\\ndjango/forms/utils.py,0.84\\ndjango/forms/formsets.py,0.83\\ndjango/core/exceptions.py,0.82\\ndjango/core/mail/message.py,0.80\\ndjango/core/handlers/wsgi.py,0.79\\ndjango/core/mail/backends/base.py,0.78\\ndjango/core/mail/backends/locmem.py,0.77\\ndjango/core/mail/backends/smtp.py,0.76\\ndjango/core/mail/backends/console.py,0.75\\ndjango/core/mail/backends/dummy.py,0.74\\ndjango/core/mail/backends/filebased.py,0.73\\ndjango/views/debug.py,0.72\\ndjango/core/management/commands/testserver.py,0.71\\ndjango/core/files/uploadhandler.py,0.70', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 11.376,
+    "prompt_type": "task"
+}

@@ -1,0 +1,8 @@
+{
+    "pr": "matplotlib/matplotlib/23049",
+    "base": "17a7aca12399311f6252c55db0ece3694c5758b2",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='lib/matplotlib/axes/_axes.py,0.95\\nlib/matplotlib/axis.py,0.94\\nlib/matplotlib/axes/_base.py,0.93\\nlib/matplotlib/_api/__init__.py,0.90\\nlib/matplotlib/ticker.py,0.89\\nlib/matplotlib/texmanager.py,0.88\\nlib/matplotlib/text.py,0.87\\nlib/matplotlib/projections/polar.py,0.85\\nlib/matplotlib/projections/__init__.py,0.84\\nlib/matplotlib/_internal_utils.py,0.83\\nlib/matplotlib/_type1font.py,0.82\\nlib/matplotlib/_docstring.py,0.81\\nlib/matplotlib/backends/backend_webagg.py,0.80\\nlib/matplotlib/backends/backend_webagg_core.py,0.79\\nlib/matplotlib/backends/backend_template.py,0.78\\nlib/matplotlib/backends/backend_agg.py,0.77\\nlib/matplotlib/backends/backend_pdf.py,0.76\\nlib/matplotlib/backends/backend_svg.py,0.75\\nlib/matplotlib/backends/backend_nbagg.py,0.74\\nlib/matplotlib/backends/backend_ps.py,0.73', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 10.718,
+    "prompt_type": "role"
+}

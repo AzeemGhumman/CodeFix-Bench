@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/11997",
+    "base": "17752003a8c115ff79f5f21655f5e9b8b2af67f4",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/template/defaultfilters.py,floatformat,0.95  \\ndjango/utils/numberformat.py,format,0.85  \\ndjango/db/backends/sqlite3/operations.py,DatabaseOperations.adapt_datetimefield_value,0.80  \\ndjango/urls/base.py,resolve,0.75  \\ndjango/template/context_processors.py,csrf,0.70  \\ndjango/contrib/redirects/middleware.py,RedirectFallbackMiddleware,0.65  \\ndjango/core/servers/basehttp.py,WSGIServer.handle_error,0.60  \\ndjango/contrib/staticfiles/views.py,serve,0.55  \\ndjango/core/checks/security/sessions.py,check_session_cookie_secure,0.50  \\ndjango/db/migrations/operations/fields.py,AlterField.database_forwards,0.45  \\ndjango/contrib/admin/views/main.py,ChangeList.get_ordering,0.40  \\ndjango/contrib/staticfiles/management/commands/collectstatic.py,Command.collect,0.35  \\ndjango/db/models/manager.py,BaseManager.get_queryset,0.30  \\ndjango/db/migrations/operations/utils.py,is_referenced_by_foreign_key,0.25  \\ndjango/contrib/contenttypes/models.py,ContentTypeManager.get_for_model,0.20  \\ndjango/forms/forms.py,BaseForm.__init__,0.15  \\ndjango/contrib/admin/templatetags/admin_list.py,result_list,0.10  \\ndjango/views/generic/edit.py,FormMixin.get_initial,0.05  \\ndjango/contrib/auth/backends.py,BaseBackend.get_user,0.00  \\ndjango/contrib/postgres/fields/array.py,ArrayField.deconstruct,-0.05', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 13.29,
+    "prompt_type": "task"
+}

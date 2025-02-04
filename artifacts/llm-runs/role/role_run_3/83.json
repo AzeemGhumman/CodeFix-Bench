@@ -1,0 +1,8 @@
+{
+    "pr": "sphinx-doc/sphinx/10325",
+    "base": "7bdc11e87c7d86dcc2a087eccb7a7c129a473415",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sphinx/ext/autosummary/__init__.py,0.95\\nsphinx/ext/autosummary/generate.py,0.94\\nsphinx/ext/autodoc/__init__.py,0.93\\nsphinx/ext/autodoc/mock.py,0.92\\nsphinx/ext/autodoc/directive.py,0.91\\nsphinx/domains/__init__.py,0.90\\nsphinx/domains/python.py,0.89\\nsphinx/domains/c.py,0.88\\nsphinx/domains/cpp.py,0.87\\nsphinx/domains/javascript.py,0.86\\nsphinx/domains/math.py,0.85\\nsphinx/domains/std.py,0.84\\nsphinx/domains/changeset.py,0.83\\nsphinx/domains/index.py,0.82\\nsphinx/domains/citation.py,0.81\\nsphinx/pycode/__init__.py,0.80\\nsphinx/pycode/parser.py,0.79\\nsphinx/pycode/ast.py,0.78\\nsphinx/util/inspect.py,0.77\\nsphinx/util/compat.py,0.76', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 7.842,
+    "prompt_type": "role"
+}

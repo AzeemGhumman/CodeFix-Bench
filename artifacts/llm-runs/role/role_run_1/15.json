@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/12458",
+    "base": "590957a0eb9a87a6f2bd3463226b0a7f1405d817",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/core/serializers/base.py,0.98  \\ndjango/core/serializers/__init__.py,0.97  \\ndjango/core/serializers/python.py,0.96  \\ndjango/core/serializers/json.py,0.95  \\ndjango/core/serializers/xml_serializer.py,0.94  \\ndjango/core/management/commands/dumpdata.py,0.93  \\ndjango/core/serializers/pyyaml.py,0.92  \\ndjango/core/serializers/__init__.py,sort_dependencies,0.91  \\ndjango/core/management/commands/inspectdb.py,table2model,0.90  \\ndjango/core/management/base.py,BaseCommand.handle,0.89  \\ndjango/core/management/commands/makemigrations.py,write_migration_files,0.88  \\ndjango/core/management/commands/migrate.py,sync_apps,0.87  \\ndjango/core/management/commands/test.py,Command.run_from_argv,0.86  \\ndjango/core/serializers/base.py,DeserializationError.WithData,0.85  \\ndjango/core/serializers/base.py,build_instance,0.84  \\ndjango/core/management/commands/startapp.py,Command.handle,0.83  \\ndjango/core/serializers/xml_serializer.py,Deserializer._get_model_from_node,0.82  \\ndjango/core/management/commands/testserver.py,Command.handle,0.81  \\ndjango/core/serializers/pyyaml.py,Deserializer,0.80  \\ndjango/core/serializers/pyyaml.py,Ser', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 12.843,
+    "prompt_type": "role"
+}

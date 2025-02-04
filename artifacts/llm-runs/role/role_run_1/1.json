@@ -1,0 +1,8 @@
+{
+    "pr": "astropy/astropy/13453",
+    "base": "19cc80471739bcb67b7e8099246b391c355023ee",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='html.py,0.95  \\nconnect.py,0.90  \\nui.py,0.85  \\ncore.py,0.80  \\nrow.py,0.75  \\njsviewer.py,0.70  \\nserialize.py,0.65  \\nsetup_package.py,0.60  \\npprint.py,0.55  \\noperations.py,0.50  \\nmeta.py,0.45  \\nindex.py,0.40  \\ngroups.py,0.35  \\nsorted_array.py,0.30  \\nbs.py,0.25  \\nsoco.py,0.20  \\nmeta.py,0.15  \\ninfo.py,0.10  \\ntable_helpers.py,0.05  \\nnstdata.py,0.01', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 3.949,
+    "prompt_type": "role"
+}

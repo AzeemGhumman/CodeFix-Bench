@@ -1,0 +1,8 @@
+{
+    "pr": "scikit-learn/scikit-learn/12626",
+    "base": "ac327c5ad66fa3d4eb607d007e3684dec872d49a",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sklearn/compose/_column_transformer.py,1.0\\nsklearn/compose/_target.py,0.9\\nsklearn/metrics/scorer.py,0.9\\nsklearn/metrics/classification.py,0.9\\nsklearn/metrics/ranking.py,0.8\\nsklearn/metrics/base.py,0.8\\nsklearn/model_selection/_validation.py,0.8\\nsklearn/model_selection/_search.py,0.8\\nsklearn/model_selection/_split.py,0.8\\nsklearn/neighbors/classification.py,0.7\\nsklearn/neighbors/base.py,0.7\\nsklearn/neighbors/graph.py,0.7\\nsklearn/neighbors/kde.py,0.7\\nsklearn/neighbors/lof.py,0.7\\nsklearn/neighbors/unsupervised.py,0.7\\nsklearn/cluster/spectral.py,0.6\\nsklearn/cluster/_feature_agglomeration.py,0.6\\nsklearn/cluster/mean_shift_.py,0.6\\nsklearn/cluster/optics_.py,0.6\\nsklearn/dummy.py,0.6', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 7.226,
+    "prompt_type": "task"
+}

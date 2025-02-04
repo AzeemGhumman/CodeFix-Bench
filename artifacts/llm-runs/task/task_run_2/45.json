@@ -1,0 +1,8 @@
+{
+    "pr": "django/django/5470",
+    "base": "9dcfecb7c6c8285630ad271888a9ec4ba9140e3a",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='django/core/management/__init__.py,0.95  \\ndjango/core/urlresolvers.py,0.92  \\ndjango/core/management/commands/dumpdata.py,0.88  \\ndjango/core/management/commands/runserver.py,0.87  \\ndjango/core/management/commands/check.py,0.85  \\ndjango/core/management/commands/migrate.py,0.84  \\ndjango/core/management/commands/startapp.py,0.83  \\ndjango/core/management/commands/startproject.py,0.82  \\ndjango/core/management/commands/testserver.py,0.81  \\ndjango/core/management/commands/dbshell.py,0.80  \\ndjango/core/management/commands/sendtestemail.py,0.79  \\ndjango/core/management/commands/flush.py,0.78  \\ndjango/core/management/commands/sqlflush.py,0.77  \\ndjango/core/management/commands/sqlmigrate.py,0.76  \\ndjango/core/commands/__init__.py,0.75  \\ndjango/core/mail/__init__.py,0.74  \\ndjango/core/cache/utils.py,0.73  \\ndjango/core/cache/__init__.py,0.72  \\ndjango/core/cache/backends/dummy.py,0.71  \\ndjango/core/cache/backends/db.py,0.70', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 10.971,
+    "prompt_type": "task"
+}

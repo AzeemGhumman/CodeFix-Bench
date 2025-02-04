@@ -1,0 +1,8 @@
+{
+    "pr": "matplotlib/matplotlib/25712",
+    "base": "690884facc1e80b40640649f2a64ceab67afb42e",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='lib/matplotlib/axes/_axes.py,0.95  \\nlib/matplotlib/axes/_secondary_axes.py,0.88  \\nlib/matplotlib/lines.py,0.82  \\nlib/matplotlib/backends/backend_template.py,0.78  \\nlib/matplotlib/backends/_backend_tk.py,0.75  \\nlib/matplotlib/backends/_backend_gtk.py,0.73  \\nlib/matplotlib/backends/backend_svg.py,0.71  \\nlib/matplotlib/backends/backend_qt.py,0.70  \\nlib/matplotlib/backends/backend_webagg_core.py,0.69  \\nlib/matplotlib/backends/backend_webagg.py,0.68  \\nlib/matplotlib/backends/backend_nbagg.py,0.67  \\nlib/matplotlib/backends/backend_wx.py,0.66  \\nlib/matplotlib/backends/backend_gtk3.py,0.65  \\nlib/matplotlib/backends/backend_tkagg.py,0.64  \\nlib/matplotlib/backends/backend_qtagg.py,0.63  \\nlib/matplotlib/backends/backend_qt5.py,0.62  \\nlib/matplotlib/backends/backend_tkcairo.py,0.61  \\nlib/matplotlib/backends/backend_gtk4.py,0.60  \\nlib/matplotlib/backends/backend_wxcairo.py,0.59  \\nlib/matplotlib/backends/backend_mixed.py,0.58', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 11.395,
+    "prompt_type": "task"
+}

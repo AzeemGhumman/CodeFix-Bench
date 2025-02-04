@@ -1,0 +1,8 @@
+{
+    "pr": "sympy/sympy/14296",
+    "base": "82bf1d76747b3d309fba5079a16a4e3183fc21fd",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='algebraicfield.py,0.82  \\npolys/field.py,0.75  \\nutil.py,0.72  \\nrubi.py,0.70  \\nrubi/rules/sine.py,0.68  \\nrubi/rules/exponential.py,0.67  \\nrubi/rules/hyperbolic.py,0.66  \\nrubi/rules/trinomial_products.py,0.65  \\nnumeric.py,0.64  \\ntests/groundtypes.py,0.63  \\nspecial/piecewise.py,0.63  \\nfunctions.py,0.62  \\nrubi/rules/test_util.py,0.62  \\nrubi/rules/binomial_products.py,0.61  \\ncore/exprtools.py,0.61  \\nrubi/rules/linear_products.py,0.60  \\nrubi/rules/tangent.py,0.60  \\nrubi/rules/piecewise_linear.py,0.60  \\nelementary/benchmarks/bench_exp.py,0.59  \\nrubi/rules/inverse_hyperbolic.py,0.59', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 25.075,
+    "prompt_type": "role"
+}

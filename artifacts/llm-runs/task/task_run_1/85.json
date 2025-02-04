@@ -1,0 +1,8 @@
+{
+    "pr": "sphinx-doc/sphinx/8620",
+    "base": "21698c14461d27933864d73e6fba568a154e83b3",
+    "section": 0,
+    "results": "ChatCompletionMessage(content='sphinx/roles.py,XRefRole.run,0.95  \\nsphinx/directives/__init__.py,ObjectDescription.run,0.92  \\nsphinx/environment/adapters/toctree.py,TocTree.resolve,0.88  \\nsphinx/builders/html/transforms.py,KeyboardTransform.run,0.85  \\nsphinx/builders/html/__init__.py,StandaloneHTMLBuilder.finish,0.83  \\nsphinx/writers/html.py,HTMLTranslator.visit_desc_signature,0.80  \\nsphinx/writers/html5.py,HTML5Translator.visit_desc_signature,0.78  \\nsphinx/domains/python.py,PyModulelevel.run,0.76  \\nsphinx/util/nodes.py,apply_source_workaround,0.74  \\nsphinx/ext/autodoc/__init__.py,Documenter.format_signature,0.72  \\nsphinx/domains/cpp.py,CPPDomain.resolve_xref,0.70  \\nsphinx/templates/pseudo_html/roots.js_t,0.68  \\nsphinx/domains/__init__.py,Domain.resolve_xref,0.67  \\nsphinx/builders/epub3.py,Epub3Builder.handle_finish,0.65  \\nsphinx/environment/__init__.py,BuildEnvironment.apply_post_transforms,0.63  \\nsphinx/builders/latex/util.py,ExtBabel.is_supported_language,0.62  \\nsphinx/environment/adapters/asset.py,ImageAdapter.get_original_image_uri,0.61  \\nsphinx/builders/pdf/__init__.py,LatexBuilder.write_stylesheet,0.60  \\nsphinx/builders/dirhtml.py,DirectoryHTMLBuilder.get_target_uri,0.59  \\nsphinx/util/logging.py,MemoryHandler.flushTo,0.58', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None)",
+    "query_time": 9.662,
+    "prompt_type": "task"
+}
